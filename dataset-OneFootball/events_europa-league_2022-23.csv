@@ -1,0 +1,2277 @@
+event_id,match_id,team,event_team,event_time,event_type,action_player_1,action_player_2
+1,1,Roma,Away,34,substitution,Nicola Zalewski,Leonardo Spinazzola
+2,1,Roma,Home,48,yellow-card,Piero Hincapié,
+3,1,Roma,Away,45,substitution,Georginio Wijnaldum,Andrea Belotti
+4,1,Roma,Home,56,yellow-card,Exequiel Palacios,
+5,1,Roma,Away,70,yellow-card,Roger Ibañez,
+6,1,Roma,Home,70,yellow-card,Mitchel Bakker,
+7,1,Roma,Home,73,substitution,Amine Adli,Mitchel Bakker
+8,1,Roma,Away,78,substitution,Chris Smalling,Zeki Çelik
+9,1,Roma,Home,80,substitution,Adam Hložek,Exequiel Palacios
+10,1,Roma,Home,86,substitution,Nadiem Amiri,Jonathan Tah
+11,1,Roma,Away,89,yellow-card,Bryan Cristante,
+12,1,Roma,Home,90,yellow-card,Moussa Diaby,
+13,1,Roma,Home,97,yellow-card,Edmond Tapsoba,
+14,1,Roma,Away,99,yellow-card,Tammy Abraham,
+15,1,Roma,Home,100,yellow-card,Jeremie Frimpong,
+16,2,Juventus,Away,11,yellow-card,Moise Kean,
+17,2,Juventus,Away,41,substitution,Leandro Paredes,Nicolò Fagioli
+18,2,Juventus,Home,57,yellow-card,Marcos Acuña,
+19,2,Juventus,Home,62,substitution,Suso,Oliver Torres
+20,2,Juventus,Away,64,substitution,Federico Chiesa,Ángel Di María
+21,2,Juventus,Away,64,substitution,Dušan Vlahović,Moise Kean
+22,2,Juventus,Away,65,goal,Dušan Vlahović,Goal
+23,2,Juventus,Home,70,substitution,Erik Lamela,Lucas Ocampos
+24,2,Juventus,Home,71,goal,Suso,Erik Lamela
+25,2,Juventus,Away,86,substitution,Filip Kostić,Samuel Iling-Junior
+26,2,Juventus,Away,86,substitution,Fabio Miretti,Manuel Locatelli
+27,2,Juventus,Home,95,goal,Erik Lamela,Bryan Gil
+28,2,Juventus,Home,100,substitution,Gonzalo Montiel,Bryan Gil
+29,2,Juventus,Away,105,yellow-card,Danilo,
+30,2,Juventus,Home,105,substitution,Papu Gómez,Jesus Navas
+31,2,Juventus,Away,105,substitution,Arek Milik,Juan Cuadrado
+32,2,Juventus,Home,115,yellow-card,Marcos Acuña,
+33,2,Juventus,Home,117,yellow-card,Suso,
+34,2,Juventus,Away,117,yellow-card,Leandro Paredes,
+35,2,Juventus,Home,118,substitution,Karim Rekik,Suso
+36,2,Juventus,Home,124,yellow-card,Gonzalo Montiel,
+37,3,Bayer Leverkusen,Away,36,substitution,Mitchel Bakker,Odilon Kossounou
+38,3,Bayer Leverkusen,Away,50,yellow-card,Robert Andrich,
+39,3,Bayer Leverkusen,Away,57,yellow-card,Moussa Diaby,
+40,3,Bayer Leverkusen,Away,57,yellow-card,Jonathan Tah,
+41,3,Bayer Leverkusen,Home,58,yellow-card,Gianluca Mancini,
+42,3,Bayer Leverkusen,Home,63,goal,Edoardo Bove,Goal
+43,3,Bayer Leverkusen,Away,72,substitution,Sardar Azmoun,Adam Hložek
+44,3,Bayer Leverkusen,Away,72,substitution,Amine Adli,Moussa Diaby
+45,3,Bayer Leverkusen,Home,76,substitution,Georginio Wijnaldum,Edoardo Bove
+46,3,Bayer Leverkusen,Home,76,yellow-card,Tammy Abraham,
+47,3,Bayer Leverkusen,Home,77,substitution,Paulo Dybala,Andrea Belotti
+48,3,Bayer Leverkusen,Home,89,yellow-card,Roger Ibañez,
+49,3,Bayer Leverkusen,Away,92,substitution,Nadiem Amiri,Robert Andrich
+50,3,Bayer Leverkusen,Home,93,yellow-card,Leonardo Spinazzola,
+51,4,Sevilla,Away,26,goal,Youssef En-Nesyri,Lucas Ocampos
+52,4,Sevilla,Away,34,substitution,Gonzalo Montiel,Lucas Ocampos
+53,4,Sevilla,Home,43,yellow-card,Adrien Rabiot,
+54,4,Sevilla,Home,45,substitution,Federico Chiesa,Fabio Miretti
+55,4,Sevilla,Home,45,substitution,Samuel Iling-Junior,Filip Kostić
+56,4,Sevilla,Home,61,substitution,Federico Gatti,Leonardo Bonucci
+57,4,Sevilla,Home,61,substitution,Arek Milik,Dušan Vlahović
+58,4,Sevilla,Home,70,substitution,Paul Pogba,Ángel Di María
+59,4,Sevilla,Away,72,yellow-card,Ivan Rakitic,
+60,4,Sevilla,Away,74,substitution,Papu Gómez,Oliver Torres
+61,4,Sevilla,Home,77,yellow-card,Manuel Locatelli,
+62,4,Sevilla,Away,78,yellow-card,Bryan Gil,
+63,4,Sevilla,Home,79,yellow-card,Federico Chiesa,
+64,4,Sevilla,Away,82,substitution,Erik Lamela,Bryan Gil
+65,4,Sevilla,Away,82,yellow-card,Loïc Badé,
+66,4,Sevilla,Away,93,yellow-card,Erik Lamela,
+67,4,Sevilla,Home,97,goal,Federico Gatti,Paul Pogba
+68,5,Bayer Leverkusen,Away,2,goal,Moussa Diaby,Goal
+69,5,Bayer Leverkusen,Home,32,substitution,Simon Adingra,Yorbe Vertessen
+70,5,Bayer Leverkusen,Away,37,goal,Mitchel Bakker,Adam Hložek
+71,5,Bayer Leverkusen,Home,45,substitution,Casper Terho,Ismaël Kandouss
+72,5,Bayer Leverkusen,Away,59,substitution,Kerem Demirbay,Nadiem Amiri
+73,5,Bayer Leverkusen,Away,59,substitution,Odilon Kossounou,Edmond Tapsoba
+74,5,Bayer Leverkusen,Away,60,goal,Jeremie Frimpong,Mitchel Bakker
+75,5,Bayer Leverkusen,Home,64,goal,Casper Terho,Loïc Lapoussin
+76,5,Bayer Leverkusen,Away,71,substitution,Amine Adli,Jeremie Frimpong
+77,5,Bayer Leverkusen,Home,75,yellow-card,Teddy Teuma,
+78,5,Bayer Leverkusen,Away,79,goal,Adam Hložek,Goal
+79,5,Bayer Leverkusen,Home,81,substitution,Cameron Puertas,Lazare Amani
+80,5,Bayer Leverkusen,Home,81,substitution,Gustaf Nilsson,Victor Boniface
+81,5,Bayer Leverkusen,Away,86,substitution,Sardar Azmoun,Adam Hložek
+82,5,Bayer Leverkusen,Away,86,substitution,Karim Bellarabi,Moussa Diaby
+83,5,Bayer Leverkusen,Home,87,substitution,Oussama El Azzouzi,Teddy Teuma
+84,6,Juventus,Away,9,goal,Adrien Rabiot,Alex Sandro
+85,6,Juventus,Home,20,penalty,Marcus Edwards,Penalty
+86,6,Juventus,Home,24,yellow-card,Manuel Ugarte,
+87,6,Juventus,Away,71,substitution,Arek Milik,Dušan Vlahović
+88,6,Juventus,Away,72,substitution,Paul Pogba,Fabio Miretti
+89,6,Juventus,Away,73,substitution,Federico Gatti,Bremer
+90,6,Juventus,Away,78,substitution,Filip Kostić,Federico Chiesa
+91,6,Juventus,Home,81,substitution,Matheus Reis,Gonçalo Inácio
+92,6,Juventus,Home,81,substitution,Youssef Chermiti,Trincão
+93,6,Juventus,Away,83,yellow-card,Federico Gatti,
+94,6,Juventus,Home,87,substitution,Arthur Gomes,Nuno Santos
+95,6,Juventus,Away,89,yellow-card,Paul Pogba,
+96,6,Juventus,Home,93,yellow-card,Marcus Edwards,
+97,7,Manchester United,Home,8,goal,Youssef En-Nesyri,Erik Lamela
+98,7,Manchester United,Home,29,substitution,Suso,Marcão
+99,7,Manchester United,Home,41,goal,Lucas Ocampos,Disallowed goal
+100,7,Manchester United,Away,45,substitution,Marcus Rashford,Jadon Sancho
+101,7,Manchester United,Away,45,substitution,Luke Shaw,Aaron Wan-Bissaka
+102,7,Manchester United,Home,47,goal,Loïc Badé,Ivan Rakitic
+103,7,Manchester United,Away,54,substitution,Wout Weghorst,Anthony Martial
+104,7,Manchester United,Away,56,yellow-card,Casemiro,
+105,7,Manchester United,Away,59,yellow-card,Antony,
+106,7,Manchester United,Away,68,substitution,Fred,Marcel Sabitzer
+107,7,Manchester United,Home,73,yellow-card,Bono,
+108,7,Manchester United,Home,80,substitution,Bryan Gil,Erik Lamela
+109,7,Manchester United,Home,81,goal,Youssef En-Nesyri,Goal
+110,7,Manchester United,Home,85,substitution,Alex Telles,Marcos Acuña
+111,7,Manchester United,Away,86,substitution,Anthony Elanga,Christian Eriksen
+112,7,Manchester United,Away,93,yellow-card,Luke Shaw,
+113,8,Feyenoord,Away,12,yellow-card,Quilindschy Hartman,
+114,8,Feyenoord,Away,18,yellow-card,Mats Wieffer,
+115,8,Feyenoord,Home,21,substitution,Stephan El Shaarawy,Georginio Wijnaldum
+116,8,Feyenoord,Home,34,yellow-card,Diego Llorente,
+117,8,Feyenoord,Away,34,yellow-card,Timon Wellenreuther,
+118,8,Feyenoord,Away,39,yellow-card,Santiago Giménez,
+119,8,Feyenoord,Home,60,goal,Leonardo Spinazzola,Bryan Cristante
+120,8,Feyenoord,Away,64,substitution,Igor Paixão,Oussama Idrissi
+121,8,Feyenoord,Home,72,substitution,Roger Ibañez,Diego Llorente
+122,8,Feyenoord,Home,73,substitution,Tammy Abraham,Andrea Belotti
+123,8,Feyenoord,Home,73,substitution,Paulo Dybala,Nicola Zalewski
+124,8,Feyenoord,Away,74,substitution,Danilo,Alireza Jahanbakhsh
+125,8,Feyenoord,Home,78,substitution,Zeki Çelik,Chris Smalling
+126,8,Feyenoord,Away,80,goal,Igor Paixão,Sebastian Szymański
+127,8,Feyenoord,Home,89,goal,Paulo Dybala,Lorenzo Pellegrini
+128,8,Feyenoord,Away,90,substitution,Marcus Pedersen,Sebastian Szymański
+129,8,Feyenoord,Home,101,goal,Stephan El Shaarawy,Tammy Abraham
+130,8,Feyenoord,Away,105,substitution,Javairô Dilrosun,Mats Wieffer
+131,8,Feyenoord,Away,105,substitution,Marcos López,Quilindschy Hartman
+132,8,Feyenoord,Home,105,substitution,Marash Kumbulla,Stephan El Shaarawy
+133,8,Feyenoord,Away,105,substitution,Ezequiel Bullaude,Gernot Trauner
+134,8,Feyenoord,Home,108,yellow-card,Paulo Dybala,
+135,8,Feyenoord,Home,109,goal,Lorenzo Pellegrini,Goal
+136,8,Feyenoord,Home,111,yellow-card,Tammy Abraham,
+137,8,Feyenoord,Home,118,yellow-card,Rui Patrício,
+138,8,Feyenoord,Away,120,red-card,Santiago Giménez,
+139,9,Sevilla,Away,11,yellow-card,Gonzalo Montiel,
+140,9,Sevilla,Home,14,goal,Marcel Sabitzer,Bruno Fernandes
+141,9,Sevilla,Home,21,goal,Marcel Sabitzer,Anthony Martial
+142,9,Sevilla,Away,25,yellow-card,Ivan Rakitic,
+143,9,Sevilla,Away,38,yellow-card,Erik Lamela,
+144,9,Sevilla,Home,41,yellow-card,Bruno Fernandes,
+145,9,Sevilla,Away,45,substitution,Jesus Navas,Oliver Torres
+146,9,Sevilla,Home,45,substitution,Harry Maguire,Raphaël Varane
+147,9,Sevilla,Away,58,yellow-card,Nemanja Gudelj,
+148,9,Sevilla,Home,62,substitution,Christian Eriksen,Bruno Fernandes
+149,9,Sevilla,Home,62,substitution,Wout Weghorst,Anthony Martial
+150,9,Sevilla,Home,62,substitution,Anthony Elanga,Jadon Sancho
+151,9,Sevilla,Home,65,yellow-card,Antony,
+152,9,Sevilla,Away,66,substitution,Youssef En-Nesyri,Erik Lamela
+153,9,Sevilla,Away,72,yellow-card,Marcos Acuña,
+154,9,Sevilla,Away,73,substitution,Suso,Tanguy Nianzou
+155,9,Sevilla,Home,81,substitution,Facundo Pellistri,Antony
+156,9,Sevilla,Away,84,goal,Tyrell Malacia,Own goal
+157,9,Sevilla,Home,89,yellow-card,Facundo Pellistri,
+158,9,Sevilla,Away,90,substitution,Papu Gómez,Gonzalo Montiel
+159,9,Sevilla,Away,92,goal,Harry Maguire,Own goal
+160,10,Sporting CP,Away,20,yellow-card,Gonçalo Inácio,
+161,10,Sporting CP,Home,24,yellow-card,Adrien Rabiot,
+162,10,Sporting CP,Home,44,substitution,Mattia Perin,Wojciech Szczęsny
+163,10,Sporting CP,Away,49,substitution,Ousmane Diomande,Jerry St. Juste
+164,10,Sporting CP,Away,62,substitution,Arthur Gomes,Youssef Chermiti
+165,10,Sporting CP,Home,62,substitution,Dušan Vlahović,Arek Milik
+166,10,Sporting CP,Away,62,substitution,Matheus Reis,Nuno Santos
+167,10,Sporting CP,Home,62,substitution,Nicolò Fagioli,Filip Kostić
+168,10,Sporting CP,Home,66,yellow-card,Dušan Vlahović,
+169,10,Sporting CP,Home,73,goal,Federico Gatti,Goal
+170,10,Sporting CP,Away,77,substitution,Dário Essugo,Marcus Edwards
+171,10,Sporting CP,Away,77,substitution,Hector Bellerin,Ricardo Esgaio
+172,10,Sporting CP,Home,85,substitution,Paul Pogba,Ángel Di María
+173,10,Sporting CP,Home,85,substitution,Leandro Paredes,Manuel Locatelli
+174,11,R. Union SG,Away,25,yellow-card,Siebe Van der Heyden,
+175,11,R. Union SG,Home,45,substitution,Kerem Demirbay,Exequiel Palacios
+176,11,R. Union SG,Away,51,goal,Victor Boniface,Teddy Teuma
+177,11,R. Union SG,Home,67,substitution,Sardar Azmoun,Amine Adli
+178,11,R. Union SG,Away,75,substitution,Cameron Puertas,Yorbe Vertessen
+179,11,R. Union SG,Home,76,yellow-card,Piero Hincapié,
+180,11,R. Union SG,Away,80,substitution,Oussama El Azzouzi,Senne Lynen
+181,11,R. Union SG,Home,82,goal,Florian Wirtz,Sardar Azmoun
+182,11,R. Union SG,Away,84,yellow-card,Loïc Lapoussin,
+183,11,R. Union SG,Home,87,substitution,Adam Hložek,Moussa Diaby
+184,11,R. Union SG,Away,89,substitution,Gustaf Nilsson,Victor Boniface
+185,11,R. Union SG,Away,93,yellow-card,Anthony Moris,
+186,12,Roma,Home,18,yellow-card,Mats Wieffer,
+187,12,Roma,Away,26,substitution,Stephan El Shaarawy,Paulo Dybala
+188,12,Roma,Home,35,yellow-card,Sebastian Szymański,
+189,12,Roma,Away,43,penalty,Lorenzo Pellegrini,Missed penalty
+190,12,Roma,Away,45,substitution,Georginio Wijnaldum,Lorenzo Pellegrini
+191,12,Roma,Home,53,goal,Mats Wieffer,Oussama Idrissi
+192,12,Roma,Away,58,substitution,Andrea Belotti,Tammy Abraham
+193,12,Roma,Home,64,substitution,Igor Paixão,Oussama Idrissi
+194,12,Roma,Home,72,substitution,Danilo,Alireza Jahanbakhsh
+195,12,Roma,Home,83,substitution,Marcos López,Santiago Giménez
+196,12,Roma,Away,84,substitution,Zeki Çelik,Leonardo Spinazzola
+197,13,1. FC Union Berlin,Home,18,goal,Teddy Teuma,Simon Adingra
+198,13,1. FC Union Berlin,Away,27,yellow-card,Diogo Leite,
+199,13,1. FC Union Berlin,Away,48,yellow-card,Aïssa Laïdouni,
+200,13,1. FC Union Berlin,Away,56,substitution,Janik Haberer,Aïssa Laïdouni
+201,13,1. FC Union Berlin,Away,56,substitution,Jordan Siebatcheu,Sven Michel
+202,13,1. FC Union Berlin,Away,60,yellow-card,Janik Haberer,
+203,13,1. FC Union Berlin,Home,63,goal,Lazare Amani,Goal
+204,13,1. FC Union Berlin,Home,67,substitution,Gustaf Nilsson,Simon Adingra
+205,13,1. FC Union Berlin,Away,67,substitution,Jamie Leweling,Morten Thorsby
+206,13,1. FC Union Berlin,Away,74,substitution,Niko Gießelmann,Josip Juranović
+207,13,1. FC Union Berlin,Away,74,substitution,Christopher Trimmel,Jérôme Roussillon
+208,13,1. FC Union Berlin,Away,80,yellow-card,Janik Haberer,
+209,13,1. FC Union Berlin,Home,85,yellow-card,Bart Nieuwkoop,
+210,13,1. FC Union Berlin,Home,85,substitution,Oussama El Azzouzi,Teddy Teuma
+211,13,1. FC Union Berlin,Home,89,goal,Lazare Amani,Disallowed goal
+212,13,1. FC Union Berlin,Home,92,substitution,Casper Terho,Victor Boniface
+213,13,1. FC Union Berlin,Home,94,goal,Loïc Lapoussin,Lazare Amani
+214,13,1. FC Union Berlin,Away,94,yellow-card,Rani Khedira,
+215,14,Roma,Away,6,yellow-card,Rick Karsdorp,
+216,14,Roma,Home,13,yellow-card,Igor Zubeldia,
+217,14,Roma,Away,17,yellow-card,Gianluca Mancini,
+218,14,Roma,Home,39,yellow-card,Diego Rico Salguero,
+219,14,Roma,Away,41,substitution,Nicola Zalewski,Rick Karsdorp
+220,14,Roma,Away,46,goal,Chris Smalling,Disallowed goal
+221,14,Roma,Home,62,substitution,Carlos Fernandez Luna,Alexander Sorloth
+222,14,Roma,Home,71,substitution,Takefusa Kubo,Mikel Oyarzabal
+223,14,Roma,Home,71,substitution,Álex Sola,Andoni Gorosabel
+224,14,Roma,Away,75,substitution,Stephan El Shaarawy,Paulo Dybala
+225,14,Roma,Away,76,substitution,Tammy Abraham,Andrea Belotti
+226,14,Roma,Home,79,substitution,Mohamed Cho,Brais Mendez
+227,14,Roma,Home,87,yellow-card,Carlos Fernandez Luna,
+228,14,Roma,Away,87,substitution,Edoardo Bove,Lorenzo Pellegrini
+229,14,Roma,Away,98,yellow-card,Chris Smalling,
+230,14,Roma,Home,98,yellow-card,Carlos Fernandez Luna,
+231,15,Bayer Leverkusen,Away,3,goal,Moussa Diaby,Edmond Tapsoba
+232,15,Bayer Leverkusen,Home,14,substitution,Marquinhos,Henry Wingo
+233,15,Bayer Leverkusen,Away,71,substitution,Adam Hložek,Sardar Azmoun
+234,15,Bayer Leverkusen,Away,71,substitution,Amine Adli,Florian Wirtz
+235,15,Bayer Leverkusen,Home,78,substitution,Balázs Manner,Amer Gojak
+236,15,Bayer Leverkusen,Away,81,goal,Amine Adli,Moussa Diaby
+237,15,Bayer Leverkusen,Away,82,substitution,Odilon Kossounou,Piero Hincapié
+238,15,Bayer Leverkusen,Away,82,substitution,Timothy Fosu-Mensah,Jeremie Frimpong
+239,15,Bayer Leverkusen,Away,86,substitution,Kerem Demirbay,Robert Andrich
+240,15,Bayer Leverkusen,Home,91,substitution,Nikolai Frederiksen,Ryan Mmaee
+241,15,Bayer Leverkusen,Home,91,substitution,Krisztián Lisztes,Marquinhos
+242,16,Juventus,Home,26,yellow-card,Manuel Gulde,
+243,16,Juventus,Away,27,goal,Dušan Vlahović,Disallowed goal
+244,16,Juventus,Home,44,yellow-card,Manuel Gulde,
+245,16,Juventus,Home,44,yellow-card,Nicolas Höfler,
+246,16,Juventus,Away,45,penalty,Dušan Vlahović,Penalty
+247,16,Juventus,Home,45,substitution,Kenneth Schmidt,Maximilian Eggestein
+248,16,Juventus,Away,56,yellow-card,Dušan Vlahović,
+249,16,Juventus,Home,62,substitution,Roland Sallai,Ritsu Dōan
+250,16,Juventus,Home,62,substitution,Vincenzo Grifo,Lucas Höler
+251,16,Juventus,Away,70,substitution,Federico Chiesa,Dušan Vlahović
+252,16,Juventus,Away,70,substitution,Samuel Iling-Junior,Filip Kostić
+253,16,Juventus,Home,74,substitution,Nils Petersen,Michael Gregoritsch
+254,16,Juventus,Home,74,substitution,Noah Weißhaupt,Christian Günter
+255,16,Juventus,Away,82,yellow-card,Samuel Iling-Junior,
+256,16,Juventus,Away,84,substitution,Enzo Barrenechea,Manuel Locatelli
+257,16,Juventus,Away,85,substitution,Mattia De Sciglio,Juan Cuadrado
+258,16,Juventus,Home,87,yellow-card,Roland Sallai,
+259,16,Juventus,Away,91,substitution,Matías Soulé,Moise Kean
+260,16,Juventus,Away,95,goal,Federico Chiesa,Adrien Rabiot
+261,17,Manchester United,Home,26,substitution,Juan Miranda,Abner
+262,17,Manchester United,Away,29,yellow-card,Facundo Pellistri,
+263,17,Manchester United,Away,56,goal,Marcus Rashford,Casemiro
+264,17,Manchester United,Home,59,substitution,Sergio Canales,Joaquin
+265,17,Manchester United,Home,59,substitution,Borja Iglesias,Aitor Ruibal
+266,17,Manchester United,Home,59,substitution,Willian Jose,Ayoze Pérez
+267,17,Manchester United,Away,60,substitution,Jadon Sancho,Marcus Rashford
+268,17,Manchester United,Away,60,substitution,Marcel Sabitzer,Fred
+269,17,Manchester United,Home,66,substitution,Andrés Guardado,Guido Rodríguez
+270,17,Manchester United,Away,68,substitution,Anthony Elanga,Bruno Fernandes
+271,17,Manchester United,Away,75,substitution,Diogo Dalot,Aaron Wan-Bissaka
+272,17,Manchester United,Away,75,substitution,Victor Lindelof,Lisandro Martínez
+273,18,Shakhtar Donetsk,Home,9,goal,Santiago Giménez,Alireza Jahanbakhsh
+274,18,Shakhtar Donetsk,Away,20,yellow-card,Artem Bondarenko,
+275,18,Shakhtar Donetsk,Home,24,goal,Orkun Kökçü,Sebastian Szymański
+276,18,Shakhtar Donetsk,Home,38,penalty,Orkun Kökçü,Penalty
+277,18,Shakhtar Donetsk,Away,45,substitution,Neven Đurasek,Dmytro Kryskiv
+278,18,Shakhtar Donetsk,Home,49,goal,Oussama Idrissi,Mats Wieffer
+279,18,Shakhtar Donetsk,Away,54,substitution,Kevin Kelsy,Lassina Traoré
+280,18,Shakhtar Donetsk,Away,54,substitution,Danylo Sikan,Artem Bondarenko
+281,18,Shakhtar Donetsk,Away,54,substitution,Ehor Nazaryna,Taras Stepanenko
+282,18,Shakhtar Donetsk,Home,57,substitution,Jacob Rasmussen,Marcos López
+283,18,Shakhtar Donetsk,Home,57,substitution,Danilo,Santiago Giménez
+284,18,Shakhtar Donetsk,Home,58,substitution,Ezequiel Bullaude,Sebastian Szymański
+285,18,Shakhtar Donetsk,Home,60,goal,Oussama Idrissi,Orkun Kökçü
+286,18,Shakhtar Donetsk,Home,62,substitution,Igor Paixão,Oussama Idrissi
+287,18,Shakhtar Donetsk,Away,63,substitution,Ivan Petryak,Oleksandr Zubkov
+288,18,Shakhtar Donetsk,Home,64,goal,Alireza Jahanbakhsh,Dávid Hancko
+289,18,Shakhtar Donetsk,Home,66,goal,Danilo,Goal
+290,18,Shakhtar Donetsk,Home,68,substitution,Mohamed Taabouni,Orkun Kökçü
+291,18,Shakhtar Donetsk,Away,81,yellow-card,Heorhii Sudakov,
+292,18,Shakhtar Donetsk,Away,87,goal,Kevin Kelsy,Mykola Matvienko
+293,19,Sevilla,Home,19,substitution,Joshua King,Michy Batshuayi
+294,19,Sevilla,Home,41,penalty,Enner Valencia,Penalty
+295,19,Sevilla,Home,46,yellow-card,Serdar Aziz,
+296,19,Sevilla,Away,47,yellow-card,Loïc Badé,
+297,19,Sevilla,Away,59,substitution,Erik Lamela,Youssef En-Nesyri
+298,19,Sevilla,Away,73,substitution,Suso,Oliver Torres
+299,19,Sevilla,Away,73,substitution,Lucas Ocampos,Rafa Mir
+300,19,Sevilla,Home,75,substitution,Mert Yandaş,Miha Zajc
+301,19,Sevilla,Away,83,substitution,Joan Jordan,Ivan Rakitic
+302,19,Sevilla,Away,83,substitution,Jesus Navas,Gonzalo Montiel
+303,19,Sevilla,Home,84,substitution,Emre Mor,Arda Güler
+304,19,Sevilla,Home,84,substitution,Joao Pedro Galvao,Enner Valencia
+305,19,Sevilla,Home,84,substitution,Diego Rossi,Serdar Aziz
+306,19,Sevilla,Home,89,yellow-card,Ismail Yüksek,
+307,19,Sevilla,Away,89,yellow-card,Joan Jordan,
+308,20,Feyenoord,Away,57,substitution,Gernot Trauner,Marcus Pedersen
+309,20,Feyenoord,Home,62,substitution,Kevin Kelsy,Lassina Traoré
+310,20,Feyenoord,Home,62,substitution,Neven Đurasek,Dmytro Kryskiv
+311,20,Feyenoord,Away,70,yellow-card,Mats Wieffer,
+312,20,Feyenoord,Away,72,substitution,Igor Paixão,Oussama Idrissi
+313,20,Feyenoord,Away,72,substitution,Javairô Dilrosun,Sebastian Szymański
+314,20,Feyenoord,Home,77,substitution,Marian Shved,Oleksandr Zubkov
+315,20,Feyenoord,Home,79,goal,Yaroslav Rakitskiy,Heorhii Sudakov
+316,20,Feyenoord,Away,86,substitution,Ezequiel Bullaude,Alireza Jahanbakhsh
+317,20,Feyenoord,Away,88,goal,Ezequiel Bullaude,Igor Paixão
+318,20,Feyenoord,Home,90,substitution,Ivan Petryak,Heorhii Sudakov
+319,20,Feyenoord,Home,90,substitution,Ehor Nazaryna,Artem Bondarenko
+320,21,Fenerbahçe,Home,3,yellow-card,Alex Telles,
+321,21,Fenerbahçe,Away,48,yellow-card,Ferdi Kadıoğlu,
+322,21,Fenerbahçe,Home,48,yellow-card,Bryan Gil,
+323,21,Fenerbahçe,Home,45,substitution,Joan Jordan,Alex Telles
+324,21,Fenerbahçe,Home,56,goal,Joan Jordan,Goal
+325,21,Fenerbahçe,Away,67,substitution,Diego Rossi,Miguel Crespo
+326,21,Fenerbahçe,Away,67,substitution,Michy Batshuayi,Joshua King
+327,21,Fenerbahçe,Home,70,substitution,Lucas Ocampos,Oliver Torres
+328,21,Fenerbahçe,Home,70,substitution,Erik Lamela,Bryan Gil
+329,21,Fenerbahçe,Away,82,substitution,Bright Osayi-Samuel,Lincoln
+330,21,Fenerbahçe,Away,82,substitution,Joao Pedro Galvao,Enner Valencia
+331,21,Fenerbahçe,Home,85,goal,Erik Lamela,Ivan Rakitic
+332,21,Fenerbahçe,Home,87,substitution,Suso,Marcos Acuña
+333,21,Fenerbahçe,Home,87,substitution,Rafa Mir,Youssef En-Nesyri
+334,21,Fenerbahçe,Away,87,substitution,Arda Güler,Irfan Kahveci
+335,22,Real Betis,Home,6,goal,Marcus Rashford,Goal
+336,22,Real Betis,Away,32,goal,Ayoze Pérez,Juanmi
+337,22,Real Betis,Home,45,substitution,Aaron Wan-Bissaka,Diogo Dalot
+338,22,Real Betis,Home,52,goal,Antony,Bruno Fernandes
+339,22,Real Betis,Home,56,yellow-card,Wout Weghorst,
+340,22,Real Betis,Home,58,goal,Bruno Fernandes,Luke Shaw
+341,22,Real Betis,Away,59,substitution,Sergio Canales,Joaquin
+342,22,Real Betis,Away,59,substitution,Aitor Ruibal,Luiz Henrique
+343,22,Real Betis,Home,65,substitution,Jadon Sancho,Marcus Rashford
+344,22,Real Betis,Home,65,substitution,Tyrell Malacia,Luke Shaw
+345,22,Real Betis,Away,65,substitution,Andrés Guardado,Guido Rodríguez
+346,22,Real Betis,Away,65,substitution,Borja Iglesias,Ayoze Pérez
+347,22,Real Betis,Home,68,yellow-card,Bruno Fernandes,
+348,22,Real Betis,Away,80,substitution,Willian Jose,Juanmi
+349,22,Real Betis,Home,81,substitution,Scott McTominay,Fred
+350,22,Real Betis,Home,82,goal,Wout Weghorst,Goal
+351,22,Real Betis,Home,82,substitution,Facundo Pellistri,Antony
+352,23,SC Freiburg,Home,23,substitution,Leonardo Bonucci,Alex Sandro
+353,23,SC Freiburg,Away,24,yellow-card,Matthias Ginter,
+354,23,SC Freiburg,Home,45,substitution,Nicolò Fagioli,Fabio Miretti
+355,23,SC Freiburg,Away,51,yellow-card,Lucas Höler,
+356,23,SC Freiburg,Home,53,goal,Ángel Di María,Filip Kostić
+357,23,SC Freiburg,Away,59,substitution,Ritsu Dōan,Roland Sallai
+358,23,SC Freiburg,Away,59,substitution,Yannik Keitel,Maximilian Eggestein
+359,23,SC Freiburg,Away,62,goal,Lucas Höler,Disallowed goal
+360,23,SC Freiburg,Home,67,substitution,Federico Chiesa,Dušan Vlahović
+361,23,SC Freiburg,Away,68,substitution,Manuel Gulde,Philipp Lienhart
+362,23,SC Freiburg,Home,72,yellow-card,Bremer,
+363,23,SC Freiburg,Home,78,substitution,Moise Kean,Filip Kostić
+364,23,SC Freiburg,Home,84,yellow-card,Leonardo Bonucci,
+365,23,SC Freiburg,Away,88,substitution,Michael Gregoritsch,Lucas Höler
+366,24,Arsenal,Away,22,goal,William Saliba,Fábio Vieira
+367,24,Arsenal,Home,22,yellow-card,Sebastián Coates,
+368,24,Arsenal,Away,23,yellow-card,Olexandr Zinchenko,
+369,24,Arsenal,Home,34,goal,Gonçalo Inácio,Marcus Edwards
+370,24,Arsenal,Away,43,yellow-card,Gabriel Martinelli,
+371,24,Arsenal,Home,55,goal,Paulinho,Goal
+372,24,Arsenal,Home,58,yellow-card,Hidemasa Morita,
+373,24,Arsenal,Away,62,goal,Hidemasa Morita,Own goal
+374,24,Arsenal,Away,63,substitution,Takehiro Tomiyasu,Olexandr Zinchenko
+375,24,Arsenal,Home,71,substitution,Nuno Santos,Trincão
+376,24,Arsenal,Away,71,substitution,Thomas Partey,Jorginho
+377,24,Arsenal,Away,71,substitution,Gabriel,Jakub Kiwior
+378,24,Arsenal,Away,71,substitution,Emile Smith-Rowe,Reiss Nelson
+379,24,Arsenal,Home,76,substitution,Ousmane Diomande,Ricardo Esgaio
+380,24,Arsenal,Home,76,substitution,Youssef Chermiti,Paulinho
+381,24,Arsenal,Home,89,substitution,Abdul Fatawu Issahaku,Marcus Edwards
+382,25,Real Sociedad,Home,13,goal,Stephan El Shaarawy,Tammy Abraham
+383,25,Real Sociedad,Home,45,substitution,Marash Kumbulla,Diego Llorente
+384,25,Real Sociedad,Home,60,substitution,Georginio Wijnaldum,Lorenzo Pellegrini
+385,25,Real Sociedad,Home,60,substitution,Leonardo Spinazzola,Stephan El Shaarawy
+386,25,Real Sociedad,Home,61,substitution,Andrea Belotti,Tammy Abraham
+387,25,Real Sociedad,Away,67,substitution,Mikel Oyarzabal,Alexander Sorloth
+388,25,Real Sociedad,Away,68,yellow-card,Asier Illarramendi,
+389,25,Real Sociedad,Away,71,yellow-card,Igor Zubeldia,
+390,25,Real Sociedad,Away,75,substitution,Brais Mendez,Asier Illarramendi
+391,25,Real Sociedad,Away,75,substitution,Mohamed Cho,Takefusa Kubo
+392,25,Real Sociedad,Away,80,yellow-card,Andoni Gorosabel,
+393,25,Real Sociedad,Away,83,substitution,Beñat Turrientes,David Silva
+394,25,Real Sociedad,Away,83,substitution,Álex Sola,Andoni Gorosabel
+395,25,Real Sociedad,Away,85,yellow-card,Martín Zubimendi,
+396,25,Real Sociedad,Home,87,goal,Marash Kumbulla,Paulo Dybala
+397,25,Real Sociedad,Home,88,substitution,Edoardo Bove,Paulo Dybala
+398,25,Real Sociedad,Home,94,yellow-card,Nemanja Matic,
+399,25,Real Sociedad,Away,94,yellow-card,Mikel Oyarzabal,
+400,26,Ferencváros,Home,9,goal,Kerem Demirbay,Florian Wirtz
+401,26,Ferencváros,Home,38,yellow-card,Kerem Demirbay,
+402,26,Ferencváros,Away,45,yellow-card,Marquinhos,
+403,26,Ferencváros,Away,49,yellow-card,Kristoffer Zachariassen,
+404,26,Ferencváros,Home,60,substitution,Amine Adli,Sardar Azmoun
+405,26,Ferencváros,Home,71,substitution,Adam Hložek,Moussa Diaby
+406,26,Ferencváros,Away,75,yellow-card,Endre Botka,
+407,26,Ferencváros,Home,75,yellow-card,Florian Wirtz,
+408,26,Ferencváros,Away,78,substitution,Amer Gojak,Marquinhos
+409,26,Ferencváros,Home,83,yellow-card,Odilon Kossounou,
+410,26,Ferencváros,Home,86,goal,Edmond Tapsoba,Goal
+411,26,Ferencváros,Away,87,substitution,Nikolai Frederiksen,Adama Traoré
+412,26,Ferencváros,Away,87,substitution,Henry Wingo,Endre Botka
+413,26,Ferencváros,Home,89,substitution,Patrik Schick,Florian Wirtz
+414,26,Ferencváros,Away,93,yellow-card,Eldar Ćivić,
+415,27,R. Union SG,Away,20,yellow-card,Yorbe Vertessen,
+416,27,R. Union SG,Away,28,goal,Victor Boniface,Yorbe Vertessen
+417,27,R. Union SG,Home,42,goal,Josip Juranović,Goal
+418,27,R. Union SG,Away,53,yellow-card,Senne Lynen,
+419,27,R. Union SG,Away,58,goal,Yorbe Vertessen,Loïc Lapoussin
+420,27,R. Union SG,Home,63,substitution,Aïssa Laïdouni,Janik Haberer
+421,27,R. Union SG,Home,64,substitution,Jordan Siebatcheu,Kevin Behrens
+422,27,R. Union SG,Away,68,yellow-card,Christian Burgess,
+423,27,R. Union SG,Home,69,penalty,Robin Knoche,Missed penalty
+424,27,R. Union SG,Home,69,goal,Robin Knoche,Goal
+425,27,R. Union SG,Away,72,goal,Victor Boniface,Bart Nieuwkoop
+426,27,R. Union SG,Home,75,yellow-card,Robin Knoche,
+427,27,R. Union SG,Home,77,substitution,Niko Gießelmann,Christopher Trimmel
+428,27,R. Union SG,Home,77,substitution,Jamie Leweling,Morten Thorsby
+429,27,R. Union SG,Home,77,substitution,Sven Michel,Sheraldo Becker
+430,27,R. Union SG,Away,80,substitution,Simon Adingra,Yorbe Vertessen
+431,27,R. Union SG,Home,85,yellow-card,Niko Gießelmann,
+432,27,R. Union SG,Away,86,substitution,Gustaf Nilsson,Victor Boniface
+433,27,R. Union SG,Away,86,substitution,Cameron Puertas,Lazare Amani
+434,27,R. Union SG,Home,89,goal,Sven Michel,Goal
+435,28,Ajax,Away,17,yellow-card,Calvin Bassey,
+436,28,Ajax,Home,20,yellow-card,Sheraldo Becker,
+437,28,Ajax,Away,20,yellow-card,Davy Klaassen,
+438,28,Ajax,Home,20,penalty,Robin Knoche,Penalty
+439,28,Ajax,Home,28,yellow-card,Danilho Doekhi,
+440,28,Ajax,Home,44,goal,Josip Juranović,Janik Haberer
+441,28,Ajax,Away,47,goal,Mohammed Kudus,Steven Bergwijn
+442,28,Ajax,Home,50,goal,Danilho Doekhi,Josip Juranović
+443,28,Ajax,Away,64,substitution,Brian Brobbey,Davy Klaassen
+444,28,Ajax,Home,65,substitution,Morten Thorsby,Aïssa Laïdouni
+445,28,Ajax,Home,65,substitution,Jordan Siebatcheu,Kevin Behrens
+446,28,Ajax,Away,80,substitution,Lorenzo Lucca,Steven Bergwijn
+447,28,Ajax,Away,84,substitution,Francisco Conceição,Devyne Rensch
+448,28,Ajax,Home,85,substitution,Jamie Leweling,Sheraldo Becker
+449,28,Ajax,Away,92,yellow-card,Steven Berghuis,
+450,28,Ajax,Home,94,substitution,Niko Gießelmann,Jérôme Roussillon
+451,28,Ajax,Home,94,substitution,Christopher Trimmel,Josip Juranović
+452,28,Ajax,Away,95,yellow-card,Mohammed Kudus,
+453,28,Ajax,Away,96,yellow-card,Edson Álvarez,
+454,28,Ajax,Away,96,yellow-card,Dušan Tadić,
+455,28,Ajax,Away,97,yellow-card,Edson Álvarez,
+456,29,RB Salzburg,Home,4,yellow-card,Roger Ibañez,
+457,29,RB Salzburg,Home,5,yellow-card,Lorenzo Pellegrini,
+458,29,RB Salzburg,Home,33,goal,Andrea Belotti,Goal
+459,29,RB Salzburg,Home,40,goal,Paulo Dybala,Leonardo Spinazzola
+460,29,RB Salzburg,Away,45,substitution,Luka Sučić,Maurits Kjærgaard
+461,29,RB Salzburg,Home,54,yellow-card,Leonardo Spinazzola,
+462,29,RB Salzburg,Away,74,substitution,Benjamin Šeško,Junior Adamu
+463,29,RB Salzburg,Away,74,substitution,Ignace Van der Brempt,Amar Dedić
+464,29,RB Salzburg,Home,74,yellow-card,Nicola Zalewski,
+465,29,RB Salzburg,Away,75,substitution,Oscar Gloukh,Nicolas Seiwald
+466,29,RB Salzburg,Home,81,substitution,Georginio Wijnaldum,Lorenzo Pellegrini
+467,29,RB Salzburg,Home,81,substitution,Rick Karsdorp,Nicola Zalewski
+468,29,RB Salzburg,Away,84,substitution,Sékou Koïta,Nicolás Capaldo
+469,29,RB Salzburg,Home,87,substitution,Tammy Abraham,Andrea Belotti
+470,29,RB Salzburg,Home,93,substitution,Stephan El Shaarawy,Paulo Dybala
+471,30,Barcelona,Away,18,penalty,Robert Lewandowski,Penalty
+472,30,Barcelona,Home,45,substitution,Antony,Wout Weghorst
+473,30,Barcelona,Home,47,goal,Fred,Bruno Fernandes
+474,30,Barcelona,Home,60,yellow-card,Bruno Fernandes,
+475,30,Barcelona,Away,60,yellow-card,Sergi Roberto,
+476,30,Barcelona,Home,67,substitution,Diogo Dalot,Aaron Wan-Bissaka
+477,30,Barcelona,Home,67,substitution,Alejandro Garnacho,Jadon Sancho
+478,30,Barcelona,Away,70,substitution,Ferran Torres,Sergi Roberto
+479,30,Barcelona,Away,71,yellow-card,Robert Lewandowski,
+480,30,Barcelona,Home,73,goal,Antony,Goal
+481,30,Barcelona,Away,75,substitution,Ansu Fati,Raphinha
+482,30,Barcelona,Home,78,yellow-card,Alejandro Garnacho,
+483,30,Barcelona,Away,82,substitution,Marcos Alonso,Ronald Araújo
+484,30,Barcelona,Away,83,yellow-card,Sergio Busquets,
+485,30,Barcelona,Home,86,yellow-card,Casemiro,
+486,30,Barcelona,Home,88,substitution,Scott McTominay,Marcus Rashford
+487,31,Sevilla,Away,33,yellow-card,Marcos Acuña,
+488,31,Sevilla,Home,62,substitution,Fábio Silva,Érick Gutiérrez
+489,31,Sevilla,Home,62,substitution,Mauro Júnior,Patrick van Aanholt
+490,31,Sevilla,Away,68,substitution,Suso,Oliver Torres
+491,31,Sevilla,Away,69,substitution,Lucas Ocampos,Youssef En-Nesyri
+492,31,Sevilla,Home,77,goal,Luuk de Jong,Fábio Silva
+493,31,Sevilla,Away,79,yellow-card,Tanguy Nianzou,
+494,31,Sevilla,Away,80,substitution,Gonzalo Montiel,Jesus Navas
+495,31,Sevilla,Away,82,yellow-card,Marko Dmitrović,
+496,31,Sevilla,Home,84,yellow-card,Phillipp Mwene,
+497,31,Sevilla,Away,86,substitution,Rafa Mir,Bryan Gil
+498,31,Sevilla,Away,92,yellow-card,Rafa Mir,
+499,31,Sevilla,Home,95,goal,Fábio Silva,Xavi Simons
+500,31,Sevilla,Home,96,yellow-card,Xavi Simons,
+501,31,Sevilla,Home,97,red-card,Mauro Júnior,
+502,32,Juventus,Away,5,goal,Ángel Di María,Nicolò Fagioli
+503,32,Juventus,Home,17,red-card,Nicolas Pallois,
+504,32,Juventus,Away,20,penalty,Ángel Di María,Penalty
+505,32,Juventus,Home,24,substitution,Charles Traoré,Pedro Chirivella
+506,32,Juventus,Home,45,substitution,Samuel Moutoussamy,Moussa Sissoko
+507,32,Juventus,Home,45,substitution,Ignatius Ganago,Andy Delort
+508,32,Juventus,Away,64,substitution,Dušan Vlahović,Moise Kean
+509,32,Juventus,Away,65,substitution,Juan Cuadrado,Mattia De Sciglio
+510,32,Juventus,Home,73,substitution,Mostafa Mohamed,Moses Simon
+511,32,Juventus,Home,73,substitution,Evann Guessand,Florent Mollet
+512,32,Juventus,Away,78,goal,Ángel Di María,Dušan Vlahović
+513,32,Juventus,Home,81,yellow-card,Charles Traoré,
+514,32,Juventus,Away,82,substitution,Leonardo Bonucci,Danilo
+515,32,Juventus,Away,82,substitution,Leandro Paredes,Ángel Di María
+516,32,Juventus,Away,82,substitution,Samuel Iling-Junior,Filip Kostić
+517,32,Juventus,Away,87,yellow-card,Juan Cuadrado,
+518,33,Sporting CP,Away,21,goal,Sebastián Coates,Goal
+519,33,Sporting CP,Away,33,yellow-card,Ricardo Esgaio,
+520,33,Sporting CP,Home,36,yellow-card,Paulinho,
+521,33,Sporting CP,Home,38,yellow-card,Paulinho,
+522,33,Sporting CP,Home,45,substitution,Emam Ashour,Valdemar Byskov
+523,33,Sporting CP,Away,45,substitution,Hector Bellerin,Ricardo Esgaio
+524,33,Sporting CP,Home,45,substitution,Viktor Bak,Oliver Sørensen
+525,33,Sporting CP,Home,45,substitution,Edward Chilufya,Astrit Selmani
+526,33,Sporting CP,Away,50,goal,Pedro Gonçalves,Goal
+527,33,Sporting CP,Away,53,substitution,Mateus Fernandes,Hidemasa Morita
+528,33,Sporting CP,Away,65,substitution,Trincão,Marcus Edwards
+529,33,Sporting CP,Away,65,substitution,Nuno Santos,Arthur Gomes
+530,33,Sporting CP,Home,72,substitution,Mads Thychosen,Joel Andersson
+531,33,Sporting CP,Away,74,yellow-card,Manuel Ugarte,
+532,33,Sporting CP,Home,74,yellow-card,Emam Ashour,
+533,33,Sporting CP,Away,77,goal,Pedro Gonçalves,Nuno Santos
+534,33,Sporting CP,Away,78,substitution,Mateo Tanlongo,Manuel Ugarte
+535,33,Sporting CP,Home,79,substitution,Frederik Heiselberg,Gustav Isaksen
+536,33,Sporting CP,Away,85,goal,Stefan Gartenmann,Own goal
+537,33,Sporting CP,Home,90,yellow-card,Armin Gigović,
+538,34,PSV,Home,16,substitution,Fernando,Loïc Badé
+539,34,PSV,Home,47,goal,Youssef En-Nesyri,Jesus Navas
+540,34,PSV,Home,45,substitution,Lucas Ocampos,Bryan Gil
+541,34,PSV,Home,50,goal,Lucas Ocampos,Oliver Torres
+542,34,PSV,Home,55,goal,Nemanja Gudelj,Lucas Ocampos
+543,34,PSV,Home,59,yellow-card,Nemanja Gudelj,
+544,34,PSV,Away,62,substitution,Thorgan Hazard,Guus Til
+545,34,PSV,Away,62,substitution,Fábio Silva,Luuk de Jong
+546,34,PSV,Home,63,substitution,Suso,Youssef En-Nesyri
+547,34,PSV,Home,70,substitution,Erik Lamela,Oliver Torres
+548,34,PSV,Home,70,substitution,Gonzalo Montiel,Marcos Acuña
+549,34,PSV,Away,75,substitution,Mauro Júnior,Patrick van Aanholt
+550,34,PSV,Home,89,yellow-card,Erik Lamela,
+551,34,PSV,Away,90,substitution,Phillipp Mwene,Ismael Saibari
+552,34,PSV,Away,90,substitution,Armando Obispo,André Ramalho
+553,35,Nantes,Home,13,goal,Dušan Vlahović,Federico Chiesa
+554,35,Nantes,Away,46,yellow-card,Jean-Charles Castelletto,
+555,35,Nantes,Home,54,yellow-card,Federico Chiesa,
+556,35,Nantes,Away,57,yellow-card,Mostafa Mohamed,
+557,35,Nantes,Away,60,goal,Ludovic Blas,Mostafa Mohamed
+558,35,Nantes,Home,63,substitution,Filip Kostić,Nicolò Fagioli
+559,35,Nantes,Home,63,substitution,Manuel Locatelli,Leandro Paredes
+560,35,Nantes,Home,73,substitution,Matías Soulé,Ángel Di María
+561,35,Nantes,Home,73,substitution,Juan Cuadrado,Mattia De Sciglio
+562,35,Nantes,Home,75,yellow-card,Danilo,
+563,35,Nantes,Away,77,substitution,Florent Mollet,Pedro Chirivella
+564,35,Nantes,Away,77,substitution,Charles Traoré,Marcus Coco
+565,35,Nantes,Away,77,substitution,Moses Simon,Mostafa Mohamed
+566,35,Nantes,Away,83,substitution,Sebastien Corchia,Nicolas Pallois
+567,35,Nantes,Home,86,substitution,Moise Kean,Dušan Vlahović
+568,35,Nantes,Away,88,substitution,Evann Guessand,Jean-Charles Castelletto
+569,35,Nantes,Away,90,yellow-card,Sebastien Corchia,
+570,36,Monaco,Away,9,goal,Lukás Hrádecký,Own goal
+571,36,Monaco,Home,14,yellow-card,Edmond Tapsoba,
+572,36,Monaco,Away,45,substitution,Eliesse Ben Seghir,Takumi Minamino
+573,36,Monaco,Home,48,goal,Moussa Diaby,Jeremie Frimpong
+574,36,Monaco,Home,50,yellow-card,Florian Wirtz,
+575,36,Monaco,Home,56,substitution,Amine Adli,Moussa Diaby
+576,36,Monaco,Home,59,goal,Florian Wirtz,Amine Adli
+577,36,Monaco,Away,62,substitution,Wissam Ben Yedder,Breel Embolo
+578,36,Monaco,Away,63,yellow-card,Mohamed Camara,
+579,36,Monaco,Home,63,yellow-card,Amine Adli,
+580,36,Monaco,Home,68,substitution,Odilon Kossounou,Nadiem Amiri
+581,36,Monaco,Away,71,substitution,Ismail Jakobs,Aleksandr Golovin
+582,36,Monaco,Away,71,substitution,Eliot Matazo,Mohamed Camara
+583,36,Monaco,Away,74,goal,Krépin Diatta,Wissam Ben Yedder
+584,36,Monaco,Away,80,substitution,Chrislain Matsima,Ruben Aguilar
+585,36,Monaco,Away,84,yellow-card,Guillermo Maripan,
+586,36,Monaco,Home,88,substitution,Patrik Schick,Adam Hložek
+587,36,Monaco,Home,88,substitution,Callum Hudson-Odoi,Jeremie Frimpong
+588,36,Monaco,Away,92,goal,Axel Disasi,Eliesse Ben Seghir
+589,36,Monaco,Away,97,yellow-card,Krépin Diatta,
+590,37,Midtjylland,Away,45,substitution,Edward Chilufya,Valdemar Byskov
+591,37,Midtjylland,Away,59,substitution,Oliver Sørensen,Frederik Heiselberg
+592,37,Midtjylland,Away,63,yellow-card,Emiliano Martínez,
+593,37,Midtjylland,Home,65,substitution,Trincão,Arthur Gomes
+594,37,Midtjylland,Home,65,substitution,Hector Bellerin,Ricardo Esgaio
+595,37,Midtjylland,Away,67,substitution,Viktor Bak,Paulinho
+596,37,Midtjylland,Away,67,substitution,Emam Ashour,Emiliano Martínez
+597,37,Midtjylland,Away,77,goal,Emam Ashour,Goal
+598,37,Midtjylland,Home,77,substitution,Youssef Chermiti,Paulinho
+599,37,Midtjylland,Home,78,substitution,Gonçalo Inácio,Matheus Reis
+600,37,Midtjylland,Away,83,yellow-card,Gustav Isaksen,
+601,37,Midtjylland,Away,86,yellow-card,Armin Gigović,
+602,37,Midtjylland,Away,86,substitution,Aral Şimşir,Gustav Isaksen
+603,37,Midtjylland,Home,86,substitution,Mateo Tanlongo,Manuel Ugarte
+604,37,Midtjylland,Home,88,yellow-card,Sebastián Coates,
+605,37,Midtjylland,Home,93,yellow-card,Mateo Tanlongo,
+606,37,Midtjylland,Home,94,goal,Sebastián Coates,Goal
+607,38,Roma,Away,45,substitution,Zeki Çelik,Paulo Dybala
+608,38,Roma,Home,60,substitution,Junior Adamu,Fernando
+609,38,Roma,Away,74,substitution,Georginio Wijnaldum,Lorenzo Pellegrini
+610,38,Roma,Away,74,substitution,Andrea Belotti,Tammy Abraham
+611,38,Roma,Home,82,substitution,Oscar Gloukh,Luka Sučić
+612,38,Roma,Home,82,substitution,Sékou Koïta,Noah Okafor
+613,38,Roma,Home,84,yellow-card,Strahinja Pavlović,
+614,38,Roma,Home,86,yellow-card,Sékou Koïta,
+615,38,Roma,Home,88,goal,Nicolás Capaldo,Strahinja Pavlović
+616,38,Roma,Away,92,yellow-card,Roger Ibañez,
+617,38,Roma,Home,94,yellow-card,Oscar Gloukh,
+618,39,Rennes,Home,11,goal,Dmytro Kryskiv,Goal
+619,39,Rennes,Home,40,yellow-card,Taras Stepanenko,
+620,39,Rennes,Away,43,yellow-card,Benjamin Bourigeaud,
+621,39,Rennes,Home,45,penalty,Artem Bondarenko,Penalty
+622,39,Rennes,Away,56,yellow-card,Lesley Ugochukwu,
+623,39,Rennes,Away,59,goal,Karl Toko Ekambi,Jérémy Doku
+624,39,Rennes,Away,71,substitution,Désiré Doué,Amine Gouiri
+625,39,Rennes,Away,71,substitution,Ibrahim Salah,Jérémy Doku
+626,39,Rennes,Home,76,substitution,Ivan Petryak,Dmytro Kryskiv
+627,39,Rennes,Home,77,substitution,Danylo Sikan,Lassina Traoré
+628,39,Rennes,Away,77,substitution,Baptiste Santamaría,Lesley Ugochukwu
+629,39,Rennes,Away,77,substitution,Lovro Majer,Karl Toko Ekambi
+630,39,Rennes,Home,84,yellow-card,Bohdan Mykhailichenko,
+631,39,Rennes,Away,85,yellow-card,Warmed Omari,
+632,39,Rennes,Home,85,yellow-card,Oleksandr Zubkov,
+633,39,Rennes,Away,86,substitution,Birger Meling,Arnaud Kalimuendo
+634,40,1. FC Union Berlin,Home,45,substitution,Brian Brobbey,Owen Wijndal
+635,40,1. FC Union Berlin,Away,57,yellow-card,Rani Khedira,
+636,40,1. FC Union Berlin,Away,66,goal,Morten Thorsby,Disallowed goal
+637,40,1. FC Union Berlin,Away,70,substitution,Jordan Siebatcheu,Kevin Behrens
+638,40,1. FC Union Berlin,Home,75,substitution,Davy Klaassen,Steven Bergwijn
+639,40,1. FC Union Berlin,Away,82,substitution,Sven Michel,Sheraldo Becker
+640,40,1. FC Union Berlin,Away,85,yellow-card,Danilho Doekhi,
+641,40,1. FC Union Berlin,Away,90,substitution,Niko Gießelmann,Jérôme Roussillon
+642,41,Manchester United,Home,30,yellow-card,Jordi Alba,
+643,41,Manchester United,Home,41,substitution,Sergi Roberto,Pedri
+644,41,Manchester United,Away,43,yellow-card,Raphaël Varane,
+645,41,Manchester United,Home,50,goal,Marcos Alonso,Raphinha
+646,41,Manchester United,Away,52,goal,Marcus Rashford,Fred
+647,41,Manchester United,Away,59,goal,Jules Koundé,Own goal
+648,41,Manchester United,Away,65,yellow-card,Casemiro,
+649,41,Manchester United,Home,67,substitution,Andreas Christensen,Marcos Alonso
+650,41,Manchester United,Home,67,substitution,Alejandro Baldé,Jordi Alba
+651,41,Manchester United,Home,67,substitution,Ansu Fati,Franck Kessié
+652,41,Manchester United,Away,72,yellow-card,Tyrell Malacia,
+653,41,Manchester United,Home,73,yellow-card,Gavi,
+654,41,Manchester United,Home,76,goal,Raphinha,Jules Koundé
+655,41,Manchester United,Away,81,substitution,Alejandro Garnacho,Jadon Sancho
+656,41,Manchester United,Home,83,substitution,Ferran Torres,Raphinha
+657,42,Malmö,Home,36,goal,Ricardo Horta,Goal
+658,42,Malmö,Home,45,substitution,Álvaro Djaló,Abel Ruiz
+659,42,Malmö,Home,48,yellow-card,Paulo Oliveira,
+660,42,Malmö,Home,55,goal,Álvaro Djaló,Goal
+661,42,Malmö,Away,58,yellow-card,Matej Chaluš,
+662,42,Malmö,Home,59,substitution,Hernâni Infande,Rodrigo Gomes
+663,42,Malmö,Home,60,substitution,Uroš Račić,Ali Musrati
+664,42,Malmö,Away,61,substitution,Isaac Thelin,Ola Toivonen
+665,42,Malmö,Away,62,substitution,Patriot Sejdiu,Mohamed Turay
+666,42,Malmö,Away,74,substitution,Sergio Peña,Erdal Rakip
+667,42,Malmö,Home,74,substitution,Diego Lainez,Ricardo Horta
+668,42,Malmö,Away,77,goal,Patriot Sejdiu,Isaac Thelin
+669,42,Malmö,Home,79,substitution,Cristián Borja,Nuno Sequeira
+670,42,Malmö,Home,96,yellow-card,Hernâni Infande,
+671,43,Ludogorets,Away,15,yellow-card,Cicinho,
+672,43,Ludogorets,Away,41,goal,Rick,Cicinho
+673,43,Ludogorets,Home,45,substitution,Cristian Volpato,Mady Camara
+674,43,Ludogorets,Home,45,substitution,Bryan Cristante,Rick Karsdorp
+675,43,Ludogorets,Home,45,substitution,Nicolò Zaniolo,Andrea Belotti
+676,43,Ludogorets,Home,49,yellow-card,Cristian Volpato,
+677,43,Ludogorets,Home,56,penalty,Lorenzo Pellegrini,Penalty
+678,43,Ludogorets,Home,61,substitution,Nicola Zalewski,Nemanja Matic
+679,43,Ludogorets,Away,62,yellow-card,Thiago,
+680,43,Ludogorets,Away,64,yellow-card,Anton Nedyalkov,
+681,43,Ludogorets,Away,64,yellow-card,Jakub Piotrowski,
+682,43,Ludogorets,Home,65,penalty,Lorenzo Pellegrini,Penalty
+683,43,Ludogorets,Away,71,substitution,Kiril Despodov,Bernard Tekpetey
+684,43,Ludogorets,Away,71,substitution,Nonato,Jakub Piotrowski
+685,43,Ludogorets,Away,71,substitution,Matías Tissera,Thiago
+686,43,Ludogorets,Away,78,goal,Nonato,Disallowed goal
+687,43,Ludogorets,Away,79,yellow-card,Rick,
+688,43,Ludogorets,Home,80,substitution,Edoardo Bove,Cristian Volpato
+689,43,Ludogorets,Home,85,goal,Nicolò Zaniolo,Bryan Cristante
+690,43,Ludogorets,Home,87,yellow-card,Nicolò Zaniolo,
+691,43,Ludogorets,Away,87,substitution,Spas Delev,Aslak Witry
+692,43,Ludogorets,Away,87,substitution,Denny Gropper,Cicinho
+693,43,Ludogorets,Home,88,yellow-card,Matías Viña,
+694,43,Ludogorets,Away,90,red-card,Olivier Verdon,
+695,43,Ludogorets,Away,90,yellow-card,Nonato,
+696,44,AEK,Home,17,goal,Matthis Abline,Benjamin Bourigeaud
+697,44,AEK,Home,18,yellow-card,Flavien Tait,
+698,44,AEK,Away,28,yellow-card,Hrvoje Miličević,
+699,44,AEK,Home,56,substitution,Jérémy Doku,Martin Terrier
+700,44,AEK,Home,56,substitution,Amine Gouiri,Matthis Abline
+701,44,AEK,Home,63,substitution,Désiré Doué,Benjamin Bourigeaud
+702,44,AEK,Home,63,substitution,Lesley Ugochukwu,Lovro Majer
+703,44,AEK,Home,71,substitution,Adrien Truffert,Arnaud Kalimuendo
+704,44,AEK,Away,74,substitution,Rafael Lopes,Rafail Mamas
+705,44,AEK,Away,76,goal,Rafael Lopes,Goal
+706,44,AEK,Away,85,yellow-card,Roberto Rosales,
+707,44,AEK,Away,88,substitution,Mikel Gonzalez,Luis Gustavo
+708,44,AEK,Away,88,substitution,Nikos Englezou,Ádám Gyurcsó
+709,44,AEK,Away,92,substitution,Henry Andreou,Victor Olatunji
+710,45,HJK,Home,20,goal,Aitor Ruibal,Juan Miranda
+711,45,HJK,Home,34,yellow-card,Aitor Ruibal,
+712,45,HJK,Home,40,goal,Aitor Ruibal,Youssouf Sabaly
+713,45,HJK,Home,45,substitution,Sergio Canales,Youssouf Sabaly
+714,45,HJK,Home,45,substitution,Borja Iglesias,William Carvalho
+715,45,HJK,Home,48,yellow-card,Edgar Gonzalez,
+716,45,HJK,Away,55,substitution,Joona Toivio,Matti Peltola
+717,45,HJK,Home,67,substitution,Dani Pérez,Willian Jose
+718,45,HJK,Home,67,substitution,Nabil Fekir,Luiz Henrique
+719,45,HJK,Away,68,substitution,Anthony Olusanya,Santeri Hostikka
+720,45,HJK,Home,77,substitution,Andrés Guardado,Paul Akouokou
+721,45,HJK,Away,80,substitution,Bojan Radulović,Malik Abubakari
+722,45,HJK,Away,80,substitution,Atomu Tanaka,Santeri Väänänen
+723,45,HJK,Away,80,substitution,Johannes Yli-Kokko,Nassim Boujellab
+724,45,HJK,Home,92,goal,Nabil Fekir,Borja Iglesias
+725,46,1. FC Union Berlin,Away,6,goal,Sven Michel,Sheraldo Becker
+726,46,1. FC Union Berlin,Away,9,yellow-card,Sheraldo Becker,
+727,46,1. FC Union Berlin,Home,45,substitution,Victor Boniface,Gustaf Nilsson
+728,46,1. FC Union Berlin,Away,45,substitution,Lennart Grill,Frederik Rønnow
+729,46,1. FC Union Berlin,Away,48,yellow-card,Janik Haberer,
+730,46,1. FC Union Berlin,Away,62,substitution,András Schäfer,Genki Haraguchi
+731,46,1. FC Union Berlin,Away,62,substitution,Morten Thorsby,Janik Haberer
+732,46,1. FC Union Berlin,Away,62,substitution,Kevin Behrens,Sven Michel
+733,46,1. FC Union Berlin,Home,64,substitution,Oussama El Azzouzi,Lazare Amani
+734,46,1. FC Union Berlin,Home,64,substitution,Dennis Eckert,Dante Vanzeir
+735,46,1. FC Union Berlin,Home,72,substitution,Loïc Lapoussin,Ismaël Kandouss
+736,46,1. FC Union Berlin,Home,72,substitution,Jose Rodriguez,Teddy Teuma
+737,46,1. FC Union Berlin,Home,78,yellow-card,Simon Adingra,
+738,46,1. FC Union Berlin,Home,79,yellow-card,Dennis Eckert,
+739,46,1. FC Union Berlin,Away,89,substitution,Jamie Leweling,Sheraldo Becker
+740,46,1. FC Union Berlin,Away,91,yellow-card,Christopher Trimmel,
+741,46,1. FC Union Berlin,Home,94,yellow-card,Jose Rodriguez,
+742,47,Fenerbahçe,Away,23,goal,Arda Güler,Goal
+743,47,Fenerbahçe,Away,47,goal,Willian Arão,Arda Güler
+744,47,Fenerbahçe,Home,45,substitution,Denys Garmash,Volodymyr Shepelev
+745,47,Fenerbahçe,Home,45,substitution,Vladyslav Kabaev,Artem Besedin
+746,47,Fenerbahçe,Home,51,yellow-card,Denys Garmash,
+747,47,Fenerbahçe,Home,57,yellow-card,Illia Zabarnyi,
+748,47,Fenerbahçe,Away,63,yellow-card,Attila Szalai,
+749,47,Fenerbahçe,Away,64,substitution,Emre Mor,Arda Güler
+750,47,Fenerbahçe,Away,64,substitution,Joao Pedro Galvao,Michy Batshuayi
+751,47,Fenerbahçe,Away,64,substitution,Irfan Kahveci,Enner Valencia
+752,47,Fenerbahçe,Home,68,yellow-card,Illia Zabarnyi,
+753,47,Fenerbahçe,Home,70,substitution,Olexandr Karavaev,Vitalii Buyalskyi
+754,47,Fenerbahçe,Home,70,substitution,Oleksandr Syrota,Kostiantyn Vivcharenko
+755,47,Fenerbahçe,Away,73,substitution,Miha Zajc,Willian Arão
+756,47,Fenerbahçe,Away,79,substitution,Ezgjan Alioski,Lincoln
+757,47,Fenerbahçe,Home,86,substitution,Samba Diallo,Viktor Tsygankov
+758,47,Fenerbahçe,Away,90,yellow-card,Emre Mor,
+759,47,Fenerbahçe,Home,93,yellow-card,Serhiy Sydorchuk,
+760,47,Fenerbahçe,Away,95,yellow-card,Irfan Kahveci,
+761,48,PSV,Home,32,yellow-card,Hugo Vetlesen,
+762,48,PSV,Away,35,goal,Alfons Sampsted,Own goal
+763,48,PSV,Away,45,substitution,André Ramalho,Armando Obispo
+764,48,PSV,Away,45,substitution,Anwar El Ghazi,Luuk de Jong
+765,48,PSV,Away,45,substitution,Érick Gutiérrez,Joey Veerman
+766,48,PSV,Home,49,yellow-card,Japhet Sery Larsen,
+767,48,PSV,Away,52,goal,Johan Bakayoko,Anwar El Ghazi
+768,48,PSV,Away,59,yellow-card,André Ramalho,
+769,48,PSV,Away,70,substitution,Yorbe Vertessen,Noni Madueke
+770,48,PSV,Home,75,substitution,Morten Konradsen,Japhet Sery Larsen
+771,48,PSV,Home,75,substitution,Ulrik Saltnes,Hugo Vetlesen
+772,48,PSV,Home,75,substitution,Nino Žugelj,Ola Solbakken
+773,48,PSV,Home,75,substitution,Amahl Pellegrino,Joel Mvuka
+774,48,PSV,Home,83,substitution,Lars Salvesen,Runar Espejord
+775,48,PSV,Away,91,substitution,Emmanuel van de Blaak,Ki Hoever
+776,48,PSV,Home,93,goal,Nino Žugelj,Ulrik Saltnes
+777,49,FC Zürich,Home,17,goal,Kieran Tierney,Goal
+778,49,FC Zürich,Away,32,yellow-card,Fidan Aliti,
+779,49,FC Zürich,Away,45,substitution,Antonio Marchesano,Fabian Rohner
+780,49,FC Zürich,Away,49,yellow-card,Nikola Katić,
+781,49,FC Zürich,Away,62,yellow-card,Cheick Condé,
+782,49,FC Zürich,Home,63,substitution,Thomas Partey,Elneny Mohamed
+783,49,FC Zürich,Home,63,substitution,Bukayo Saka,Gabriel Jesus
+784,49,FC Zürich,Home,73,substitution,Martin Ødegaard,Fábio Vieira
+785,49,FC Zürich,Home,73,substitution,Takehiro Tomiyasu,Ben White
+786,49,FC Zürich,Away,77,substitution,Marc Hornschuh,Ole Selnæs
+787,49,FC Zürich,Away,78,substitution,Bohdan Viunnyk,Tosin Aiyegun
+788,49,FC Zürich,Away,82,substitution,Bledian Krasniqi,Cheick Condé
+789,49,FC Zürich,Home,88,substitution,Cedric Soares,Takehiro Tomiyasu
+790,49,FC Zürich,Away,89,substitution,Ivan Santini,Fidan Aliti
+791,49,FC Zürich,Home,96,yellow-card,Gabriel,
+792,50,Sturm,Home,15,goal,Anders Dreyer,Gustav Isaksen
+793,50,Sturm,Home,28,yellow-card,Evander,
+794,50,Sturm,Away,29,yellow-card,Otar Kiteishvili,
+795,50,Sturm,Away,33,yellow-card,Amadou Danté,
+796,50,Sturm,Away,45,substitution,David Schnegg,Amadou Danté
+797,50,Sturm,Away,45,substitution,Emanuel Emegha,William Bøving
+798,50,Sturm,Away,55,yellow-card,David Schnegg,
+799,50,Sturm,Home,66,substitution,Valdemar Byskov,Edward Chilufya
+800,50,Sturm,Home,66,substitution,Oliver Sørensen,Evander
+801,50,Sturm,Home,67,substitution,Nikolas Dyhr,Paulinho
+802,50,Sturm,Home,72,goal,Anders Dreyer,Gustav Isaksen
+803,50,Sturm,Away,74,substitution,Jakob Jantscher,Albian Ajeti
+804,50,Sturm,Away,80,substitution,Manprit Sarkaria,Otar Kiteishvili
+805,50,Sturm,Away,80,substitution,Alexandar Borković,David Affengruber
+806,50,Sturm,Home,88,yellow-card,Erik Sviatchenko,
+807,50,Sturm,Away,88,yellow-card,Emanuel Emegha,
+808,50,Sturm,Home,89,substitution,Juninho,Erik Sviatchenko
+809,50,Sturm,Home,91,substitution,Gustav Christensen,Anders Dreyer
+810,50,Sturm,Home,93,yellow-card,Kristoffer Olsson,
+811,51,Ferencváros,Home,7,goal,Anastasios Bakasetas,Trezeguet
+812,51,Ferencváros,Away,27,yellow-card,Aïssa Laïdouni,
+813,51,Ferencváros,Home,46,yellow-card,Abdülkadir Ömür,
+814,51,Ferencváros,Away,47,yellow-card,Samy Mmaee,
+815,51,Ferencváros,Home,51,yellow-card,Vitor Hugo,
+816,51,Ferencváros,Away,61,substitution,Xavier Mercier,Anderson Esiti
+817,51,Ferencváros,Home,62,substitution,Jean Gbamin,Marek Hamsik
+818,51,Ferencváros,Home,62,substitution,Djaniny,Yusuf Yazıcı
+819,51,Ferencváros,Home,69,substitution,Enis Bardhi,Abdülkadir Ömür
+820,51,Ferencváros,Home,70,substitution,Naci Ünüvar,Anastasios Bakasetas
+821,51,Ferencváros,Home,81,yellow-card,Marc Bartra,
+822,51,Ferencváros,Away,82,substitution,Adnan Kovačević,Tokmac Nguen
+823,51,Ferencváros,Home,85,substitution,Dogucan Haspolat,Trezeguet
+824,51,Ferencváros,Away,88,yellow-card,Bálint Vécsei,
+825,51,Ferencváros,Away,91,substitution,Damir Redzic,Lóránd Pászka
+826,52,Omonia,Home,17,yellow-card,Stjepan Radeljić,
+827,52,Omonia,Away,63,substitution,Fotios Papoulis,Charalampos Charalampous
+828,52,Omonia,Away,63,substitution,Paris Psaltis,Jan Lecjaks
+829,52,Omonia,Away,63,substitution,Panayiotis Zachariou,Loizos Loizou
+830,52,Omonia,Home,68,yellow-card,Rasheed Akanbi,
+831,52,Omonia,Home,69,substitution,Iyayi Atiemwen,Mudasiru Salifu
+832,52,Omonia,Away,76,substitution,Mikkel Diskerud,Moreto Cassamá
+833,52,Omonia,Away,81,yellow-card,Roman Bezus,
+834,52,Omonia,Away,81,substitution,Brandon Barker,Bruno Felipe
+835,52,Omonia,Home,86,substitution,Renan Guedes,Pernambuco
+836,52,Omonia,Home,87,goal,Rasheed Akanbi,Moussa Kyabou
+837,52,Omonia,Home,92,substitution,Heron,Moussa Kyabou
+838,53,Manchester United,Away,17,goal,Alejandro Garnacho,Cristiano Ronaldo
+839,53,Manchester United,Away,58,substitution,Marcus Rashford,Donny van de Beek
+840,53,Manchester United,Home,58,substitution,Aritz Elustondo,Andoni Gorosabel
+841,53,Manchester United,Away,58,substitution,Scott McTominay,Victor Lindelof
+842,53,Manchester United,Home,58,substitution,Robert Navarro,Pablo Marín
+843,53,Manchester United,Away,62,yellow-card,Lisandro Martínez,
+844,53,Manchester United,Home,64,yellow-card,Brais Mendez,
+845,53,Manchester United,Away,71,yellow-card,Cristiano Ronaldo,
+846,53,Manchester United,Home,73,yellow-card,Carlos Fernandez Luna,
+847,53,Manchester United,Home,73,substitution,Ander Guevara,Carlos Fernandez Luna
+848,53,Manchester United,Away,82,substitution,Fred,Christian Eriksen
+849,53,Manchester United,Away,82,substitution,Harry Maguire,Alejandro Garnacho
+850,53,Manchester United,Home,83,substitution,Igor Zubeldia,Brais Mendez
+851,53,Manchester United,Home,83,substitution,Jon Magunazelaia,Alexander Sorloth
+852,53,Manchester United,Away,87,yellow-card,Diogo Dalot,
+853,54,Nantes,Away,5,substitution,Dennis Appiah,Fabio
+854,54,Nantes,Home,45,substitution,Anastasios Sapountzis,Youssef El Arabi
+855,54,Nantes,Away,45,substitution,Ludovic Blas,Moses Simon
+856,54,Nantes,Home,45,substitution,Sime Vrsaljko,Marios Vrousai
+857,54,Nantes,Away,48,yellow-card,Jean-Charles Castelletto,
+858,54,Nantes,Home,60,substitution,Pape Abou Cissé,Alexios Kalogeropoulos
+859,54,Nantes,Away,67,yellow-card,Samuel Moutoussamy,
+860,54,Nantes,Home,69,substitution,Marcelo,Aboubakar Kamara
+861,54,Nantes,Away,73,substitution,Pedro Chirivella,Samuel Moutoussamy
+862,54,Nantes,Away,73,substitution,Kader Bamba,Ignatius Ganago
+863,54,Nantes,Away,79,goal,Mostafa Mohamed,Ludovic Blas
+864,54,Nantes,Away,80,substitution,Marcus Coco,Evann Guessand
+865,54,Nantes,Home,85,substitution,Pipa,Josh Bowler
+866,54,Nantes,Away,90,goal,Ludovic Blas,Mostafa Mohamed
+867,54,Nantes,Home,93,yellow-card,Panagiotis Retsos,
+868,55,Red Star Belgrade,Home,5,goal,Kevin Volland,Caio Henrique
+869,55,Red Star Belgrade,Away,23,yellow-card,Milan Rodic,
+870,55,Red Star Belgrade,Home,27,goal,Kevin Volland,Krépin Diatta
+871,55,Red Star Belgrade,Away,38,yellow-card,Aleksandar Katai,
+872,55,Red Star Belgrade,Away,45,substitution,Slavoljub Srnić,Stefan Mitrović
+873,55,Red Star Belgrade,Home,50,goal,Milan Rodic,Own goal
+874,55,Red Star Belgrade,Home,53,yellow-card,Benoît Badiashile,
+875,55,Red Star Belgrade,Away,54,penalty,Guélor Kanga,Penalty
+876,55,Red Star Belgrade,Away,60,substitution,Kings Kangwa,Aleksandar Katai
+877,55,Red Star Belgrade,Away,62,yellow-card,Slavoljub Srnić,
+878,55,Red Star Belgrade,Away,64,yellow-card,Guélor Kanga,
+879,55,Red Star Belgrade,Away,68,goal,Aleksandar Pesic,Disallowed goal
+880,55,Red Star Belgrade,Away,71,substitution,El Fardou Ben Mohamed,Osman Bukari
+881,55,Red Star Belgrade,Away,71,substitution,Ibrahim Mustapha,Guélor Kanga
+882,55,Red Star Belgrade,Home,75,substitution,Vanderson,Krépin Diatta
+883,55,Red Star Belgrade,Home,76,substitution,Breel Embolo,Wissam Ben Yedder
+884,55,Red Star Belgrade,Away,84,substitution,Irakli Azarov,Milan Rodic
+885,55,Red Star Belgrade,Home,85,substitution,Ismail Jakobs,Aleksandr Golovin
+886,55,Red Star Belgrade,Home,85,substitution,Eliot Matazo,Mohamed Camara
+887,55,Red Star Belgrade,Home,87,goal,Kevin Volland,Ismail Jakobs
+888,55,Red Star Belgrade,Home,90,substitution,Eliesse Ben Seghir,Kevin Volland
+889,56,Lazio,Away,32,yellow-card,Manuel Lazzari,
+890,56,Lazio,Home,45,substitution,Quilindschy Hartman,Marcos López
+891,56,Lazio,Away,45,substitution,Adam Marušić,Manuel Lazzari
+892,56,Lazio,Away,52,yellow-card,Mattia Zaccagni,
+893,56,Lazio,Away,63,substitution,Pedro,Mattia Zaccagni
+894,56,Lazio,Home,63,substitution,Santiago Giménez,Danilo
+895,56,Lazio,Home,64,goal,Santiago Giménez,Goal
+896,56,Lazio,Away,67,substitution,Danilo Cataldi,Marcos Antônio
+897,56,Lazio,Away,67,substitution,Matías Vecino,Toma Bašić
+898,56,Lazio,Home,73,substitution,Patrik Wålemark,Igor Paixão
+899,56,Lazio,Away,77,yellow-card,Pedro,
+900,56,Lazio,Away,79,yellow-card,Matteo Cancellieri,
+901,56,Lazio,Away,81,substitution,Luka Romero,Matteo Cancellieri
+902,56,Lazio,Home,87,yellow-card,Santiago Giménez,
+903,56,Lazio,Home,87,yellow-card,Quinten Timber,
+904,56,Lazio,Away,87,yellow-card,Patric Gabarron,
+905,56,Lazio,Away,87,yellow-card,Adam Marušić,
+906,56,Lazio,Home,92,substitution,Mats Wieffer,Quinten Timber
+907,56,Lazio,Away,95,yellow-card,Luka Romero,
+908,56,Lazio,Away,96,yellow-card,Luka Romero,
+909,57,SC Freiburg,Home,24,yellow-card,Bahlul Mustafazadə,
+910,57,SC Freiburg,Away,25,penalty,Nils Petersen,Penalty
+911,57,SC Freiburg,Away,34,yellow-card,Kevin Schade,
+912,57,SC Freiburg,Away,45,substitution,Lukas Kübler,Christian Günter
+913,57,SC Freiburg,Home,48,yellow-card,Marko Janković,
+914,57,SC Freiburg,Home,55,goal,Marko Janković,Disallowed goal
+915,57,SC Freiburg,Home,55,yellow-card,Kady,
+916,57,SC Freiburg,Home,61,red-card,Kevin Medina,
+917,57,SC Freiburg,Away,62,substitution,Roland Sallai,Kevin Schade
+918,57,SC Freiburg,Home,63,substitution,Maksim Medvedev,Ramil Şeydayev
+919,57,SC Freiburg,Away,64,yellow-card,Yannik Keitel,
+920,57,SC Freiburg,Away,72,substitution,Jeong Woo-yeong,Noah Weißhaupt
+921,57,SC Freiburg,Away,73,substitution,Matthias Ginter,Hugo Siquet
+922,57,SC Freiburg,Away,74,yellow-card,Keven Schlotterbeck,
+923,57,SC Freiburg,Away,84,substitution,Vincenzo Grifo,Lucas Höler
+924,57,SC Freiburg,Home,87,substitution,Musa Qurbanlı,Richard Almeyda
+925,57,SC Freiburg,Home,88,substitution,Toral Bayramov,Elvin Cəfərquliyev
+926,57,SC Freiburg,Home,88,substitution,Júlio Romão,Marko Janković
+927,57,SC Freiburg,Home,88,substitution,Abbas Hüseynov,Marko Vesovic
+928,57,SC Freiburg,Home,91,goal,Owusu Kwabena,Toral Bayramov
+929,57,SC Freiburg,Home,93,yellow-card,Júlio Romão,
+930,58,Feyenoord,Home,56,substitution,Emanuel Emegha,Albian Ajeti
+931,58,Feyenoord,Home,56,substitution,Otar Kiteishvili,Stefan Hierländer
+932,58,Feyenoord,Away,60,substitution,Patrik Wålemark,Alireza Jahanbakhsh
+933,58,Feyenoord,Home,67,yellow-card,Ivan Ljubic,
+934,58,Feyenoord,Away,68,substitution,Marcus Pedersen,Sebastian Szymański
+935,58,Feyenoord,Away,70,yellow-card,Quinten Timber,
+936,58,Feyenoord,Away,79,yellow-card,Patrik Wålemark,
+937,58,Feyenoord,Home,83,substitution,Jakob Jantscher,William Bøving
+938,58,Feyenoord,Away,83,yellow-card,Javairô Dilrosun,
+939,58,Feyenoord,Away,85,substitution,Santiago Giménez,Danilo
+940,58,Feyenoord,Home,91,substitution,David Schnegg,Amadou Danté
+941,58,Feyenoord,Away,92,yellow-card,Marcus Pedersen,
+942,58,Feyenoord,Home,93,goal,Otar Kiteishvili,Emanuel Emegha
+943,59,Olympiacos,Away,17,goal,Youssef El Arabi,Goal
+944,59,Olympiacos,Away,28,yellow-card,Yann M'Vila,
+945,59,Olympiacos,Away,39,substitution,Oleg Reabciuk,Garry Rodrigues
+946,59,Olympiacos,Home,63,substitution,Maximilian Eggestein,Yannik Keitel
+947,59,Olympiacos,Home,64,substitution,Noah Weißhaupt,Ritsu Dōan
+948,59,Olympiacos,Home,64,substitution,Jeong Woo-yeong,Daniel-Kofi Kyereh
+949,59,Olympiacos,Away,69,substitution,Pierre Kunde,Pep Biel
+950,59,Olympiacos,Home,72,substitution,Nils Petersen,Michael Gregoritsch
+951,59,Olympiacos,Home,78,substitution,Kiliann Sildillia,Philipp Lienhart
+952,59,Olympiacos,Away,80,yellow-card,Giorgos Masouras,
+953,59,Olympiacos,Away,82,substitution,Mathieu Valbuena,Giorgos Masouras
+954,59,Olympiacos,Away,82,yellow-card,Youssef El Arabi,
+955,59,Olympiacos,Away,82,substitution,Panagiotis Retsos,Marios Vrousai
+956,59,Olympiacos,Away,83,substitution,Hwang Ui-jo,Youssef El Arabi
+957,59,Olympiacos,Away,91,yellow-card,Alexandros Paschalakis,
+958,59,Olympiacos,Home,93,goal,Lukas Kübler,Christian Günter
+959,59,Olympiacos,Away,94,yellow-card,Pierre Kunde,
+960,59,Olympiacos,Away,95,yellow-card,Ousseynou Ba,
+961,59,Olympiacos,Away,96,yellow-card,Ousseynou Ba,
+962,59,Olympiacos,Home,97,yellow-card,Matthias Ginter,
+963,59,Olympiacos,Away,97,yellow-card,Panagiotis Retsos,
+964,60,Real Sociedad,Away,47,goal,Robert Navarro,Asier Illarramendi
+965,60,Real Sociedad,Away,45,substitution,Pablo Marín,Takefusa Kubo
+966,60,Real Sociedad,Home,45,substitution,Fotios Papoulis,Brandon Barker
+967,60,Real Sociedad,Away,45,substitution,Brais Mendez,Mikel Merino
+968,60,Real Sociedad,Home,50,yellow-card,Adam Lang,
+969,60,Real Sociedad,Home,53,yellow-card,Fotios Papoulis,
+970,60,Real Sociedad,Away,60,goal,Brais Mendez,Robert Navarro
+971,60,Real Sociedad,Home,64,substitution,Héctor Yuste,Nemanja Miletić
+972,60,Real Sociedad,Home,64,substitution,Karim Ansarifard,Bruno Felipe
+973,60,Real Sociedad,Away,69,substitution,Aritz Arambarri,Diego Rico Salguero
+974,60,Real Sociedad,Away,70,substitution,Jon Magunazelaia,Jon Karrikaburu
+975,60,Real Sociedad,Home,72,substitution,Ioannis Kousoulos,Charalampos Charalampous
+976,60,Real Sociedad,Away,73,yellow-card,Asier Illarramendi,
+977,60,Real Sociedad,Home,80,substitution,Nikolas Panagiotou,Adam Matthews
+978,60,Real Sociedad,Away,80,substitution,Beñat Turrientes,Asier Illarramendi
+979,60,Real Sociedad,Away,83,yellow-card,Brais Mendez,
+980,60,Real Sociedad,Home,88,yellow-card,Moreto Cassamá,
+981,61,Qarabağ,Home,16,goal,Ludovic Blas,Pedro Chirivella
+982,61,Qarabağ,Home,41,yellow-card,Kader Bamba,
+983,61,Qarabağ,Away,56,penalty,Filip Ozobić,Penalty
+984,61,Qarabağ,Home,60,yellow-card,Andrei Girotto,
+985,61,Qarabağ,Home,67,substitution,Moussa Sissoko,Sebastien Corchia
+986,61,Qarabağ,Home,67,substitution,Moses Simon,Evann Guessand
+987,61,Qarabağ,Home,67,substitution,Dennis Appiah,Kader Bamba
+988,61,Qarabağ,Away,69,substitution,Marko Janković,Richard Almeyda
+989,61,Qarabağ,Away,69,substitution,Ramil Şeydayev,Filip Ozobić
+990,61,Qarabağ,Home,78,substitution,Ignatius Ganago,Samuel Moutoussamy
+991,61,Qarabağ,Away,79,substitution,Júlio Romão,Qara Qarayev
+992,61,Qarabağ,Away,82,yellow-card,Marko Vesovic,
+993,61,Qarabağ,Away,88,substitution,Elvin Cəfərquliyev,Toral Bayramov
+994,61,Qarabağ,Home,88,substitution,Marcus Coco,Pedro Chirivella
+995,61,Qarabağ,Away,88,substitution,Abbas Hüseynov,Marko Vesovic
+996,61,Qarabağ,Home,94,goal,Ignatius Ganago,Jean-Charles Castelletto
+997,61,Qarabağ,Home,94,yellow-card,Pedro Chirivella,
+998,62,Sheriff,Away,22,yellow-card,Rasheed Akanbi,
+999,62,Sheriff,Home,44,goal,Diogo Dalot,Christian Eriksen
+1000,62,Sheriff,Home,45,substitution,Marcus Rashford,Antony
+1001,62,Sheriff,Home,45,substitution,Harry Maguire,Lisandro Martínez
+1002,62,Sheriff,Home,63,substitution,Luke Shaw,Diogo Dalot
+1003,62,Sheriff,Home,63,substitution,Scott McTominay,Casemiro
+1004,62,Sheriff,Away,64,yellow-card,Renan Guedes,
+1005,62,Sheriff,Home,65,goal,Marcus Rashford,Luke Shaw
+1006,62,Sheriff,Away,79,substitution,Adrian Hatman,Mouhamed Diop
+1007,62,Sheriff,Away,79,substitution,Pernambuco,Rasheed Akanbi
+1008,62,Sheriff,Home,79,substitution,Donny van de Beek,Alejandro Garnacho
+1009,62,Sheriff,Home,81,goal,Cristiano Ronaldo,Goal
+1010,62,Sheriff,Home,84,yellow-card,Harry Maguire,
+1011,62,Sheriff,Away,89,substitution,Nichita Covali,Iyayi Atiemwen
+1012,62,Sheriff,Away,94,substitution,Eugeniu Gliga,Cédric Badolo
+1013,63,Roma,Away,22,yellow-card,Gianluca Mancini,
+1014,63,Roma,Away,28,goal,Bryan Cristante,Disallowed goal
+1015,63,Roma,Home,34,yellow-card,Aapo Halme,
+1016,63,Roma,Away,41,goal,Tammy Abraham,Lorenzo Pellegrini
+1017,63,Roma,Home,45,substitution,Malik Abubakari,Anthony Olusanya
+1018,63,Roma,Home,54,goal,Perparim Hetemaj,Malik Abubakari
+1019,63,Roma,Away,62,goal,Arttu Hoskonen,Own goal
+1020,63,Roma,Home,69,substitution,Nassim Boujellab,Perparim Hetemaj
+1021,63,Roma,Away,77,substitution,Giacomo Faticanti,Cristian Volpato
+1022,63,Roma,Away,78,substitution,Eldor Shomurodov,Lorenzo Pellegrini
+1023,63,Roma,Away,78,substitution,Edoardo Bove,Mady Camara
+1024,63,Roma,Home,80,goal,David Browne,Disallowed goal
+1025,63,Roma,Away,81,yellow-card,Rui Patrício,
+1026,63,Roma,Home,82,yellow-card,Malik Abubakari,
+1027,63,Roma,Away,84,substitution,Marash Kumbulla,Bryan Cristante
+1028,63,Roma,Away,89,substitution,Leonardo Spinazzola,Stephan El Shaarawy
+1029,63,Roma,Away,94,yellow-card,Leonardo Spinazzola,
+1030,64,Monaco,Home,24,yellow-card,Endre Botka,
+1031,64,Monaco,Away,31,goal,Wissam Ben Yedder,Axel Disasi
+1032,64,Monaco,Home,32,yellow-card,Denes Dibusz,
+1033,64,Monaco,Away,41,substitution,Krépin Diatta,Vanderson
+1034,64,Monaco,Home,45,substitution,Marquinhos,Amer Gojak
+1035,64,Monaco,Away,56,yellow-card,Mohamed Camara,
+1036,64,Monaco,Home,56,substitution,Muhamed Besic,Bálint Vécsei
+1037,64,Monaco,Home,65,substitution,Tokmac Nguen,Lóránd Pászka
+1038,64,Monaco,Home,80,yellow-card,Aïssa Laïdouni,
+1039,64,Monaco,Home,81,goal,Kristoffer Zachariassen,Tokmac Nguen
+1040,64,Monaco,Away,83,substitution,Jean Lucas,Youssouf Fofana
+1041,64,Monaco,Away,83,substitution,Breel Embolo,Kevin Volland
+1042,64,Monaco,Away,84,yellow-card,Guillermo Maripan,
+1043,64,Monaco,Home,91,substitution,Anderson Esiti,Marquinhos
+1044,64,Monaco,Home,92,yellow-card,Muhamed Besic,
+1045,65,Trabzonspor,Home,25,yellow-card,Aleksandar Dragovic,
+1046,65,Trabzonspor,Home,37,goal,Aleksandar Katai,Osman Bukari
+1047,65,Trabzonspor,Away,39,goal,Anastasios Bakasetas,Goal
+1048,65,Trabzonspor,Home,45,yellow-card,Aleksandar Pesic,
+1049,65,Trabzonspor,Home,60,substitution,Mirko Ivanić,Slavoljub Srnić
+1050,65,Trabzonspor,Home,64,goal,Aleksandar Pesic,Osman Bukari
+1051,65,Trabzonspor,Away,68,substitution,Abdülkadir Ömür,Jean Gbamin
+1052,65,Trabzonspor,Away,68,substitution,Djaniny,Umut Bozok
+1053,65,Trabzonspor,Home,75,substitution,Kings Kangwa,Aleksandar Katai
+1054,65,Trabzonspor,Away,82,substitution,Yusuf Yazıcı,Marek Hamsik
+1055,65,Trabzonspor,Away,82,substitution,Mountassir Lahtimi,Enis Bardhi
+1056,65,Trabzonspor,Home,83,substitution,Jovan Mijatović,Aleksandar Pesic
+1057,65,Trabzonspor,Home,83,substitution,Ibrahim Mustapha,Stefan Mitrović
+1058,66,Bodø/Glimt,Away,39,yellow-card,Hugo Vetlesen,
+1059,66,Bodø/Glimt,Away,46,goal,Amahl Pellegrino,Albert Grønbæk
+1060,66,Bodø/Glimt,Home,48,yellow-card,Cheick Condé,
+1061,66,Bodø/Glimt,Home,60,substitution,Fabian Rohner,Adrián Guerrero
+1062,66,Bodø/Glimt,Home,63,yellow-card,Blerim Dzemaili,
+1063,66,Bodø/Glimt,Home,67,goal,Nikola Boranijašević,Goal
+1064,66,Bodø/Glimt,Home,71,substitution,Antonio Marchesano,Blerim Dzemaili
+1065,66,Bodø/Glimt,Home,74,yellow-card,Nikola Boranijašević,
+1066,66,Bodø/Glimt,Away,78,substitution,Lars Salvesen,Runar Espejord
+1067,66,Bodø/Glimt,Away,78,substitution,Joel Mvuka,Amahl Pellegrino
+1068,66,Bodø/Glimt,Home,79,yellow-card,Tosin Aiyegun,
+1069,66,Bodø/Glimt,Away,82,substitution,Marius Lode,Brede Moe
+1070,66,Bodø/Glimt,Home,84,substitution,Karol Mets,Fidan Aliti
+1071,66,Bodø/Glimt,Home,84,substitution,Bohdan Viunnyk,Jonathan Okita
+1072,66,Bodø/Glimt,Home,84,substitution,Selmin Hodža,Tosin Aiyegun
+1073,66,Bodø/Glimt,Away,87,substitution,Elias Hagen,Albert Grønbæk
+1074,66,Bodø/Glimt,Home,94,goal,Antonio Marchesano,Fabian Rohner
+1075,67,Arsenal,Home,43,goal,Xavi Simons,Disallowed goal
+1076,67,Arsenal,Home,45,substitution,Luuk de Jong,Anwar El Ghazi
+1077,67,Arsenal,Home,55,goal,Joey Veerman,Luuk de Jong
+1078,67,Arsenal,Away,57,substitution,Thomas Partey,Albert Lokonga
+1079,67,Arsenal,Away,57,substitution,Bukayo Saka,Martin Ødegaard
+1080,67,Arsenal,Away,58,yellow-card,Kieran Tierney,
+1081,67,Arsenal,Home,63,goal,Luuk de Jong,Cody Gakpo
+1082,67,Arsenal,Away,64,substitution,Gabriel Jesus,Rob Holding
+1083,67,Arsenal,Home,67,yellow-card,Phillipp Mwene,
+1084,67,Arsenal,Away,67,yellow-card,Gabriel Martinelli,
+1085,67,Arsenal,Away,74,substitution,Gabriel,Kieran Tierney
+1086,67,Arsenal,Away,74,substitution,Ben White,Takehiro Tomiyasu
+1087,67,Arsenal,Away,79,yellow-card,Gabriel Jesus,
+1088,67,Arsenal,Home,80,substitution,Noni Madueke,Xavi Simons
+1089,67,Arsenal,Home,80,yellow-card,Xavi Simons,
+1090,67,Arsenal,Away,80,yellow-card,Granit Xhaka,
+1091,67,Arsenal,Home,81,substitution,Jordan Teze,Jarrad Branthwaite
+1092,67,Arsenal,Home,81,substitution,Guus Til,Joey Veerman
+1093,67,Arsenal,Home,84,substitution,Mauro Júnior,Cody Gakpo
+1094,68,R. Union SG,Away,10,goal,Teddy Teuma,Lazare Amani
+1095,68,R. Union SG,Away,13,yellow-card,Dante Vanzeir,
+1096,68,R. Union SG,Home,38,yellow-card,Patriot Sejdiu,
+1097,68,R. Union SG,Away,41,goal,Lazare Amani,Teddy Teuma
+1098,68,R. Union SG,Home,45,substitution,Erdal Rakip,Oscar Lewicki
+1099,68,R. Union SG,Away,45,substitution,Gustaf Nilsson,Victor Boniface
+1100,68,R. Union SG,Away,45,substitution,Cameron Puertas,Lazare Amani
+1101,68,R. Union SG,Home,47,yellow-card,Mohamed Turay,
+1102,68,R. Union SG,Away,62,yellow-card,Cameron Puertas,
+1103,68,R. Union SG,Away,70,substitution,Simon Adingra,Loïc Lapoussin
+1104,68,R. Union SG,Home,72,substitution,Jonas Knudsen,Sören Rieks
+1105,68,R. Union SG,Home,72,substitution,Sergio Peña,Hugo Larsson
+1106,68,R. Union SG,Away,76,yellow-card,Siebe Van der Heyden,
+1107,68,R. Union SG,Away,82,substitution,Oussama El Azzouzi,Teddy Teuma
+1108,68,R. Union SG,Home,87,yellow-card,Sergio Peña,
+1109,68,R. Union SG,Away,88,substitution,Guillaume François,Dante Vanzeir
+1110,68,R. Union SG,Away,89,yellow-card,Gustaf Nilsson,
+1111,69,Real Betis,Away,8,yellow-card,Paul Akouokou,
+1112,69,Real Betis,Away,28,substitution,Luiz Henrique,Joaquin
+1113,69,Real Betis,Home,38,yellow-card,Cicinho,
+1114,69,Real Betis,Home,45,yellow-card,Olivier Verdon,
+1115,69,Real Betis,Away,45,substitution,Alex Moreno,Juan Miranda
+1116,69,Real Betis,Away,45,substitution,Nabil Fekir,Paul Akouokou
+1117,69,Real Betis,Away,56,goal,Nabil Fekir,Luiz Henrique
+1118,69,Real Betis,Home,65,substitution,Matías Tissera,Thiago
+1119,69,Real Betis,Away,73,substitution,Enrique Fernández,Guido Rodríguez
+1120,69,Real Betis,Home,74,substitution,Nonato,Jakub Piotrowski
+1121,69,Real Betis,Home,74,substitution,Spas Delev,Rick
+1122,69,Real Betis,Home,83,substitution,Denny Gropper,Aslak Witry
+1123,69,Real Betis,Away,83,substitution,Borja Iglesias,Willian Jose
+1124,69,Real Betis,Home,84,substitution,Claude Gonçalves,Pedro Naressi
+1125,70,Midtjylland,Away,8,goal,Gustav Isaksen,Goal
+1126,70,Midtjylland,Home,15,yellow-card,Alessio Romagnoli,
+1127,70,Midtjylland,Home,36,goal,Sergej Milinković-Savić,Felipe Anderson
+1128,70,Midtjylland,Away,42,yellow-card,Joel Andersson,
+1129,70,Midtjylland,Away,53,substitution,Pione Sisto,Edward Chilufya
+1130,70,Midtjylland,Away,53,substitution,Mads Thychosen,Joel Andersson
+1131,70,Midtjylland,Home,55,substitution,Danilo Cataldi,Marcos Antônio
+1132,70,Midtjylland,Home,55,substitution,Pedro,Matteo Cancellieri
+1133,70,Midtjylland,Home,55,substitution,Matías Vecino,Toma Bašić
+1134,70,Midtjylland,Home,58,goal,Pedro,Goal
+1135,70,Midtjylland,Away,61,substitution,Sory Kaba,Charles
+1136,70,Midtjylland,Home,69,yellow-card,Mario Gila,
+1137,70,Midtjylland,Home,73,substitution,Luka Romero,Mattia Zaccagni
+1138,70,Midtjylland,Home,80,goal,Pedro,Disallowed goal
+1139,70,Midtjylland,Away,82,substitution,Nikolas Dyhr,Paulinho
+1140,70,Midtjylland,Home,82,substitution,Nicolò Casale,Mario Gila
+1141,70,Midtjylland,Away,82,substitution,Juninho,Emiliano Martínez
+1142,70,Midtjylland,Home,89,yellow-card,Matías Vecino,
+1143,70,Midtjylland,Away,90,yellow-card,Juninho,
+1144,70,Midtjylland,Away,95,yellow-card,Erik Sviatchenko,
+1145,71,Rennes,Home,3,yellow-card,Willian Arão,
+1146,71,Rennes,Away,5,goal,Amine Gouiri,Adrien Truffert
+1147,71,Rennes,Away,11,goal,Lovro Majer,Disallowed goal
+1148,71,Rennes,Away,16,goal,Martin Terrier,Amine Gouiri
+1149,71,Rennes,Home,28,yellow-card,Irfan Kahveci,
+1150,71,Rennes,Away,30,goal,Amine Gouiri,Benjamin Bourigeaud
+1151,71,Rennes,Home,42,goal,Enner Valencia,Irfan Kahveci
+1152,71,Rennes,Away,52,substitution,Dogan Alemdar,Steve Mandanda
+1153,71,Rennes,Home,60,substitution,Ezgjan Alioski,Gustavo Henrique
+1154,71,Rennes,Home,61,substitution,Emre Mor,Irfan Kahveci
+1155,71,Rennes,Home,61,substitution,Michy Batshuayi,Joao Pedro Galvao
+1156,71,Rennes,Home,61,substitution,Miha Zajc,Willian Arão
+1157,71,Rennes,Away,70,substitution,Lorenz Assignon,Benjamin Bourigeaud
+1158,71,Rennes,Away,70,substitution,Désiré Doué,Lovro Majer
+1159,71,Rennes,Away,73,yellow-card,Désiré Doué,
+1160,71,Rennes,Home,78,substitution,Arda Güler,Lincoln
+1161,71,Rennes,Home,82,goal,Miha Zajc,Goal
+1162,71,Rennes,Away,83,substitution,Kamaldeen Sulemana,Martin Terrier
+1163,71,Rennes,Away,84,substitution,Arnaud Kalimuendo,Amine Gouiri
+1164,71,Rennes,Home,88,goal,Emre Mor,Miguel Crespo
+1165,71,Rennes,Away,91,yellow-card,Lesley Ugochukwu,
+1166,71,Rennes,Away,94,yellow-card,Hamari Traore,
+1167,72,Dynamo Kyiv,Home,26,goal,Omri Altman,Imad Faraj
+1168,72,Dynamo Kyiv,Away,35,yellow-card,Volodymyr Shepelev,
+1169,72,Dynamo Kyiv,Away,45,goal,Vladyslav Vanat,Vitalii Buyalskyi
+1170,72,Dynamo Kyiv,Home,53,goal,Rafael Lopes,Nikos Englezou
+1171,72,Dynamo Kyiv,Away,55,yellow-card,Viktor Tsygankov,
+1172,72,Dynamo Kyiv,Away,65,substitution,Denys Garmash,Vladyslav Kabaev
+1173,72,Dynamo Kyiv,Home,66,substitution,Rafail Mamas,Rafael Lopes
+1174,72,Dynamo Kyiv,Away,69,yellow-card,Illia Zabarnyi,
+1175,72,Dynamo Kyiv,Home,72,goal,Omri Altman,Goal
+1176,72,Dynamo Kyiv,Away,75,substitution,Kaheem Parris,Vitalii Buyalskyi
+1177,72,Dynamo Kyiv,Home,79,yellow-card,Roberto Rosales,
+1178,72,Dynamo Kyiv,Away,82,goal,Denys Garmash,Oleksandr Tymchyk
+1179,72,Dynamo Kyiv,Home,83,substitution,Victor Olatunji,Omri Altman
+1180,72,Dynamo Kyiv,Away,83,substitution,Samba Diallo,Volodymyr Shepelev
+1181,72,Dynamo Kyiv,Away,83,substitution,Artem Besedin,Vladyslav Vanat
+1182,72,Dynamo Kyiv,Home,84,substitution,Kypros Christoforou,Imad Faraj
+1183,72,Dynamo Kyiv,Away,85,yellow-card,Samba Diallo,
+1184,72,Dynamo Kyiv,Home,88,substitution,Mikel Gonzalez,Roberto Rosales
+1185,72,Dynamo Kyiv,Home,89,substitution,Giorgos Naoum,Ádám Gyurcsó
+1186,72,Dynamo Kyiv,Away,91,goal,Denys Garmash,Goal
+1187,73,Braga,Home,33,yellow-card,Morten Thorsby,
+1188,73,Braga,Away,39,yellow-card,Fabiano,
+1189,73,Braga,Away,47,yellow-card,Abel Ruiz,
+1190,73,Braga,Home,45,substitution,András Schäfer,Morten Thorsby
+1191,73,Braga,Away,47,yellow-card,Castro,
+1192,73,Braga,Home,63,substitution,Kevin Behrens,Jordan Siebatcheu
+1193,73,Braga,Home,68,penalty,Robin Knoche,Penalty
+1194,73,Braga,Home,72,yellow-card,Julian Ryerson,
+1195,73,Braga,Away,75,substitution,Rodrigo Gomes,Iuri Medeiros
+1196,73,Braga,Away,75,substitution,Andre Horta,Castro
+1197,73,Braga,Away,80,substitution,Simon Banza,Fabiano
+1198,73,Braga,Home,91,substitution,Jamie Leweling,Sheraldo Becker
+1199,73,Braga,Away,91,substitution,Álvaro Djaló,Nuno Sequeira
+1200,73,Braga,Home,92,yellow-card,Frederik Rønnow,
+1201,73,Braga,Home,94,substitution,Genki Haraguchi,Janik Haberer
+1202,73,Braga,Away,95,yellow-card,Ricardo Horta,
+1203,74,Malmö,Home,8,yellow-card,Janik Haberer,
+1204,74,Malmö,Away,14,yellow-card,Isaac Thelin,
+1205,74,Malmö,Home,29,yellow-card,Christopher Trimmel,
+1206,74,Malmö,Away,36,yellow-card,Sergio Peña,
+1207,74,Malmö,Away,37,substitution,Erdal Rakip,Jo Inge Berget
+1208,74,Malmö,Home,61,yellow-card,Robin Knoche,
+1209,74,Malmö,Home,63,yellow-card,Rani Khedira,
+1210,74,Malmö,Home,67,substitution,Sven Michel,Jordan Siebatcheu
+1211,74,Malmö,Home,67,substitution,Morten Thorsby,Genki Haraguchi
+1212,74,Malmö,Home,72,yellow-card,Morten Thorsby,
+1213,74,Malmö,Away,76,yellow-card,Martin Olsson,
+1214,74,Malmö,Away,81,substitution,Emmanuel Lomotey,Oscar Lewicki
+1215,74,Malmö,Away,84,substitution,Jonas Knudsen,Martin Olsson
+1216,74,Malmö,Away,84,yellow-card,Jonas Knudsen,
+1217,74,Malmö,Home,85,substitution,Kevin Behrens,Janik Haberer
+1218,74,Malmö,Away,87,yellow-card,Emmanuel Lomotey,
+1219,74,Malmö,Away,87,yellow-card,Anders Christiansen,
+1220,74,Malmö,Home,89,penalty,Robin Knoche,Penalty
+1221,74,Malmö,Away,92,red-card,Emmanuel Lomotey,
+1222,74,Malmö,Home,96,substitution,Niko Gießelmann,Sheraldo Becker
+1223,75,Sturm,Away,22,yellow-card,Sandro Ingolitsch,
+1224,75,Sturm,Home,27,yellow-card,Manuel Lazzari,
+1225,75,Sturm,Away,27,yellow-card,Otar Kiteishvili,
+1226,75,Sturm,Away,44,yellow-card,David Affengruber,
+1227,75,Sturm,Home,45,penalty,Ciro Immobile,Penalty
+1228,75,Sturm,Home,47,yellow-card,Manuel Lazzari,
+1229,75,Sturm,Away,47,yellow-card,Jon Gorenc-Stankovic,
+1230,75,Sturm,Home,48,yellow-card,Ciro Immobile,
+1231,75,Sturm,Home,45,substitution,Adam Marušić,Mattia Zaccagni
+1232,75,Sturm,Away,45,substitution,William Bøving,Emanuel Emegha
+1233,75,Sturm,Away,56,goal,William Bøving,Alexander Prass
+1234,75,Sturm,Home,57,substitution,Sergej Milinković-Savić,Toma Bašić
+1235,75,Sturm,Away,57,substitution,Tomi Horvat,Otar Kiteishvili
+1236,75,Sturm,Home,57,substitution,Matías Vecino,Danilo Cataldi
+1237,75,Sturm,Home,58,substitution,Felipe Anderson,Luis Alberto
+1238,75,Sturm,Home,71,goal,Pedro,Felipe Anderson
+1239,75,Sturm,Away,74,yellow-card,Alexander Prass,
+1240,75,Sturm,Away,79,substitution,Ivan Ljubic,Jon Gorenc-Stankovic
+1241,75,Sturm,Away,79,substitution,Manprit Sarkaria,Stefan Hierländer
+1242,75,Sturm,Home,79,substitution,Matteo Cancellieri,Ciro Immobile
+1243,75,Sturm,Away,79,substitution,Jakob Jantscher,Albian Ajeti
+1244,75,Sturm,Away,83,goal,William Bøving,Tomi Horvat
+1245,75,Sturm,Away,85,yellow-card,Ivan Ljubic,
+1246,75,Sturm,Home,88,yellow-card,Sergej Milinković-Savić,
+1247,76,Sheriff,Away,14,yellow-card,Mudasiru Salifu,
+1248,76,Sheriff,Away,24,yellow-card,Armel Zohouri,
+1249,76,Sheriff,Away,33,yellow-card,Armel Zohouri,
+1250,76,Sheriff,Home,37,yellow-card,Diego Rico Salguero,
+1251,76,Sheriff,Home,46,goal,Alexander Sorloth,David Silva
+1252,76,Sheriff,Home,45,substitution,Robert Navarro,David Silva
+1253,76,Sheriff,Home,45,substitution,Jon Karrikaburu,Carlos Fernandez Luna
+1254,76,Sheriff,Home,62,substitution,Urko González,Brais Mendez
+1255,76,Sheriff,Home,62,substitution,Takefusa Kubo,Alexander Sorloth
+1256,76,Sheriff,Home,65,goal,Diego Rico Salguero,Robert Navarro
+1257,76,Sheriff,Home,74,substitution,Aritz Arambarri,Aritz Elustondo
+1258,76,Sheriff,Away,75,substitution,Heron,Pernambuco
+1259,76,Sheriff,Away,80,substitution,Felipe Vizeu,Rasheed Akanbi
+1260,76,Sheriff,Home,81,goal,Robert Navarro,Takefusa Kubo
+1261,76,Sheriff,Away,85,substitution,Danila Ignatov,Gaby Kiki
+1262,77,FC Zürich,Away,2,yellow-card,Karol Mets,
+1263,77,FC Zürich,Home,9,goal,Érick Gutiérrez,Goal
+1264,77,FC Zürich,Home,15,goal,Joey Veerman,Guus Til
+1265,77,FC Zürich,Away,31,yellow-card,Antonio Marchesano,
+1266,77,FC Zürich,Home,34,goal,Ibrahim Sangaré,Goal
+1267,77,FC Zürich,Home,45,substitution,Richard Ledezma,Xavi Simons
+1268,77,FC Zürich,Home,45,substitution,Anwar El Ghazi,Cody Gakpo
+1269,77,FC Zürich,Home,55,goal,Joey Veerman,Ibrahim Sangaré
+1270,77,FC Zürich,Home,56,substitution,Johan Bakayoko,Joey Veerman
+1271,77,FC Zürich,Away,59,substitution,Ole Selnæs,Cheick Condé
+1272,77,FC Zürich,Away,59,substitution,Jonathan Okita,Bohdan Viunnyk
+1273,77,FC Zürich,Home,61,yellow-card,Richard Ledezma,
+1274,77,FC Zürich,Home,63,substitution,Sávio,Ibrahim Sangaré
+1275,77,FC Zürich,Away,65,yellow-card,Lindrit Kamberi,
+1276,77,FC Zürich,Away,70,substitution,Donis Avdijaj,Tosin Aiyegun
+1277,77,FC Zürich,Away,70,substitution,Bledian Krasniqi,Antonio Marchesano
+1278,77,FC Zürich,Home,74,substitution,Jordan Teze,Armando Obispo
+1279,77,FC Zürich,Away,82,substitution,Fabian Rohner,Marc Hornschuh
+1280,77,FC Zürich,Home,84,goal,Anwar El Ghazi,Guus Til
+1281,78,Omonia,Away,49,yellow-card,Andronikos Kakoullis,
+1282,78,Omonia,Home,60,substitution,Jadon Sancho,Antony
+1283,78,Omonia,Home,60,substitution,Luke Shaw,Tyrell Malacia
+1284,78,Omonia,Away,64,substitution,Karim Ansarifard,Andronikos Kakoullis
+1285,78,Omonia,Away,65,substitution,Paris Psaltis,Adam Matthews
+1286,78,Omonia,Away,68,yellow-card,Moreto Cassamá,
+1287,78,Omonia,Home,70,substitution,Christian Eriksen,Fred
+1288,78,Omonia,Away,74,substitution,Loizos Loizou,Bruno Felipe
+1289,78,Omonia,Away,74,substitution,Fotios Papoulis,Charalampos Charalampous
+1290,78,Omonia,Home,81,substitution,Scott McTominay,Casemiro
+1291,78,Omonia,Away,86,substitution,Mikkel Diskerud,Moreto Cassamá
+1292,78,Omonia,Away,91,yellow-card,Nikolas Panagiotou,
+1293,78,Omonia,Home,93,goal,Scott McTominay,Goal
+1294,79,HJK,Away,33,yellow-card,David Browne,
+1295,79,HJK,Home,38,goal,Denny Gropper,Rick
+1296,79,HJK,Home,47,yellow-card,Cicinho,
+1297,79,HJK,Away,45,substitution,Matti Peltola,David Browne
+1298,79,HJK,Away,55,yellow-card,Jukka Raitala,
+1299,79,HJK,Away,58,substitution,Casper Terho,Pyry Soiri
+1300,79,HJK,Away,59,substitution,Nassim Boujellab,Santeri Väänänen
+1301,79,HJK,Home,64,goal,Rick,Bernard Tekpetey
+1302,79,HJK,Home,67,substitution,Thiago,Matías Tissera
+1303,79,HJK,Away,70,substitution,Atomu Tanaka,Lucas Lingman
+1304,79,HJK,Away,70,substitution,Anthony Olusanya,Santeri Hostikka
+1305,79,HJK,Away,73,yellow-card,Casper Terho,
+1306,79,HJK,Home,77,substitution,Pedro Naressi,Show
+1307,79,HJK,Away,83,yellow-card,Perparim Hetemaj,
+1308,79,HJK,Home,86,substitution,Spas Delev,Bernard Tekpetey
+1309,79,HJK,Home,86,substitution,Nonato,Jakub Piotrowski
+1310,79,HJK,Away,93,yellow-card,Jukka Raitala,
+1311,80,Red Star Belgrade,Away,21,yellow-card,Strahinja Eraković,
+1312,80,Red Star Belgrade,Home,23,goal,Kristoffer Zachariassen,Goal
+1313,80,Red Star Belgrade,Away,27,substitution,Kings Kangwa,Sekou Sanogo
+1314,80,Red Star Belgrade,Home,28,yellow-card,Mats Knoester,
+1315,80,Red Star Belgrade,Away,46,goal,Aleksandar Pesic,Disallowed goal
+1316,80,Red Star Belgrade,Home,51,yellow-card,Endre Botka,
+1317,80,Red Star Belgrade,Away,55,goal,Stefan Mitrović,Guélor Kanga
+1318,80,Red Star Belgrade,Home,61,goal,Samy Mmaee,Lóránd Pászka
+1319,80,Red Star Belgrade,Away,61,substitution,Osman Bukari,Aleksandar Katai
+1320,80,Red Star Belgrade,Home,62,yellow-card,Adama Traoré,
+1321,80,Red Star Belgrade,Home,66,substitution,Tokmac Nguen,Amer Gojak
+1322,80,Red Star Belgrade,Home,81,substitution,Anderson Esiti,Muhamed Besic
+1323,80,Red Star Belgrade,Away,81,substitution,Nemanja Milunović,Aleksandar Dragovic
+1324,80,Red Star Belgrade,Away,82,substitution,Jovan Mijatović,Guélor Kanga
+1325,80,Red Star Belgrade,Home,85,yellow-card,Adam Bogdan,
+1326,80,Red Star Belgrade,Home,91,yellow-card,Tokmac Nguen,
+1327,80,Red Star Belgrade,Home,94,substitution,Franck Boli,Ryan Mmaee
+1328,81,Monaco,Home,24,yellow-card,Enis Bardhi,
+1329,81,Monaco,Home,37,yellow-card,Djaniny,
+1330,81,Monaco,Home,44,goal,Malang Sarr,Own goal
+1331,81,Monaco,Home,45,substitution,Vitor Hugo,Hüseyin Türkmen
+1332,81,Monaco,Home,48,goal,Vitor Hugo,Anastasios Bakasetas
+1333,81,Monaco,Home,52,yellow-card,Stefano Denswil,
+1334,81,Monaco,Home,57,goal,Enis Bardhi,Goal
+1335,81,Monaco,Home,58,substitution,Abdülkadir Ömür,Djaniny
+1336,81,Monaco,Home,58,substitution,Emmanouil Siopis,Marek Hamsik
+1337,81,Monaco,Away,60,substitution,Myron Boadu,Breel Embolo
+1338,81,Monaco,Away,60,substitution,Takumi Minamino,Aleksandr Golovin
+1339,81,Monaco,Away,60,substitution,Gelson Martins,Krépin Diatta
+1340,81,Monaco,Away,63,yellow-card,Youssouf Fofana,
+1341,81,Monaco,Home,64,substitution,Trezeguet,Enis Bardhi
+1342,81,Monaco,Home,67,yellow-card,Emmanouil Siopis,
+1343,81,Monaco,Away,68,substitution,Kevin Volland,Wissam Ben Yedder
+1344,81,Monaco,Home,69,goal,Trezeguet,Goal
+1345,81,Monaco,Home,77,substitution,Yusuf Erdoğan,Eren Elmalı
+1346,81,Monaco,Away,83,substitution,Ismail Jakobs,Caio Henrique
+1347,82,Roma,Home,31,yellow-card,Joaquin,
+1348,82,Roma,Home,31,yellow-card,Andrés Guardado,
+1349,82,Roma,Home,34,goal,Sergio Canales,Rodri
+1350,82,Roma,Away,35,yellow-card,Nemanja Matic,
+1351,82,Roma,Away,44,yellow-card,Gianluca Mancini,
+1352,82,Roma,Away,45,substitution,Mady Camara,Nemanja Matic
+1353,82,Roma,Away,53,goal,Andrea Belotti,Mady Camara
+1354,82,Roma,Away,58,yellow-card,Mady Camara,
+1355,82,Roma,Home,69,substitution,Luiz Henrique,Joaquin
+1356,82,Roma,Home,69,substitution,Borja Iglesias,Willian Jose
+1357,82,Roma,Away,71,substitution,Matías Viña,Leonardo Spinazzola
+1358,82,Roma,Away,76,substitution,Edoardo Bove,Andrea Belotti
+1359,82,Roma,Home,80,yellow-card,Juan Miranda,
+1360,82,Roma,Home,80,substitution,William Carvalho,Andrés Guardado
+1361,82,Roma,Home,81,substitution,Guido Rodríguez,Sergio Canales
+1362,82,Roma,Home,86,substitution,Alex Moreno,Juan Miranda
+1363,82,Roma,Away,88,substitution,Stephan El Shaarawy,Lorenzo Pellegrini
+1364,82,Roma,Home,90,yellow-card,Rodri,
+1365,83,SC Freiburg,Away,25,goal,Lukas Kübler,Goal
+1366,83,SC Freiburg,Away,65,substitution,Kevin Schade,Vincenzo Grifo
+1367,83,SC Freiburg,Away,65,substitution,Michael Gregoritsch,Nils Petersen
+1368,83,SC Freiburg,Away,66,yellow-card,Nicolas Höfler,
+1369,83,SC Freiburg,Away,71,goal,Michael Gregoritsch,Jeong Woo-yeong
+1370,83,SC Freiburg,Home,73,substitution,Marcus Coco,Moussa Sissoko
+1371,83,SC Freiburg,Home,73,substitution,Kader Bamba,Moses Simon
+1372,83,SC Freiburg,Away,75,substitution,Maximilian Eggestein,Yannik Keitel
+1373,83,SC Freiburg,Away,75,substitution,Noah Weißhaupt,Ritsu Dōan
+1374,83,SC Freiburg,Home,80,substitution,Samuel Moutoussamy,Pedro Chirivella
+1375,83,SC Freiburg,Home,80,substitution,Jean-Charles Castelletto,Nicolas Pallois
+1376,83,SC Freiburg,Away,81,goal,Kevin Schade,Goal
+1377,83,SC Freiburg,Away,87,goal,Jeong Woo-yeong,Goal
+1378,83,SC Freiburg,Away,87,substitution,Keven Schlotterbeck,Nicolas Höfler
+1379,83,SC Freiburg,Home,88,substitution,Dennis Appiah,Andrei Girotto
+1380,84,Braga,Away,15,goal,Vítinha,Ricardo Horta
+1381,84,Braga,Home,20,goal,Victor Boniface,Bart Nieuwkoop
+1382,84,Braga,Away,25,yellow-card,Fabiano,
+1383,84,Braga,Away,36,goal,Vítinha,Nuno Sequeira
+1384,84,Braga,Away,41,goal,Vítinha,Ricardo Horta
+1385,84,Braga,Home,45,yellow-card,Lazare Amani,
+1386,84,Braga,Home,45,substitution,Loïc Lapoussin,Christian Burgess
+1387,84,Braga,Away,45,substitution,Víctor Gómez,Fabiano
+1388,84,Braga,Home,49,goal,Dante Vanzeir,Teddy Teuma
+1389,84,Braga,Home,62,goal,Victor Boniface,Loïc Lapoussin
+1390,84,Braga,Home,63,substitution,Cameron Puertas,Lazare Amani
+1391,84,Braga,Away,69,substitution,Uroš Račić,Andre Horta
+1392,84,Braga,Away,69,substitution,Iuri Medeiros,Rodrigo Gomes
+1393,84,Braga,Away,71,yellow-card,Sikou Niakaté,
+1394,84,Braga,Away,76,substitution,Paulo Oliveira,Sikou Niakaté
+1395,84,Braga,Home,82,substitution,Gustaf Nilsson,Dante Vanzeir
+1396,84,Braga,Home,86,yellow-card,Senne Lynen,
+1397,84,Braga,Away,91,substitution,Simon Banza,Abel Ruiz
+1398,84,Braga,Home,94,substitution,Ross Sykes,Bart Nieuwkoop
+1399,84,Braga,Home,95,substitution,Oussama El Azzouzi,Victor Boniface
+1400,85,Midtjylland,Away,12,yellow-card,Emiliano Martínez,
+1401,85,Midtjylland,Away,16,goal,Emiliano Martínez,Paulinho
+1402,85,Midtjylland,Home,32,goal,Quinten Timber,Sebastian Szymański
+1403,85,Midtjylland,Away,42,substitution,Juninho,Henrik Dalsgaard
+1404,85,Midtjylland,Home,48,goal,Dávid Hancko,Lutsharel Geertruida
+1405,85,Midtjylland,Away,58,goal,Erik Sviatchenko,Evander
+1406,85,Midtjylland,Home,63,yellow-card,Lutsharel Geertruida,
+1407,85,Midtjylland,Away,63,yellow-card,Kristoffer Olsson,
+1408,85,Midtjylland,Away,66,substitution,Sory Kaba,Pione Sisto
+1409,85,Midtjylland,Home,70,yellow-card,Orkun Kökçü,
+1410,85,Midtjylland,Home,71,substitution,Javairô Dilrosun,Quinten Timber
+1411,85,Midtjylland,Home,71,substitution,Patrik Wålemark,Alireza Jahanbakhsh
+1412,85,Midtjylland,Home,74,yellow-card,Patrik Wålemark,
+1413,85,Midtjylland,Home,77,substitution,Danilo,Santiago Giménez
+1414,85,Midtjylland,Away,88,substitution,Charles,Emiliano Martínez
+1415,85,Midtjylland,Away,88,substitution,Edward Chilufya,Anders Dreyer
+1416,85,Midtjylland,Away,88,substitution,Oliver Sørensen,Evander
+1417,85,Midtjylland,Away,89,yellow-card,Jonas Lössl,
+1418,86,Olympiacos,Away,40,yellow-card,Sime Vrsaljko,
+1419,86,Olympiacos,Away,60,substitution,Mathieu Valbuena,Pep Biel
+1420,86,Olympiacos,Away,60,substitution,Marcelo,Hwang Ui-jo
+1421,86,Olympiacos,Home,62,substitution,Filip Ozobić,Kady
+1422,86,Olympiacos,Home,66,yellow-card,Richard Almeyda,
+1423,86,Olympiacos,Home,68,substitution,Marko Janković,Richard Almeyda
+1424,86,Olympiacos,Home,68,substitution,Júlio Romão,Qara Qarayev
+1425,86,Olympiacos,Away,69,substitution,Yann M'Vila,Pierre Kunde
+1426,86,Olympiacos,Home,83,yellow-card,Júlio Romão,
+1427,86,Olympiacos,Away,83,yellow-card,Sokratis,
+1428,86,Olympiacos,Home,85,substitution,Toral Bayramov,Elvin Cəfərquliyev
+1429,86,Olympiacos,Home,85,substitution,Abbas Hüseynov,Owusu Kwabena
+1430,86,Olympiacos,Away,86,substitution,Garry Rodrigues,Marios Vrousai
+1431,86,Olympiacos,Away,86,substitution,Hwang In-beom,Andreas Bouchalakis
+1432,86,Olympiacos,Home,88,yellow-card,Marko Vesovic,
+1433,87,Rennes,Away,24,yellow-card,Benjamin Bourigeaud,
+1434,87,Rennes,Home,44,yellow-card,Artem Besedin,
+1435,87,Rennes,Away,48,goal,Christopher Wooh,Benjamin Bourigeaud
+1436,87,Rennes,Home,53,yellow-card,Oleksandr Tymchyk,
+1437,87,Rennes,Away,66,substitution,Kamaldeen Sulemana,Martin Terrier
+1438,87,Rennes,Home,66,substitution,Vladyslav Vanat,Artem Besedin
+1439,87,Rennes,Home,66,substitution,Vladyslav Kabaev,Denys Garmash
+1440,87,Rennes,Home,67,substitution,Kostiantyn Vivcharenko,Vladyslav Dubinchak
+1441,87,Rennes,Away,70,yellow-card,Désiré Doué,
+1442,87,Rennes,Home,70,substitution,Oleksandr Andrievskyi,Volodymyr Shepelev
+1443,87,Rennes,Away,73,substitution,Flavien Tait,Désiré Doué
+1444,87,Rennes,Away,73,substitution,Amine Gouiri,Arnaud Kalimuendo
+1445,87,Rennes,Home,77,substitution,Olexandr Karavaev,Oleksandr Tymchyk
+1446,87,Rennes,Away,84,substitution,Adrien Truffert,Benjamin Bourigeaud
+1447,87,Rennes,Home,95,yellow-card,Vladyslav Vanat,
+1448,88,Arsenal,Home,12,substitution,Albert Grønbæk,Ulrik Saltnes
+1449,88,Arsenal,Away,24,goal,Bukayo Saka,Goal
+1450,88,Arsenal,Away,30,yellow-card,Bukayo Saka,
+1451,88,Arsenal,Away,59,substitution,Granit Xhaka,Bukayo Saka
+1452,88,Arsenal,Away,59,substitution,Gabriel Martinelli,Reiss Nelson
+1453,88,Arsenal,Home,66,yellow-card,Hugo Vetlesen,
+1454,88,Arsenal,Away,70,substitution,Marquinhos,Martin Ødegaard
+1455,88,Arsenal,Away,70,substitution,Takehiro Tomiyasu,Ben White
+1456,88,Arsenal,Home,76,substitution,Lars Salvesen,Runar Espejord
+1457,88,Arsenal,Away,84,substitution,Thomas Partey,Albert Lokonga
+1458,88,Arsenal,Away,89,yellow-card,Thomas Partey,
+1459,88,Arsenal,Home,89,substitution,Brede Moe,Marius Høibråten
+1460,88,Arsenal,Home,89,substitution,Joel Mvuka,Amahl Pellegrino
+1461,88,Arsenal,Away,91,yellow-card,Matt Turner,
+1462,89,Fenerbahçe,Away,16,goal,Joao Pedro Galvao,Ezgjan Alioski
+1463,89,Fenerbahçe,Away,33,yellow-card,Arda Güler,
+1464,89,Fenerbahçe,Home,38,yellow-card,Ángel García,
+1465,89,Fenerbahçe,Home,41,yellow-card,Rafail Mamas,
+1466,89,Fenerbahçe,Away,43,yellow-card,Lincoln,
+1467,89,Fenerbahçe,Home,49,yellow-card,Ivan Trichkovski,
+1468,89,Fenerbahçe,Home,52,penalty,Ivan Trichkovski,Penalty
+1469,89,Fenerbahçe,Home,64,substitution,Giorgos Naoum,Rafail Mamas
+1470,89,Fenerbahçe,Away,67,yellow-card,Serdar Aziz,
+1471,89,Fenerbahçe,Away,68,substitution,Bright Osayi-Samuel,Ezgjan Alioski
+1472,89,Fenerbahçe,Away,69,substitution,Michy Batshuayi,Arda Güler
+1473,89,Fenerbahçe,Away,69,substitution,Enner Valencia,Joao Pedro Galvao
+1474,89,Fenerbahçe,Home,75,substitution,Pere Pons,Luis Gustavo
+1475,89,Fenerbahçe,Home,75,substitution,Victor Olatunji,Omri Altman
+1476,89,Fenerbahçe,Home,75,substitution,Rafael Lopes,Ivan Trichkovski
+1477,89,Fenerbahçe,Away,76,substitution,Miguel Crespo,Lincoln
+1478,89,Fenerbahçe,Away,80,penalty,Michy Batshuayi,Penalty
+1479,89,Fenerbahçe,Home,82,substitution,Mikel Gonzalez,Oier
+1480,89,Fenerbahçe,Home,84,yellow-card,Ángel García,
+1481,89,Fenerbahçe,Away,86,penalty,Enner Valencia,Missed penalty
+1482,89,Fenerbahçe,Away,88,yellow-card,Gustavo Henrique,
+1483,89,Fenerbahçe,Home,88,yellow-card,Victor Olatunji,
+1484,89,Fenerbahçe,Away,92,substitution,Irfan Kahveci,Diego Rossi
+1485,89,Fenerbahçe,Home,95,yellow-card,Pere Pons,
+1486,89,Fenerbahçe,Home,95,yellow-card,Imad Faraj,
+1487,90,Bodø/Glimt,Home,23,goal,Edward Nketiah,Goal
+1488,90,Bodø/Glimt,Home,27,goal,Rob Holding,Fábio Vieira
+1489,90,Bodø/Glimt,Away,33,yellow-card,Brice Wembangomo,
+1490,90,Bodø/Glimt,Home,41,yellow-card,Granit Xhaka,
+1491,90,Bodø/Glimt,Away,53,yellow-card,Alfons Sampsted,
+1492,90,Bodø/Glimt,Home,58,substitution,Martin Ødegaard,Granit Xhaka
+1493,90,Bodø/Glimt,Home,59,substitution,Gabriel Jesus,Gabriel Martinelli
+1494,90,Bodø/Glimt,Home,59,substitution,Bukayo Saka,Marquinhos
+1495,90,Bodø/Glimt,Home,70,substitution,Ben White,Kieran Tierney
+1496,90,Bodø/Glimt,Away,73,substitution,Ola Solbakken,Joel Mvuka
+1497,90,Bodø/Glimt,Away,73,substitution,Albert Grønbæk,Hugo Vetlesen
+1498,90,Bodø/Glimt,Home,82,substitution,Reiss Nelson,Edward Nketiah
+1499,90,Bodø/Glimt,Home,84,goal,Fábio Vieira,Gabriel Jesus
+1500,90,Bodø/Glimt,Away,88,substitution,Morten Konradsen,Alfons Sampsted
+1501,90,Bodø/Glimt,Away,88,substitution,Lars Salvesen,Runar Espejord
+1502,90,Bodø/Glimt,Away,88,substitution,Marius Høibråten,Marius Lode
+1503,91,R. Union SG,Away,17,yellow-card,Teddy Teuma,
+1504,91,R. Union SG,Home,23,yellow-card,Vítor Tormena,
+1505,91,R. Union SG,Home,49,goal,Abel Ruiz,Vítinha
+1506,91,R. Union SG,Home,62,yellow-card,Fabiano,
+1507,91,R. Union SG,Home,65,substitution,Rodrigo Gomes,Andre Horta
+1508,91,R. Union SG,Away,67,substitution,Simon Adingra,Loïc Lapoussin
+1509,91,R. Union SG,Home,79,substitution,Simon Banza,Vítinha
+1510,91,R. Union SG,Home,79,substitution,Diego Lainez,Ricardo Horta
+1511,91,R. Union SG,Away,83,substitution,Gustaf Nilsson,Ismaël Kandouss
+1512,91,R. Union SG,Away,83,substitution,Guillaume François,Bart Nieuwkoop
+1513,91,R. Union SG,Away,86,goal,Gustaf Nilsson,Simon Adingra
+1514,91,R. Union SG,Home,89,substitution,Álvaro Djaló,Abel Ruiz
+1515,91,R. Union SG,Away,89,substitution,Cameron Puertas,Lazare Amani
+1516,91,R. Union SG,Home,89,substitution,Jean Gorby,Castro
+1517,91,R. Union SG,Away,91,substitution,Ross Sykes,Dante Vanzeir
+1518,91,R. Union SG,Away,93,yellow-card,Anthony Moris,
+1519,91,R. Union SG,Away,94,goal,Gustaf Nilsson,Simon Adingra
+1520,92,Nantes,Home,20,substitution,Nils Petersen,Michael Gregoritsch
+1521,92,Nantes,Home,48,goal,Daniel-Kofi Kyereh,Ritsu Dōan
+1522,92,Nantes,Away,66,yellow-card,Mostafa Mohamed,
+1523,92,Nantes,Home,66,yellow-card,Kiliann Sildillia,
+1524,92,Nantes,Away,69,substitution,Ignatius Ganago,Moses Simon
+1525,92,Nantes,Away,69,substitution,Moussa Sissoko,Pedro Chirivella
+1526,92,Nantes,Home,71,substitution,Yannik Keitel,Maximilian Eggestein
+1527,92,Nantes,Home,72,goal,Vincenzo Grifo,Christian Günter
+1528,92,Nantes,Home,78,yellow-card,Christian Günter,
+1529,92,Nantes,Away,78,substitution,Sebastien Corchia,Dennis Appiah
+1530,92,Nantes,Away,78,substitution,Evann Guessand,Andrei Girotto
+1531,92,Nantes,Home,82,substitution,Noah Weißhaupt,Vincenzo Grifo
+1532,92,Nantes,Home,82,substitution,Kevin Schade,Daniel-Kofi Kyereh
+1533,92,Nantes,Home,83,substitution,Lukas Kübler,Ritsu Dōan
+1534,92,Nantes,Away,84,substitution,Kader Bamba,Mostafa Mohamed
+1535,92,Nantes,Home,90,yellow-card,Yannik Keitel,
+1536,93,Real Betis,Home,5,substitution,Leonardo Spinazzola,Zeki Çelik
+1537,93,Real Betis,Away,22,substitution,Luiz Henrique,Nabil Fekir
+1538,93,Real Betis,Away,29,yellow-card,Luiz Felipe,
+1539,93,Real Betis,Away,32,yellow-card,Claudio Bravo,
+1540,93,Real Betis,Away,33,yellow-card,Andrés Guardado,
+1541,93,Real Betis,Home,34,penalty,Paulo Dybala,Penalty
+1542,93,Real Betis,Away,40,goal,Guido Rodríguez,Luiz Henrique
+1543,93,Real Betis,Away,60,substitution,Rodri,Joaquin
+1544,93,Real Betis,Home,71,yellow-card,Gianluca Mancini,
+1545,93,Real Betis,Home,72,substitution,Andrea Belotti,Tammy Abraham
+1546,93,Real Betis,Away,75,substitution,William Carvalho,Andrés Guardado
+1547,93,Real Betis,Away,75,substitution,Borja Iglesias,Willian Jose
+1548,93,Real Betis,Away,75,substitution,Alex Moreno,Juan Miranda
+1549,93,Real Betis,Home,80,substitution,Stephan El Shaarawy,Paulo Dybala
+1550,93,Real Betis,Home,80,substitution,Mady Camara,Bryan Cristante
+1551,93,Real Betis,Away,83,yellow-card,Germán Pezzella,
+1552,93,Real Betis,Away,88,goal,Luiz Henrique,Rodri
+1553,93,Real Betis,Home,93,red-card,Nicolò Zaniolo,
+1554,94,Dynamo Kyiv,Home,23,goal,Martin Terrier,Amine Gouiri
+1555,94,Dynamo Kyiv,Away,33,goal,Viktor Tsygankov,Goal
+1556,94,Dynamo Kyiv,Home,64,substitution,Désiré Doué,Amine Gouiri
+1557,94,Dynamo Kyiv,Home,64,substitution,Arnaud Kalimuendo,Lovro Majer
+1558,94,Dynamo Kyiv,Away,79,substitution,Vladyslav Vanat,Vladyslav Kabaev
+1559,94,Dynamo Kyiv,Home,79,substitution,Matthis Abline,Martin Terrier
+1560,94,Dynamo Kyiv,Home,85,substitution,Adrien Truffert,Benjamin Bourigeaud
+1561,94,Dynamo Kyiv,Away,86,substitution,Olexandr Karavaev,Viktor Tsygankov
+1562,94,Dynamo Kyiv,Away,88,yellow-card,Illia Zabarnyi,
+1563,94,Dynamo Kyiv,Home,89,goal,Désiré Doué,Goal
+1564,94,Dynamo Kyiv,Away,92,substitution,Kostiantyn Vivcharenko,Denys Popov
+1565,95,Qarabağ,Away,5,goal,Abdellah Zoubir,Disallowed goal
+1566,95,Qarabağ,Away,34,yellow-card,Elvin Cəfərquliyev,
+1567,95,Qarabağ,Away,45,substitution,Toral Bayramov,Elvin Cəfərquliyev
+1568,95,Qarabağ,Home,60,substitution,Giorgos Masouras,Garry Rodrigues
+1569,95,Qarabağ,Home,60,substitution,Marcelo,Andreas Bouchalakis
+1570,95,Qarabağ,Away,65,substitution,Ramil Şeydayev,Leandro Andrade
+1571,95,Qarabağ,Away,65,substitution,Júlio Romão,Richard Almeyda
+1572,95,Qarabağ,Away,68,goal,Owusu Kwabena,Kady
+1573,95,Qarabağ,Home,74,substitution,Hwang In-beom,Pierre Kunde
+1574,95,Qarabağ,Home,74,substitution,Aboubakar Kamara,Hwang Ui-jo
+1575,95,Qarabağ,Away,82,goal,Marko Vesovic,Goal
+1576,95,Qarabağ,Home,83,substitution,Mathieu Valbuena,Pape Abou Cissé
+1577,95,Qarabağ,Away,86,yellow-card,Ramil Şeydayev,
+1578,95,Qarabağ,Away,86,goal,Ramil Şeydayev,Marko Vesovic
+1579,95,Qarabağ,Home,88,yellow-card,Mathieu Valbuena,
+1580,95,Qarabağ,Away,88,yellow-card,Qara Qarayev,
+1581,95,Qarabağ,Away,91,substitution,Abbas Hüseynov,Marko Vesovic
+1582,95,Qarabağ,Away,91,substitution,Filip Ozobić,Owusu Kwabena
+1583,96,AEK,Away,9,yellow-card,Oier,
+1584,96,AEK,Away,12,yellow-card,Imad Faraj,
+1585,96,AEK,Home,26,goal,Michy Batshuayi,Diego Rossi
+1586,96,AEK,Home,39,yellow-card,Bright Osayi-Samuel,
+1587,96,AEK,Away,39,yellow-card,Omri Altman,
+1588,96,AEK,Home,47,yellow-card,Lincoln,
+1589,96,AEK,Away,69,substitution,Victor Olatunji,Omri Altman
+1590,96,AEK,Away,70,substitution,Giorgos Naoum,Oier
+1591,96,AEK,Home,72,substitution,Ferdi Kadıoğlu,Bright Osayi-Samuel
+1592,96,AEK,Home,72,substitution,Enner Valencia,Lincoln
+1593,96,AEK,Home,72,substitution,Irfan Kahveci,Emre Mor
+1594,96,AEK,Home,79,goal,Rafail Mamas,Own goal
+1595,96,AEK,Away,80,substitution,Pere Pons,Luis Gustavo
+1596,96,AEK,Away,81,substitution,Ivan Trichkovski,Rafael Lopes
+1597,96,AEK,Home,87,substitution,Serdar Aziz,Diego Rossi
+1598,96,AEK,Home,88,substitution,Arda Güler,Michy Batshuayi
+1599,97,Feyenoord,Away,21,goal,Sebastian Szymański,Goal
+1600,97,Feyenoord,Home,29,yellow-card,Erik Sviatchenko,
+1601,97,Feyenoord,Away,32,substitution,Alireza Jahanbakhsh,Oussama Idrissi
+1602,97,Feyenoord,Home,40,yellow-card,Henrik Dalsgaard,
+1603,97,Feyenoord,Home,44,yellow-card,Evander,
+1604,97,Feyenoord,Away,45,penalty,Orkun Kökçü,Penalty
+1605,97,Feyenoord,Away,47,yellow-card,Marcos López,
+1606,97,Feyenoord,Away,50,yellow-card,Dávid Hancko,
+1607,97,Feyenoord,Home,45,substitution,Anders Dreyer,Sory Kaba
+1608,97,Feyenoord,Home,45,substitution,Juninho,Erik Sviatchenko
+1609,97,Feyenoord,Home,47,yellow-card,Juninho,
+1610,97,Feyenoord,Home,54,goal,Gustav Isaksen,Goal
+1611,97,Feyenoord,Away,66,substitution,Patrik Wålemark,Javairô Dilrosun
+1612,97,Feyenoord,Away,66,substitution,Marcus Pedersen,Orkun Kökçü
+1613,97,Feyenoord,Away,68,yellow-card,Alireza Jahanbakhsh,
+1614,97,Feyenoord,Home,73,substitution,Edward Chilufya,Pione Sisto
+1615,97,Feyenoord,Home,73,substitution,Mads Thychosen,Joel Andersson
+1616,97,Feyenoord,Home,75,yellow-card,Emiliano Martínez,
+1617,97,Feyenoord,Home,77,yellow-card,Paulinho,
+1618,97,Feyenoord,Away,79,substitution,Mats Wieffer,Danilo
+1619,97,Feyenoord,Away,79,substitution,Santiago Giménez,Sebastian Szymański
+1620,97,Feyenoord,Home,84,substitution,Nikolas Dyhr,Paulinho
+1621,97,Feyenoord,Home,85,goal,Juninho,Evander
+1622,98,Real Sociedad,Home,17,yellow-card,Moussa Kyabou,
+1623,98,Real Sociedad,Away,29,yellow-card,Álex Sola,
+1624,98,Real Sociedad,Home,31,yellow-card,Iyayi Atiemwen,
+1625,98,Real Sociedad,Away,53,goal,David Silva,Alexander Sorloth
+1626,98,Real Sociedad,Home,61,yellow-card,Moussa Kyabou,
+1627,98,Real Sociedad,Away,62,goal,Aritz Elustondo,Brais Mendez
+1628,98,Real Sociedad,Home,66,substitution,Mudasiru Salifu,Iyayi Atiemwen
+1629,98,Real Sociedad,Home,66,substitution,Abou Ouattara,Pernambuco
+1630,98,Real Sociedad,Away,69,substitution,Carlos Fernandez Luna,David Silva
+1631,98,Real Sociedad,Away,69,substitution,Aritz Arambarri,Álex Sola
+1632,98,Real Sociedad,Home,77,substitution,Patrick Kpozo,Felipe Vizeu
+1633,98,Real Sociedad,Away,77,substitution,Asier Illarramendi,Mikel Merino
+1634,98,Real Sociedad,Away,77,substitution,Beñat Turrientes,Brais Mendez
+1635,98,Real Sociedad,Away,81,substitution,Jon Karrikaburu,Alexander Sorloth
+1636,99,Lazio,Away,25,yellow-card,Danilo Cataldi,
+1637,99,Lazio,Home,33,yellow-card,Stefan Hierländer,
+1638,99,Lazio,Home,35,yellow-card,Jusuf Gazibegović,
+1639,99,Lazio,Away,45,substitution,Mattia Zaccagni,Felipe Anderson
+1640,99,Lazio,Away,45,substitution,Manuel Lazzari,Adam Marušić
+1641,99,Lazio,Away,63,substitution,Matías Vecino,Sergej Milinković-Savić
+1642,99,Lazio,Home,69,substitution,Otar Kiteishvili,Tomi Horvat
+1643,99,Lazio,Home,70,substitution,Mohammed Fuseini,William Bøving
+1644,99,Lazio,Away,72,substitution,Matteo Cancellieri,Pedro
+1645,99,Lazio,Away,75,substitution,Patric Gabarron,Mario Gila
+1646,99,Lazio,Home,76,substitution,Ivan Ljubic,Stefan Hierländer
+1647,99,Lazio,Home,76,substitution,Manprit Sarkaria,Albian Ajeti
+1648,99,Lazio,Away,80,goal,Ciro Immobile,Disallowed goal
+1649,99,Lazio,Home,81,yellow-card,Jusuf Gazibegović,
+1650,99,Lazio,Home,84,substitution,Sandro Ingolitsch,Alexander Prass
+1651,99,Lazio,Away,88,yellow-card,Patric Gabarron,
+1652,99,Lazio,Home,90,yellow-card,Jörg Siebenhandl,
+1653,99,Lazio,Home,95,yellow-card,Otar Kiteishvili,
+1654,100,Manchester United,Home,34,goal,Karim Ansarifard,Bruno Felipe
+1655,100,Manchester United,Away,45,substitution,Marcus Rashford,Jadon Sancho
+1656,100,Manchester United,Away,45,substitution,Luke Shaw,Tyrell Malacia
+1657,100,Manchester United,Away,53,goal,Marcus Rashford,Goal
+1658,100,Manchester United,Home,61,substitution,Andronikos Kakoullis,Karim Ansarifard
+1659,100,Manchester United,Home,61,substitution,Fotios Papoulis,Brandon Barker
+1660,100,Manchester United,Away,61,substitution,Anthony Martial,Bruno Fernandes
+1661,100,Manchester United,Home,62,yellow-card,Charalampos Charalampous,
+1662,100,Manchester United,Away,63,goal,Anthony Martial,Marcus Rashford
+1663,100,Manchester United,Home,71,substitution,Loizos Loizou,Bruno Felipe
+1664,100,Manchester United,Home,72,substitution,Nikolas Panagiotou,Mikkel Diskerud
+1665,100,Manchester United,Away,74,substitution,Fred,Antony
+1666,100,Manchester United,Away,82,substitution,Scott McTominay,Casemiro
+1667,100,Manchester United,Home,82,substitution,Roman Bezus,Nemanja Miletić
+1668,100,Manchester United,Away,84,goal,Marcus Rashford,Cristiano Ronaldo
+1669,100,Manchester United,Home,85,goal,Nikolas Panagiotou,Andronikos Kakoullis
+1670,100,Manchester United,Away,87,yellow-card,Lisandro Martínez,
+1671,100,Manchester United,Home,87,yellow-card,Andronikos Kakoullis,
+1672,100,Manchester United,Away,95,yellow-card,Luke Shaw,
+1673,101,Trabzonspor,Away,4,yellow-card,Stefano Denswil,
+1674,101,Trabzonspor,Away,11,red-card,Maxi Gómez,
+1675,101,Trabzonspor,Home,14,goal,Wissam Ben Yedder,Breel Embolo
+1676,101,Trabzonspor,Home,22,yellow-card,Vanderson,
+1677,101,Trabzonspor,Home,47,penalty,Wissam Ben Yedder,Penalty
+1678,101,Trabzonspor,Home,55,goal,Axel Disasi,Breel Embolo
+1679,101,Trabzonspor,Away,56,substitution,Umut Bozok,Yusuf Yazıcı
+1680,101,Trabzonspor,Away,56,substitution,Anastasios Bakasetas,Marek Hamsik
+1681,101,Trabzonspor,Home,57,substitution,Kevin Volland,Breel Embolo
+1682,101,Trabzonspor,Home,57,substitution,Myron Boadu,Wissam Ben Yedder
+1683,101,Trabzonspor,Home,65,substitution,Jean Lucas,Mohamed Camara
+1684,101,Trabzonspor,Home,65,substitution,Guillermo Maripan,Vanderson
+1685,101,Trabzonspor,Away,72,goal,Anastasios Bakasetas,Umut Bozok
+1686,101,Trabzonspor,Away,72,substitution,Djaniny,Trezeguet
+1687,101,Trabzonspor,Away,72,substitution,Abdülkadir Ömür,Emmanouil Siopis
+1688,101,Trabzonspor,Home,73,substitution,Takumi Minamino,Aleksandr Golovin
+1689,101,Trabzonspor,Home,74,yellow-card,Krépin Diatta,
+1690,101,Trabzonspor,Away,82,substitution,Naci Ünüvar,Enis Bardhi
+1691,102,1. FC Union Berlin,Home,42,yellow-card,Erdal Rakip,
+1692,102,1. FC Union Berlin,Away,45,red-card,András Schäfer,
+1693,102,1. FC Union Berlin,Home,64,substitution,Ola Toivonen,Jo Inge Berget
+1694,102,1. FC Union Berlin,Away,68,goal,Sheraldo Becker,Robin Knoche
+1695,102,1. FC Union Berlin,Home,73,yellow-card,Felix Beijmo,
+1696,102,1. FC Union Berlin,Away,74,substitution,Kevin Behrens,Jordan Siebatcheu
+1697,102,1. FC Union Berlin,Away,74,substitution,Niko Gießelmann,Julian Ryerson
+1698,102,1. FC Union Berlin,Away,79,yellow-card,Janik Haberer,
+1699,102,1. FC Union Berlin,Home,80,substitution,Patriot Sejdiu,Joseph Ceesay
+1700,102,1. FC Union Berlin,Home,80,substitution,Moustafa Zeidan,Hugo Larsson
+1701,102,1. FC Union Berlin,Away,84,substitution,Genki Haraguchi,Janik Haberer
+1702,102,1. FC Union Berlin,Away,91,substitution,Morten Thorsby,Sheraldo Becker
+1703,103,Ludogorets,Away,10,goal,Matías Tissera,Cauly
+1704,103,Ludogorets,Home,51,yellow-card,Santeri Hostikka,
+1705,103,Ludogorets,Home,55,goal,Perparim Hetemaj,Santeri Hostikka
+1706,103,Ludogorets,Home,58,yellow-card,Jukka Raitala,
+1707,103,Ludogorets,Away,61,substitution,Rick,Bernard Tekpetey
+1708,103,Ludogorets,Home,64,substitution,Anthony Olusanya,Malik Abubakari
+1709,103,Ludogorets,Away,69,substitution,Nonato,Show
+1710,103,Ludogorets,Away,70,substitution,Thiago,Matías Tissera
+1711,103,Ludogorets,Home,74,substitution,Nassim Boujellab,Santeri Hostikka
+1712,103,Ludogorets,Home,74,substitution,Bojan Radulović,Perparim Hetemaj
+1713,103,Ludogorets,Away,80,yellow-card,Jakub Piotrowski,
+1714,103,Ludogorets,Home,86,yellow-card,Nassim Boujellab,
+1715,103,Ludogorets,Away,87,substitution,Pedro Naressi,Kiril Despodov
+1716,104,Ferencváros,Home,21,yellow-card,Aleksandar Dragovic,
+1717,104,Ferencváros,Home,27,penalty,Guélor Kanga,Penalty
+1718,104,Ferencváros,Home,35,goal,Stefan Mitrović,Aleksandar Pesic
+1719,104,Ferencváros,Home,50,goal,Aleksandar Katai,Marko Gobeljić
+1720,104,Ferencváros,Home,54,yellow-card,Sekou Sanogo,
+1721,104,Ferencváros,Away,57,substitution,Bálint Vécsei,Muhamed Besic
+1722,104,Ferencváros,Away,57,substitution,Ryan Mmaee,Franck Boli
+1723,104,Ferencváros,Home,60,goal,Guélor Kanga,Mirko Ivanić
+1724,104,Ferencváros,Home,62,substitution,Slavoljub Srnić,Sekou Sanogo
+1725,104,Ferencváros,Home,62,substitution,Radovan Pankov,Stefan Mitrović
+1726,104,Ferencváros,Away,66,substitution,Marquinhos,Tokmac Nguen
+1727,104,Ferencváros,Away,66,substitution,Amer Gojak,Aïssa Laïdouni
+1728,104,Ferencváros,Away,71,goal,Kristoffer Zachariassen,Henry Wingo
+1729,104,Ferencváros,Away,72,yellow-card,Samy Mmaee,
+1730,104,Ferencváros,Home,72,substitution,Nemanja Motika,Aleksandar Katai
+1731,104,Ferencváros,Home,72,substitution,Veljko Nikolić,Aleksandar Dragovic
+1732,104,Ferencváros,Home,76,yellow-card,Milan Rodic,
+1733,104,Ferencváros,Away,77,substitution,Lóránd Pászka,Endre Botka
+1734,104,Ferencváros,Away,79,yellow-card,Mats Knoester,
+1735,104,Ferencváros,Home,80,substitution,Ibrahim Mustapha,Guélor Kanga
+1736,104,Ferencváros,Away,86,yellow-card,Bálint Vécsei,
+1737,105,PSV,Away,10,goal,Yorbe Vertessen,Armando Obispo
+1738,105,PSV,Away,15,goal,Yorbe Vertessen,Goal
+1739,105,PSV,Away,21,goal,Cody Gakpo,Goal
+1740,105,PSV,Away,35,goal,Xavi Simons,Cody Gakpo
+1741,105,PSV,Away,45,substitution,Jordan Teze,Armando Obispo
+1742,105,PSV,Away,55,goal,Cody Gakpo,Joey Veerman
+1743,105,PSV,Home,56,substitution,Marc Hornschuh,Blerim Dzemaili
+1744,105,PSV,Home,56,substitution,Jonathan Okita,Nikola Boranijašević
+1745,105,PSV,Home,56,substitution,Karol Mets,Fidan Aliti
+1746,105,PSV,Away,61,substitution,Anwar El Ghazi,Yorbe Vertessen
+1747,105,PSV,Away,61,substitution,Guus Til,Xavi Simons
+1748,105,PSV,Away,62,substitution,Johan Bakayoko,Cody Gakpo
+1749,105,PSV,Away,66,substitution,Ki Hoever,Philipp Max
+1750,105,PSV,Home,71,substitution,Nikola Katić,Mirlind Kryeziu
+1751,105,PSV,Home,71,substitution,Donis Avdijaj,Antonio Marchesano
+1752,105,PSV,Home,87,goal,Jonathan Okita,Tosin Aiyegun
+1753,106,PSV,Home,46,yellow-card,Granit Xhaka,
+1754,106,PSV,Away,56,yellow-card,Érick Gutiérrez,
+1755,106,PSV,Away,65,substitution,Noni Madueke,Guus Til
+1756,106,PSV,Away,66,substitution,Jordan Teze,Philipp Max
+1757,106,PSV,Home,67,substitution,Thomas Partey,Albert Lokonga
+1758,106,PSV,Home,67,substitution,Martin Ødegaard,Fábio Vieira
+1759,106,PSV,Home,70,goal,Granit Xhaka,Takehiro Tomiyasu
+1760,106,PSV,Home,76,substitution,Gabriel Martinelli,Gabriel Jesus
+1761,106,PSV,Home,76,substitution,Ben White,Takehiro Tomiyasu
+1762,106,PSV,Away,77,substitution,Luuk de Jong,Joey Veerman
+1763,106,PSV,Home,85,substitution,Reiss Nelson,Bukayo Saka
+1764,106,PSV,Home,88,yellow-card,Martin Ødegaard,
+1765,106,PSV,Home,88,yellow-card,Kieran Tierney,
+1766,106,PSV,Away,91,substitution,Richard Ledezma,Xavi Simons
+1767,107,Malmö,Away,6,goal,Joseph Ceesay,Martin Olsson
+1768,107,Malmö,Home,17,goal,Christian Burgess,Teddy Teuma
+1769,107,Malmö,Away,45,substitution,Sören Rieks,Jonas Knudsen
+1770,107,Malmö,Home,53,substitution,Simon Adingra,Dennis Eckert
+1771,107,Malmö,Away,57,goal,Isaac Thelin,Felix Beijmo
+1772,107,Malmö,Away,61,substitution,Hugo Larsson,Moustafa Zeidan
+1773,107,Malmö,Home,66,substitution,Gustaf Nilsson,Guillaume François
+1774,107,Malmö,Home,69,goal,Teddy Teuma,Christian Burgess
+1775,107,Malmö,Home,71,goal,Victor Boniface,Loïc Lapoussin
+1776,107,Malmö,Away,74,substitution,Ola Toivonen,Joseph Ceesay
+1777,107,Malmö,Home,80,substitution,Jose Rodriguez,Victor Boniface
+1778,107,Malmö,Home,88,yellow-card,Siebe Van der Heyden,
+1779,108,1. FC Union Berlin,Away,27,yellow-card,András Schäfer,
+1780,108,1. FC Union Berlin,Home,47,yellow-card,Simon Banza,
+1781,108,1. FC Union Berlin,Home,61,substitution,Andre Horta,Uroš Račić
+1782,108,1. FC Union Berlin,Home,61,substitution,Iuri Medeiros,Álvaro Djaló
+1783,108,1. FC Union Berlin,Away,64,substitution,Christopher Trimmel,Tymoteusz Puchacz
+1784,108,1. FC Union Berlin,Away,68,substitution,Genki Haraguchi,András Schäfer
+1785,108,1. FC Union Berlin,Home,70,substitution,Abel Ruiz,Simon Banza
+1786,108,1. FC Union Berlin,Home,71,yellow-card,Andre Horta,
+1787,108,1. FC Union Berlin,Home,77,goal,Vítinha,Goal
+1788,108,1. FC Union Berlin,Away,82,substitution,Tim Skarke,Janik Haberer
+1789,108,1. FC Union Berlin,Away,82,substitution,Jamie Leweling,Robin Knoche
+1790,108,1. FC Union Berlin,Away,82,substitution,Kevin Behrens,Sheraldo Becker
+1791,108,1. FC Union Berlin,Home,86,substitution,Castro,Vítinha
+1792,108,1. FC Union Berlin,Away,90,yellow-card,Kevin Behrens,
+1793,108,1. FC Union Berlin,Away,95,yellow-card,Julian Ryerson,
+1794,109,HJK,Away,14,red-card,Miro Tenho,
+1795,109,HJK,Away,23,substitution,Matti Peltola,Santeri Hostikka
+1796,109,HJK,Home,25,yellow-card,Roger Ibañez,
+1797,109,HJK,Away,29,yellow-card,Perparim Hetemaj,
+1798,109,HJK,Home,45,substitution,Chris Smalling,Roger Ibañez
+1799,109,HJK,Away,45,substitution,Paulus Arajuuri,Arttu Hoskonen
+1800,109,HJK,Home,45,substitution,Paulo Dybala,Matías Viña
+1801,109,HJK,Away,45,substitution,Aapo Halme,Perparim Hetemaj
+1802,109,HJK,Home,47,goal,Paulo Dybala,Lorenzo Pellegrini
+1803,109,HJK,Home,49,goal,Lorenzo Pellegrini,Goal
+1804,109,HJK,Home,60,yellow-card,Bryan Cristante,
+1805,109,HJK,Home,64,substitution,Mady Camara,Bryan Cristante
+1806,109,HJK,Away,66,substitution,Anthony Olusanya,Pyry Soiri
+1807,109,HJK,Home,68,goal,Andrea Belotti,Nicolò Zaniolo
+1808,109,HJK,Home,69,substitution,Edoardo Bove,Lorenzo Pellegrini
+1809,109,HJK,Away,69,substitution,Nassim Boujellab,Lucas Lingman
+1810,109,HJK,Home,76,substitution,Tammy Abraham,Nicolò Zaniolo
+1811,109,HJK,Away,87,yellow-card,Aapo Halme,
+1812,110,Fenerbahçe,Away,26,goal,Irfan Kahveci,Disallowed goal
+1813,110,Fenerbahçe,Home,52,goal,Martin Terrier,Lovro Majer
+1814,110,Fenerbahçe,Home,54,goal,Lovro Majer,Martin Terrier
+1815,110,Fenerbahçe,Away,57,substitution,Ezgjan Alioski,Luan Peres
+1816,110,Fenerbahçe,Away,60,goal,Irfan Kahveci,Mert Yandaş
+1817,110,Fenerbahçe,Home,64,substitution,Adrien Truffert,Amine Gouiri
+1818,110,Fenerbahçe,Home,65,substitution,Désiré Doué,Kamaldeen Sulemana
+1819,110,Fenerbahçe,Away,66,substitution,Enner Valencia,Michy Batshuayi
+1820,110,Fenerbahçe,Away,67,substitution,Joao Pedro Galvao,Joshua King
+1821,110,Fenerbahçe,Away,67,substitution,Emre Mor,Lincoln
+1822,110,Fenerbahçe,Home,74,substitution,Matthis Abline,Martin Terrier
+1823,110,Fenerbahçe,Home,76,yellow-card,Lovro Majer,
+1824,110,Fenerbahçe,Home,78,substitution,Flavien Tait,Lovro Majer
+1825,110,Fenerbahçe,Home,78,substitution,Jérémy Doku,Lesley Ugochukwu
+1826,110,Fenerbahçe,Home,83,red-card,Hamari Traore,
+1827,110,Fenerbahçe,Away,86,substitution,Diego Rossi,Mert Yandaş
+1828,110,Fenerbahçe,Home,91,yellow-card,Benjamin Bourigeaud,
+1829,110,Fenerbahçe,Away,92,penalty,Enner Valencia,Penalty
+1830,110,Fenerbahçe,Away,93,yellow-card,Joao Pedro Galvao,
+1831,110,Fenerbahçe,Home,93,yellow-card,Arthur Theate,
+1832,110,Fenerbahçe,Home,93,yellow-card,Joe Rodon,
+1833,111,Ludogorets,Away,2,yellow-card,Show,
+1834,111,Ludogorets,Home,25,goal,Luiz Henrique,Juan Miranda
+1835,111,Ludogorets,Home,39,goal,Joaquin,Juan Miranda
+1836,111,Ludogorets,Away,41,yellow-card,Kiril Despodov,
+1837,111,Ludogorets,Home,45,yellow-card,Aitor Ruibal,
+1838,111,Ludogorets,Away,46,goal,Kiril Despodov,Goal
+1839,111,Ludogorets,Home,47,yellow-card,Paul Akouokou,
+1840,111,Ludogorets,Away,53,yellow-card,Bernard Tekpetey,
+1841,111,Ludogorets,Home,56,substitution,Guido Rodríguez,Paul Akouokou
+1842,111,Ludogorets,Home,59,goal,Sergio Canales,Goal
+1843,111,Ludogorets,Away,62,substitution,Nonato,Show
+1844,111,Ludogorets,Away,62,substitution,Denny Gropper,Aslak Witry
+1845,111,Ludogorets,Away,69,substitution,Spas Delev,Kiril Despodov
+1846,111,Ludogorets,Away,70,substitution,Rick,Bernard Tekpetey
+1847,111,Ludogorets,Home,72,substitution,Rodri,Joaquin
+1848,111,Ludogorets,Home,73,substitution,Germán Pezzella,Luiz Felipe
+1849,111,Ludogorets,Away,74,goal,Rick,Cauly
+1850,111,Ludogorets,Home,74,yellow-card,Andrés Guardado,
+1851,111,Ludogorets,Away,74,yellow-card,Anton Nedyalkov,
+1852,111,Ludogorets,Away,80,substitution,Matías Tissera,Thiago
+1853,111,Ludogorets,Home,85,substitution,William Carvalho,Luiz Henrique
+1854,111,Ludogorets,Home,85,substitution,Alex Moreno,Sergio Canales
+1855,111,Ludogorets,Home,93,yellow-card,Claudio Bravo,
+1856,112,AEK,Away,8,goal,Ádám Gyurcsó,Goal
+1857,112,AEK,Home,29,goal,Vitalii Buyalskyi,Disallowed goal
+1858,112,AEK,Home,35,yellow-card,Oleksandr Andrievskyi,
+1859,112,AEK,Away,42,yellow-card,Ángel García,
+1860,112,AEK,Away,44,yellow-card,Rafail Mamas,
+1861,112,AEK,Home,45,substitution,Artem Besedin,Denys Garmash
+1862,112,AEK,Away,63,yellow-card,Pere Pons,
+1863,112,AEK,Away,64,substitution,Oier,Rafail Mamas
+1864,112,AEK,Away,64,substitution,Luis Gustavo,Ivan Trichkovski
+1865,112,AEK,Home,67,substitution,Olexandr Karavaev,Tomasz Kędziora
+1866,112,AEK,Home,67,substitution,Volodymyr Shepelev,Oleksandr Andrievskyi
+1867,112,AEK,Away,73,substitution,Rafael Lopes,Victor Olatunji
+1868,112,AEK,Away,74,substitution,Giorgos Naoum,Pere Pons
+1869,112,AEK,Home,76,yellow-card,Serhiy Sydorchuk,
+1870,112,AEK,Away,77,substitution,Nikos Englezou,Ádám Gyurcsó
+1871,112,AEK,Away,83,yellow-card,Kenan Pirić,
+1872,112,AEK,Home,84,substitution,Vladyslav Vanat,Vladyslav Kabaev
+1873,113,FC Zürich,Home,17,yellow-card,Marius Lode,
+1874,113,FC Zürich,Home,45,substitution,Runar Espejord,Lars Salvesen
+1875,113,FC Zürich,Away,51,yellow-card,Ole Selnæs,
+1876,113,FC Zürich,Home,54,goal,Ole Selnæs,Own goal
+1877,113,FC Zürich,Home,58,goal,Hugo Vetlesen,Ola Solbakken
+1878,113,FC Zürich,Away,60,yellow-card,Tosin Aiyegun,
+1879,113,FC Zürich,Away,61,substitution,Donis Avdijaj,Fabian Rohner
+1880,113,FC Zürich,Away,61,substitution,Antonio Marchesano,Bledian Krasniqi
+1881,113,FC Zürich,Home,67,substitution,Amahl Pellegrino,Joel Mvuka
+1882,113,FC Zürich,Away,71,substitution,Bohdan Viunnyk,Jonathan Okita
+1883,113,FC Zürich,Away,71,substitution,Cheick Condé,Blerim Dzemaili
+1884,113,FC Zürich,Home,77,substitution,Isak Amundsen,Marius Lode
+1885,113,FC Zürich,Home,77,substitution,Albert Grønbæk,Ola Solbakken
+1886,113,FC Zürich,Away,81,goal,Donis Avdijaj,Ole Selnæs
+1887,113,FC Zürich,Away,82,substitution,Ivan Santini,Tosin Aiyegun
+1888,114,Red Star Belgrade,Away,6,yellow-card,Kings Kangwa,
+1889,114,Red Star Belgrade,Home,16,goal,Marek Hamsik,Trezeguet
+1890,114,Red Star Belgrade,Away,45,substitution,Aleksandar Katai,Slavoljub Srnić
+1891,114,Red Star Belgrade,Home,50,yellow-card,Djaniny,
+1892,114,Red Star Belgrade,Away,52,yellow-card,Sekou Sanogo,
+1893,114,Red Star Belgrade,Away,59,substitution,Kalifa Coulibaly,Aleksandar Pesic
+1894,114,Red Star Belgrade,Away,59,substitution,Ibrahim Mustapha,Sekou Sanogo
+1895,114,Red Star Belgrade,Home,61,substitution,Enis Bardhi,Marek Hamsik
+1896,114,Red Star Belgrade,Home,61,substitution,Abdülkadir Ömür,Maxi Gómez
+1897,114,Red Star Belgrade,Away,63,yellow-card,Kings Kangwa,
+1898,114,Red Star Belgrade,Home,68,goal,Trezeguet,Anastasios Bakasetas
+1899,114,Red Star Belgrade,Home,69,substitution,Vitor Hugo,Jens Stryger Larsen
+1900,114,Red Star Belgrade,Away,70,substitution,Veljko Nikolić,Osman Bukari
+1901,114,Red Star Belgrade,Home,79,substitution,Umut Bozok,Djaniny
+1902,114,Red Star Belgrade,Home,79,substitution,Mountassir Lahtimi,Abdülkadir Ömür
+1903,114,Red Star Belgrade,Away,83,yellow-card,Aleksandar Katai,
+1904,114,Red Star Belgrade,Away,84,substitution,Radovan Pankov,Guélor Kanga
+1905,114,Red Star Belgrade,Away,89,goal,Veljko Nikolić,Ibrahim Mustapha
+1906,114,Red Star Belgrade,Home,90,yellow-card,Eren Elmalı,
+1907,115,Manchester United,Away,17,goal,Jadon Sancho,Christian Eriksen
+1908,115,Manchester United,Home,38,yellow-card,Patrick Kpozo,
+1909,115,Manchester United,Away,39,penalty,Cristiano Ronaldo,Penalty
+1910,115,Manchester United,Away,45,substitution,Casemiro,Scott McTominay
+1911,115,Manchester United,Home,63,yellow-card,Iyayi Atiemwen,
+1912,115,Manchester United,Away,70,substitution,Luke Shaw,Diogo Dalot
+1913,115,Manchester United,Home,73,substitution,Felipe Vizeu,Rasheed Akanbi
+1914,115,Manchester United,Home,73,substitution,Pernambuco,Abou Ouattara
+1915,115,Manchester United,Away,81,substitution,Anthony Elanga,Cristiano Ronaldo
+1916,115,Manchester United,Home,81,substitution,Mudasiru Salifu,Iyayi Atiemwen
+1917,115,Manchester United,Away,90,substitution,Alejandro Garnacho,Antony
+1918,115,Manchester United,Away,90,substitution,Harry Maguire,Lisandro Martínez
+1919,116,Omonia,Away,2,yellow-card,Mikkel Diskerud,
+1920,116,Omonia,Away,13,substitution,Charalampos Charalampous,Moreto Cassamá
+1921,116,Omonia,Home,30,goal,Ander Guevara,Goal
+1922,116,Omonia,Away,51,substitution,Adam Lang,Héctor Yuste
+1923,116,Omonia,Home,61,substitution,Takefusa Kubo,Mohamed Cho
+1924,116,Omonia,Home,61,substitution,Alexander Sorloth,Jon Karrikaburu
+1925,116,Omonia,Home,61,substitution,Robert Navarro,Mikel Merino
+1926,116,Omonia,Away,65,substitution,Fotios Papoulis,Mikkel Diskerud
+1927,116,Omonia,Away,65,substitution,Bruno Felipe,Karim Ansarifard
+1928,116,Omonia,Away,65,substitution,Adam Matthews,Paris Psaltis
+1929,116,Omonia,Away,72,goal,Bruno Felipe,Goal
+1930,116,Omonia,Home,75,substitution,Beñat Turrientes,Asier Illarramendi
+1931,116,Omonia,Home,75,substitution,Andoni Gorosabel,Álex Sola
+1932,116,Omonia,Home,80,goal,Alexander Sorloth,Takefusa Kubo
+1933,116,Omonia,Away,83,yellow-card,Fouad Bachirou,
+1934,116,Omonia,Home,86,yellow-card,Igor Zubeldia,
+1935,116,Omonia,Away,92,yellow-card,Adam Lang,
+1936,117,SC Freiburg,Away,5,goal,Nicolas Höfler,Vincenzo Grifo
+1937,117,SC Freiburg,Away,25,goal,Michael Gregoritsch,Daniel-Kofi Kyereh
+1938,117,SC Freiburg,Home,45,substitution,Pierre Kunde,Panagiotis Retsos
+1939,117,SC Freiburg,Home,45,substitution,Oleg Reabciuk,Andreas Bouchalakis
+1940,117,SC Freiburg,Away,52,goal,Michael Gregoritsch,Matthias Ginter
+1941,117,SC Freiburg,Away,61,yellow-card,Philipp Lienhart,
+1942,117,SC Freiburg,Away,62,substitution,Jeong Woo-yeong,Daniel-Kofi Kyereh
+1943,117,SC Freiburg,Away,62,substitution,Kevin Schade,Michael Gregoritsch
+1944,117,SC Freiburg,Home,63,substitution,Youssef El Arabi,Josh Bowler
+1945,117,SC Freiburg,Home,63,substitution,Garry Rodrigues,Giorgos Masouras
+1946,117,SC Freiburg,Away,69,substitution,Nils Petersen,Ritsu Dōan
+1947,117,SC Freiburg,Home,71,substitution,Pipa,Sime Vrsaljko
+1948,117,SC Freiburg,Home,77,yellow-card,Garry Rodrigues,
+1949,117,SC Freiburg,Away,78,substitution,Lukas Kübler,Kiliann Sildillia
+1950,117,SC Freiburg,Away,78,substitution,Yannik Keitel,Vincenzo Grifo
+1951,117,SC Freiburg,Away,80,yellow-card,Nicolas Höfler,
+1952,118,Ferencváros,Home,45,substitution,Ruben Aguilar,Vanderson
+1953,118,Ferencváros,Home,45,substitution,Maghnes Akliouche,Krépin Diatta
+1954,118,Ferencváros,Away,63,substitution,Amer Gojak,Tokmac Nguen
+1955,118,Ferencváros,Away,64,substitution,Franck Boli,Ryan Mmaee
+1956,118,Ferencváros,Home,66,substitution,Breel Embolo,Wissam Ben Yedder
+1957,118,Ferencváros,Away,69,yellow-card,Muhamed Besic,
+1958,118,Ferencváros,Away,70,substitution,Bálint Vécsei,Muhamed Besic
+1959,118,Ferencváros,Home,73,substitution,Ismail Jakobs,Aleksandr Golovin
+1960,118,Ferencváros,Home,77,yellow-card,Breel Embolo,
+1961,118,Ferencváros,Away,79,goal,Bálint Vécsei,Adama Traoré
+1962,118,Ferencváros,Home,81,substitution,Myron Boadu,Malang Sarr
+1963,118,Ferencváros,Away,90,substitution,Anderson Esiti,Kristoffer Zachariassen
+1964,118,Ferencváros,Away,94,yellow-card,Adama Traoré,
+1965,119,Sturm,Away,8,yellow-card,Gregory Wüthrich,
+1966,119,Sturm,Home,9,goal,Alireza Jahanbakhsh,Orkun Kökçü
+1967,119,Sturm,Away,13,yellow-card,Jon Gorenc-Stankovic,
+1968,119,Sturm,Away,19,substitution,Ivan Ljubic,Emanuel Emegha
+1969,119,Sturm,Home,31,goal,Dávid Hancko,Oussama Idrissi
+1970,119,Sturm,Home,34,goal,Danilo,Marcos López
+1971,119,Sturm,Home,41,goal,Alireza Jahanbakhsh,Javairô Dilrosun
+1972,119,Sturm,Away,45,substitution,Dominik Oroz,Jon Gorenc-Stankovic
+1973,119,Sturm,Away,45,substitution,David Affengruber,Gregory Wüthrich
+1974,119,Sturm,Home,53,goal,Alireza Jahanbakhsh,Disallowed goal
+1975,119,Sturm,Home,55,substitution,Quilindschy Hartman,Marcos López
+1976,119,Sturm,Away,63,substitution,Christoph Lang,William Bøving
+1977,119,Sturm,Home,64,substitution,Santiago Giménez,Danilo
+1978,119,Sturm,Home,64,substitution,Patrik Wålemark,Alireza Jahanbakhsh
+1979,119,Sturm,Home,66,goal,Santiago Giménez,Patrik Wålemark
+1980,119,Sturm,Away,72,substitution,Otar Kiteishvili,Tomi Horvat
+1981,119,Sturm,Away,75,yellow-card,David Affengruber,
+1982,119,Sturm,Home,75,substitution,Ezequiel Bullaude,Orkun Kökçü
+1983,119,Sturm,Home,75,substitution,Mats Wieffer,Quinten Timber
+1984,119,Sturm,Home,78,goal,Oussama Idrissi,Ezequiel Bullaude
+1985,120,Nantes,Home,60,goal,Owusu Kwabena,Filip Ozobić
+1986,120,Nantes,Home,62,substitution,Ramil Şeydayev,Filip Ozobić
+1987,120,Nantes,Away,64,substitution,Evann Guessand,Ignatius Ganago
+1988,120,Nantes,Away,64,substitution,Pedro Chirivella,Moussa Sissoko
+1989,120,Nantes,Home,65,goal,Abdellah Zoubir,Kady
+1990,120,Nantes,Home,72,goal,Marko Janković,Qara Qarayev
+1991,120,Nantes,Away,76,substitution,Andrei Girotto,Samuel Moutoussamy
+1992,120,Nantes,Away,76,substitution,Marcus Coco,Moses Simon
+1993,120,Nantes,Away,80,yellow-card,Andrei Girotto,
+1994,120,Nantes,Away,84,substitution,Dennis Appiah,Mostafa Mohamed
+1995,120,Nantes,Home,87,yellow-card,Elvin Cəfərquliyev,
+1996,120,Nantes,Home,88,substitution,Leandro Andrade,Owusu Kwabena
+1997,120,Nantes,Home,88,substitution,Richard Almeyda,Marko Janković
+1998,120,Nantes,Home,89,substitution,Júlio Romão,Qara Qarayev
+1999,120,Nantes,Home,91,substitution,Musa Qurbanlı,Abdellah Zoubir
+2000,121,Lazio,Home,26,goal,Paulinho,Evander
+2001,121,Lazio,Home,30,goal,Sory Kaba,Anders Dreyer
+2002,121,Lazio,Away,52,substitution,Sergej Milinković-Savić,Matías Vecino
+2003,121,Lazio,Home,52,penalty,Evander,Penalty
+2004,121,Lazio,Away,52,substitution,Adam Marušić,Stefan Radu
+2005,121,Lazio,Away,53,substitution,Matteo Cancellieri,Pedro
+2006,121,Lazio,Home,56,yellow-card,Paulinho,
+2007,121,Lazio,Away,57,goal,Sergej Milinković-Savić,Ciro Immobile
+2008,121,Lazio,Home,61,yellow-card,Jonas Lössl,
+2009,121,Lazio,Home,62,substitution,Charles,Emiliano Martínez
+2010,121,Lazio,Home,62,substitution,Pione Sisto,Anders Dreyer
+2011,121,Lazio,Home,67,penalty,Evander,Missed penalty
+2012,121,Lazio,Home,67,goal,Gustav Isaksen,Goal
+2013,121,Lazio,Away,69,substitution,Marcos Antônio,Danilo Cataldi
+2014,121,Lazio,Away,70,yellow-card,Alessio Romagnoli,
+2015,121,Lazio,Home,72,goal,Erik Sviatchenko,Evander
+2016,121,Lazio,Away,76,substitution,Luka Romero,Ciro Immobile
+2017,121,Lazio,Home,77,substitution,Edward Chilufya,Gustav Isaksen
+2018,121,Lazio,Home,87,substitution,Valdemar Byskov,Sory Kaba
+2019,122,Midtjylland,Home,8,goal,Emanuel Emegha,Amadou Danté
+2020,122,Midtjylland,Home,40,yellow-card,Emanuel Emegha,
+2021,122,Midtjylland,Home,42,penalty,Tomi Horvat,Missed penalty
+2022,122,Midtjylland,Away,57,substitution,Kristoffer Olsson,Oliver Sørensen
+2023,122,Midtjylland,Home,63,substitution,Mohammed Fuseini,William Bøving
+2024,122,Midtjylland,Home,64,yellow-card,Stefan Hierländer,
+2025,122,Midtjylland,Home,70,substitution,Albian Ajeti,Emanuel Emegha
+2026,122,Midtjylland,Away,70,substitution,Emiliano Martínez,Pione Sisto
+2027,122,Midtjylland,Home,73,yellow-card,Stefan Hierländer,
+2028,122,Midtjylland,Home,78,substitution,Ivan Ljubic,Tomi Horvat
+2029,122,Midtjylland,Home,79,substitution,Dominik Oroz,Jon Gorenc-Stankovic
+2030,122,Midtjylland,Away,81,substitution,Mads Thychosen,Paulinho
+2031,122,Midtjylland,Away,81,substitution,Edward Chilufya,Henrik Dalsgaard
+2032,122,Midtjylland,Home,90,yellow-card,Ivan Ljubic,
+2033,122,Midtjylland,Away,92,yellow-card,Gustav Isaksen,
+2034,122,Midtjylland,Home,92,yellow-card,Jusuf Gazibegović,
+2035,122,Midtjylland,Home,96,yellow-card,Albian Ajeti,
+2036,123,Qarabağ,Away,6,yellow-card,Toral Bayramov,
+2037,123,Qarabağ,Home,7,penalty,Vincenzo Grifo,Penalty
+2038,123,Qarabağ,Home,15,goal,Ritsu Dōan,Maximilian Eggestein
+2039,123,Qarabağ,Away,39,goal,Marko Vesovic,Owusu Kwabena
+2040,123,Qarabağ,Home,47,yellow-card,Vincenzo Grifo,
+2041,123,Qarabağ,Home,51,yellow-card,Ritsu Dōan,
+2042,123,Qarabağ,Home,71,substitution,Michael Gregoritsch,Nils Petersen
+2043,123,Qarabağ,Home,71,substitution,Daniel-Kofi Kyereh,Vincenzo Grifo
+2044,123,Qarabağ,Away,76,substitution,Júlio Romão,Ramil Şeydayev
+2045,123,Qarabağ,Away,77,substitution,Richard Almeyda,Qara Qarayev
+2046,123,Qarabağ,Away,82,yellow-card,Abdellah Zoubir,
+2047,123,Qarabağ,Away,84,substitution,Leandro Andrade,Marko Janković
+2048,123,Qarabağ,Home,88,substitution,Noah Weißhaupt,Jeong Woo-yeong
+2049,123,Qarabağ,Away,92,substitution,Elvin Cəfərquliyev,Toral Bayramov
+2050,123,Qarabağ,Home,93,substitution,Yannik Keitel,Ritsu Dōan
+2051,123,Qarabağ,Away,94,yellow-card,Owusu Kwabena,
+2052,124,Sheriff,Away,2,goal,Rasheed Akanbi,Maksym Koval
+2053,124,Sheriff,Away,8,yellow-card,Rasheed Akanbi,
+2054,124,Sheriff,Home,45,substitution,Francis Uzoho,Fabiano
+2055,124,Sheriff,Home,54,yellow-card,Adam Lang,
+2056,124,Sheriff,Away,55,penalty,Iyayi Atiemwen,Penalty
+2057,124,Sheriff,Away,56,yellow-card,Iyayi Atiemwen,
+2058,124,Sheriff,Home,73,substitution,Fotios Papoulis,Moreto Cassamá
+2059,124,Sheriff,Home,73,substitution,Karim Ansarifard,Brandon Barker
+2060,124,Sheriff,Away,74,substitution,Mudasiru Salifu,Iyayi Atiemwen
+2061,124,Sheriff,Away,76,goal,Mouhamed Diop,Rasheed Akanbi
+2062,124,Sheriff,Home,81,substitution,Roman Bezus,Bruno Felipe
+2063,124,Sheriff,Home,82,substitution,Ioannis Kousoulos,Charalampos Charalampous
+2064,124,Sheriff,Home,83,goal,Roman Bezus,Disallowed goal
+2065,124,Sheriff,Home,85,yellow-card,Roman Bezus,
+2066,124,Sheriff,Away,89,yellow-card,Mudasiru Salifu,
+2067,124,Sheriff,Away,94,substitution,Pernambuco,Abou Ouattara
+2068,124,Sheriff,Away,95,substitution,Felipe Vizeu,Rasheed Akanbi
+2069,124,Sheriff,Away,97,yellow-card,Patrick Kpozo,
+2070,124,Sheriff,Away,100,substitution,Renan Guedes,Armel Zohouri
+2071,124,Sheriff,Away,100,substitution,Heron,Patrick Kpozo
+2072,125,Olympiacos,Home,32,goal,Mostafa Mohamed,Ludovic Blas
+2073,125,Olympiacos,Away,50,goal,Samuel Moutoussamy,Own goal
+2074,125,Olympiacos,Away,56,yellow-card,Panagiotis Retsos,
+2075,125,Olympiacos,Away,59,substitution,Josh Bowler,Giorgos Masouras
+2076,125,Olympiacos,Home,69,substitution,Moses Simon,Ignatius Ganago
+2077,125,Olympiacos,Home,69,substitution,Moussa Sissoko,Samuel Moutoussamy
+2078,125,Olympiacos,Home,72,yellow-card,Moussa Sissoko,
+2079,125,Olympiacos,Away,77,substitution,Aboubakar Kamara,Hwang Ui-jo
+2080,125,Olympiacos,Home,82,goal,Evann Guessand,Disallowed goal
+2081,125,Olympiacos,Home,85,yellow-card,Nicolas Pallois,
+2082,125,Olympiacos,Away,86,substitution,Youssef El Arabi,Pep Biel
+2083,125,Olympiacos,Home,92,yellow-card,Ludovic Blas,
+2084,125,Olympiacos,Away,92,yellow-card,Oleg Reabciuk,
+2085,125,Olympiacos,Home,93,goal,Evann Guessand,Ludovic Blas
+2086,126,Real Sociedad,Home,45,substitution,Bruno Fernandes,Christian Eriksen
+2087,126,Real Sociedad,Away,45,substitution,Alexander Sorloth,Umar Sadiq
+2088,126,Real Sociedad,Home,45,substitution,Lisandro Martínez,Diogo Dalot
+2089,126,Real Sociedad,Home,57,yellow-card,Lisandro Martínez,
+2090,126,Real Sociedad,Away,59,penalty,Brais Mendez,Penalty
+2091,126,Real Sociedad,Away,60,yellow-card,David Silva,
+2092,126,Real Sociedad,Away,65,substitution,Mohamed Cho,David Silva
+2093,126,Real Sociedad,Away,70,yellow-card,Aihen Muñoz,
+2094,126,Real Sociedad,Home,71,substitution,Jadon Sancho,Antony
+2095,126,Real Sociedad,Home,71,substitution,Alejandro Garnacho,Anthony Elanga
+2096,126,Real Sociedad,Away,78,substitution,Barrenetxea,Takefusa Kubo
+2097,126,Real Sociedad,Home,83,yellow-card,Fred,
+2098,126,Real Sociedad,Home,83,substitution,Charlie McNeill,Tyrell Malacia
+2099,126,Real Sociedad,Away,84,substitution,Beñat Turrientes,Brais Mendez
+2100,126,Real Sociedad,Away,84,substitution,Álex Sola,Andoni Gorosabel
+2101,126,Real Sociedad,Away,89,yellow-card,Beñat Turrientes,
+2102,127,Feyenoord,Home,4,goal,Luis Alberto,Matías Vecino
+2103,127,Feyenoord,Home,8,yellow-card,Felipe Anderson,
+2104,127,Feyenoord,Home,15,goal,Felipe Anderson,Ciro Immobile
+2105,127,Feyenoord,Home,28,goal,Matías Vecino,Goal
+2106,127,Feyenoord,Away,45,substitution,Alireza Jahanbakhsh,Sebastian Szymański
+2107,127,Feyenoord,Home,63,goal,Matías Vecino,Luis Alberto
+2108,127,Feyenoord,Away,64,substitution,Mats Wieffer,Javairô Dilrosun
+2109,127,Feyenoord,Away,64,substitution,Santiago Giménez,Danilo
+2110,127,Feyenoord,Away,69,penalty,Santiago Giménez,Penalty
+2111,127,Feyenoord,Home,69,substitution,Toma Bašić,Luis Alberto
+2112,127,Feyenoord,Away,69,substitution,Oussama Idrissi,Patrik Wålemark
+2113,127,Feyenoord,Home,70,substitution,Matteo Cancellieri,Ciro Immobile
+2114,127,Feyenoord,Home,70,substitution,Sergej Milinković-Savić,Matías Vecino
+2115,127,Feyenoord,Home,73,substitution,Patric Gabarron,Alessio Romagnoli
+2116,127,Feyenoord,Home,76,substitution,Stefan Radu,Adam Marušić
+2117,127,Feyenoord,Away,78,yellow-card,Oussama Idrissi,
+2118,127,Feyenoord,Away,86,substitution,Igor Paixão,Quinten Timber
+2119,127,Feyenoord,Away,88,goal,Santiago Giménez,Goal
+2120,128,Trabzonspor,Home,5,goal,Tokmac Nguen,Bálint Vécsei
+2121,128,Trabzonspor,Home,16,red-card,Eldar Ćivić,
+2122,128,Trabzonspor,Home,20,substitution,Endre Botka,Franck Boli
+2123,128,Trabzonspor,Home,29,goal,Adama Traoré,Tokmac Nguen
+2124,128,Trabzonspor,Away,39,goal,Maxi Gómez,Anastasios Bakasetas
+2125,128,Trabzonspor,Home,41,yellow-card,Muhamed Besic,
+2126,128,Trabzonspor,Away,42,yellow-card,Enis Bardhi,
+2127,128,Trabzonspor,Home,44,penalty,Tokmac Nguen,Penalty
+2128,128,Trabzonspor,Away,45,substitution,Eren Elmalı,Vitor Hugo
+2129,128,Trabzonspor,Away,45,substitution,Yusuf Yazıcı,Enis Bardhi
+2130,128,Trabzonspor,Away,45,substitution,Marek Hamsik,Jean Gbamin
+2131,128,Trabzonspor,Away,60,substitution,Umut Bozok,Abdülkadir Ömür
+2132,128,Trabzonspor,Away,71,goal,Umut Bozok,Maxi Gómez
+2133,128,Trabzonspor,Away,72,substitution,Djaniny,Stefano Denswil
+2134,128,Trabzonspor,Home,76,substitution,Aïssa Laïdouni,Bálint Vécsei
+2135,128,Trabzonspor,Home,76,substitution,Amer Gojak,Tokmac Nguen
+2136,128,Trabzonspor,Home,80,yellow-card,Henry Wingo,
+2137,128,Trabzonspor,Home,86,yellow-card,Denes Dibusz,
+2138,128,Trabzonspor,Away,87,goal,Yusuf Yazıcı,Disallowed goal
+2139,128,Trabzonspor,Home,90,substitution,Adnan Kovačević,Muhamed Besic
+2140,128,Trabzonspor,Home,92,yellow-card,Mats Knoester,
+2141,129,Monaco,Home,7,yellow-card,Aleksandar Dragovic,
+2142,129,Monaco,Away,18,yellow-card,Benoît Badiashile,
+2143,129,Monaco,Away,43,yellow-card,Takumi Minamino,
+2144,129,Monaco,Home,45,yellow-card,Aleksandar Pesic,
+2145,129,Monaco,Home,54,substitution,El Fardou Ben Mohamed,Aleksandar Pesic
+2146,129,Monaco,Away,57,substitution,Krépin Diatta,Takumi Minamino
+2147,129,Monaco,Away,57,substitution,Jean Lucas,Youssouf Fofana
+2148,129,Monaco,Away,66,substitution,Breel Embolo,Wissam Ben Yedder
+2149,129,Monaco,Away,69,yellow-card,Aleksandr Golovin,
+2150,129,Monaco,Away,74,penalty,Breel Embolo,Penalty
+2151,129,Monaco,Home,76,substitution,Veljko Nikolić,Slavoljub Srnić
+2152,129,Monaco,Away,83,substitution,Ismail Jakobs,Aleksandr Golovin
+2153,129,Monaco,Home,87,substitution,Kalifa Coulibaly,Aleksandar Katai
+2154,129,Monaco,Home,87,substitution,Stefan Mitrović,Sekou Sanogo
+2155,129,Monaco,Home,89,yellow-card,Nemanja Milunović,
+2156,130,R. Union SG,Away,39,goal,Senne Lynen,Victor Boniface
+2157,130,R. Union SG,Home,51,yellow-card,Christopher Trimmel,
+2158,130,R. Union SG,Home,60,substitution,András Schäfer,Genki Haraguchi
+2159,130,R. Union SG,Home,60,substitution,Sven Michel,Kevin Behrens
+2160,130,R. Union SG,Away,69,substitution,Cameron Puertas,Jose Rodriguez
+2161,130,R. Union SG,Home,69,substitution,Tim Skarke,Janik Haberer
+2162,130,R. Union SG,Home,70,substitution,Julian Ryerson,Christopher Trimmel
+2163,130,R. Union SG,Away,75,substitution,Simon Adingra,Dante Vanzeir
+2164,130,R. Union SG,Away,79,yellow-card,Loïc Lapoussin,
+2165,130,R. Union SG,Home,82,substitution,Jamie Leweling,Danilho Doekhi
+2166,130,R. Union SG,Away,83,substitution,Dennis Eckert,Victor Boniface
+2167,130,R. Union SG,Home,90,yellow-card,András Schäfer,
+2168,130,R. Union SG,Home,96,red-card,Sven Michel,
+2169,131,Bodø/Glimt,Away,44,goal,Albert Grønbæk,Patrick Berg
+2170,131,Bodø/Glimt,Away,48,yellow-card,Patrick Berg,
+2171,131,Bodø/Glimt,Home,56,yellow-card,Cody Gakpo,
+2172,131,Bodø/Glimt,Away,58,substitution,Lars Salvesen,Runar Espejord
+2173,131,Bodø/Glimt,Home,62,substitution,Sávio,Ismael Saibari
+2174,131,Bodø/Glimt,Home,62,goal,Cody Gakpo,Anwar El Ghazi
+2175,131,Bodø/Glimt,Home,62,substitution,Anwar El Ghazi,Yorbe Vertessen
+2176,131,Bodø/Glimt,Away,70,substitution,Isak Amundsen,Marius Lode
+2177,131,Bodø/Glimt,Away,74,yellow-card,Isak Amundsen,
+2178,131,Bodø/Glimt,Away,91,yellow-card,Nikita Haikin,
+2179,131,Bodø/Glimt,Home,94,yellow-card,Xavi Simons,
+2180,132,Braga,Home,12,yellow-card,Erdal Rakip,
+2181,132,Braga,Home,25,substitution,Mohamed Turay,Erdal Rakip
+2182,132,Braga,Away,30,goal,Bruno Rodrigues,Paulo Oliveira
+2183,132,Braga,Home,45,substitution,Ola Toivonen,Isaac Thelin
+2184,132,Braga,Home,45,substitution,Sergio Peña,Oscar Lewicki
+2185,132,Braga,Away,48,goal,Vítinha,Disallowed goal
+2186,132,Braga,Home,56,substitution,Joseph Ceesay,Felix Beijmo
+2187,132,Braga,Away,57,yellow-card,Vítinha,
+2188,132,Braga,Away,61,substitution,Álvaro Djaló,Vítinha
+2189,132,Braga,Away,70,penalty,Ricardo Horta,Penalty
+2190,132,Braga,Away,74,substitution,Uroš Račić,Andre Horta
+2191,132,Braga,Away,74,substitution,Rodrigo Gomes,Diego Lainez
+2192,132,Braga,Home,78,yellow-card,Martin Olsson,
+2193,132,Braga,Home,80,yellow-card,Mohamed Turay,
+2194,132,Braga,Home,84,yellow-card,Niklas Moisander,
+2195,132,Braga,Away,85,yellow-card,Nuno Sequeira,
+2196,132,Braga,Away,85,substitution,Cristián Borja,Nuno Sequeira
+2197,132,Braga,Away,85,substitution,Castro,Ricardo Horta
+2198,132,Braga,Home,88,substitution,Jonas Knudsen,Martin Olsson
+2199,132,Braga,Home,96,yellow-card,Jonas Knudsen,
+2200,133,Roma,Home,38,yellow-card,Show,
+2201,133,Roma,Home,52,yellow-card,Anton Nedyalkov,
+2202,133,Roma,Away,67,substitution,Eldor Shomurodov,Andrea Belotti
+2203,133,Roma,Away,67,substitution,Leonardo Spinazzola,Zeki Çelik
+2204,133,Roma,Home,68,yellow-card,Jakub Piotrowski,
+2205,133,Roma,Home,71,substitution,Rick,Kiril Despodov
+2206,133,Roma,Home,72,goal,Cauly,Jakub Piotrowski
+2207,133,Roma,Away,75,substitution,Edoardo Bove,Bryan Cristante
+2208,133,Roma,Away,75,substitution,Cristian Volpato,Gianluca Mancini
+2209,133,Roma,Away,76,substitution,Mady Camara,Nemanja Matic
+2210,133,Roma,Home,77,substitution,Nonato,Show
+2211,133,Roma,Away,86,goal,Eldor Shomurodov,Lorenzo Pellegrini
+2212,133,Roma,Home,86,substitution,Spas Delev,Cauly
+2213,133,Roma,Home,87,substitution,Georgi Terziev,Aslak Witry
+2214,133,Roma,Home,88,goal,Nonato,Rick
+2215,134,Real Betis,Away,6,substitution,Rodri,Juanmi
+2216,134,Real Betis,Away,25,yellow-card,Victor Ruiz,
+2217,134,Real Betis,Home,47,yellow-card,Nassim Boujellab,
+2218,134,Real Betis,Away,48,penalty,Willian Jose,Penalty
+2219,134,Real Betis,Away,45,substitution,Luiz Felipe,Victor Ruiz
+2220,134,Real Betis,Away,48,yellow-card,Germán Pezzella,
+2221,134,Real Betis,Away,48,yellow-card,Luiz Felipe,
+2222,134,Real Betis,Away,60,substitution,Sergio Canales,Joaquin
+2223,134,Real Betis,Away,64,goal,Willian Jose,Goal
+2224,134,Real Betis,Home,68,goal,Lucas Lingman,Disallowed goal
+2225,134,Real Betis,Home,74,substitution,Anthony Olusanya,Malik Abubakari
+2226,134,Real Betis,Home,74,substitution,Casper Terho,Pyry Soiri
+2227,134,Real Betis,Home,74,substitution,Murilo,Nassim Boujellab
+2228,134,Real Betis,Away,75,substitution,Guido Rodríguez,William Carvalho
+2229,134,Real Betis,Away,75,substitution,Andrés Guardado,Luiz Henrique
+2230,134,Real Betis,Home,87,substitution,Matti Peltola,Arttu Hoskonen
+2231,134,Real Betis,Home,88,substitution,Perparim Hetemaj,Lucas Lingman
+2232,135,Dynamo Kyiv,Away,11,yellow-card,Denys Garmash,
+2233,135,Dynamo Kyiv,Home,35,goal,Gustavo Henrique,Diego Rossi
+2234,135,Dynamo Kyiv,Home,50,yellow-card,Joshua King,
+2235,135,Dynamo Kyiv,Away,59,substitution,Kostiantyn Vivcharenko,Vladyslav Dubinchak
+2236,135,Dynamo Kyiv,Away,63,goal,Viktor Tsygankov,Vitalii Buyalskyi
+2237,135,Dynamo Kyiv,Away,68,substitution,Volodymyr Shepelev,Mykola Shaparenko
+2238,135,Dynamo Kyiv,Home,68,yellow-card,Diego Rossi,
+2239,135,Dynamo Kyiv,Home,69,substitution,Michy Batshuayi,Joao Pedro Galvao
+2240,135,Dynamo Kyiv,Home,69,substitution,Enner Valencia,Joshua King
+2241,135,Dynamo Kyiv,Home,69,substitution,Irfan Kahveci,Diego Rossi
+2242,135,Dynamo Kyiv,Home,72,yellow-card,Mert Yandaş,
+2243,135,Dynamo Kyiv,Away,78,yellow-card,Oleksandr Syrota,
+2244,135,Dynamo Kyiv,Home,82,yellow-card,Ezgjan Alioski,
+2245,135,Dynamo Kyiv,Home,83,substitution,Mert Yandaş,Miguel Crespo
+2246,135,Dynamo Kyiv,Home,83,substitution,Lincoln,Ezgjan Alioski
+2247,135,Dynamo Kyiv,Away,87,yellow-card,Heorhii Bushchan,
+2248,135,Dynamo Kyiv,Away,88,substitution,Mykyta Kravchenko,Denys Garmash
+2249,135,Dynamo Kyiv,Home,92,goal,Michy Batshuayi,Goal
+2250,135,Dynamo Kyiv,Home,96,yellow-card,Altay Bayındır,
+2251,136,Rennes,Away,29,goal,Arthur Theate,Kamaldeen Sulemana
+2252,136,Rennes,Home,33,goal,Oier,Roberto Rosales
+2253,136,Rennes,Home,45,substitution,Kypros Christoforou,Roberto Rosales
+2254,136,Rennes,Away,57,substitution,Martin Terrier,Birger Meling
+2255,136,Rennes,Away,58,substitution,Benjamin Bourigeaud,Matthis Abline
+2256,136,Rennes,Home,63,substitution,Ádám Gyurcsó,Omri Altman
+2257,136,Rennes,Away,68,yellow-card,Baptiste Santamaría,
+2258,136,Rennes,Home,79,substitution,Pere Pons,Ivan Trichkovski
+2259,136,Rennes,Home,80,substitution,Rafael Lopes,Victor Olatunji
+2260,136,Rennes,Away,83,substitution,Lorenz Assignon,Lovro Majer
+2261,136,Rennes,Home,89,yellow-card,Kypros Christoforou,
+2262,136,Rennes,Home,93,substitution,Giorgos Naoum,Imad Faraj
+2263,136,Rennes,Away,94,goal,Lorenz Assignon,Kamaldeen Sulemana
+2264,137,Arsenal,Away,16,goal,Marquinhos,Goal
+2265,137,Arsenal,Home,18,yellow-card,Mirlind Kryeziu,
+2266,137,Arsenal,Home,44,penalty,Mirlind Kryeziu,Penalty
+2267,137,Arsenal,Away,62,goal,Edward Nketiah,Marquinhos
+2268,137,Arsenal,Home,67,substitution,Fabian Rohner,Adrián Guerrero
+2269,137,Arsenal,Home,67,substitution,Antonio Marchesano,Bledian Krasniqi
+2270,137,Arsenal,Home,67,substitution,Cheick Condé,Blerim Dzemaili
+2271,137,Arsenal,Away,69,substitution,Olexandr Zinchenko,Kieran Tierney
+2272,137,Arsenal,Away,69,substitution,Bukayo Saka,Marquinhos
+2273,137,Arsenal,Away,69,substitution,Martin Ødegaard,Fábio Vieira
+2274,137,Arsenal,Away,78,substitution,Gabriel Jesus,Edward Nketiah
+2275,137,Arsenal,Home,80,substitution,Donis Avdijaj,Jonathan Okita
+2276,137,Arsenal,Home,80,substitution,Ivan Santini,Tosin Aiyegun
